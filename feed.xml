@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Personal Development Feed (DE)</title>
+    <link>https://{GH_USER}.github.io/inspirational-feed/feed.xml</link>
+    <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 01 Jan 2025 07:05:00 +0000</lastBuildDate>
+    <item>
+      <title>Willkommen beim Inspirations-Feed</title>
+      <link>https://www.zeitblueten.com/news/ziele-visualisieren/</link>
+      <guid isPermaLink="false">welcome-item</guid>
+      <pubDate>Wed, 01 Jan 2025 07:05:00 +0000</pubDate>
+      <category>Selbstentwicklung</category>
+      <description>Dieser Feed liefert dir jeden Tag einen kompakten, inspirierenden Artikel zu Persönlichkeitsentwicklung, Minimalismus, Frugalismus oder Investieren. Abonniere ihn in deinem bevorzugten RSS-Reader und freue dich auf tägliche Impulse mit einer vertrauenswürdigen Quelle zum Weiterlesen.</description>
+    </item>
+  </channel>
+</rss>
