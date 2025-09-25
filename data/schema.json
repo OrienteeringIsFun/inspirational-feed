@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "required": [
+    "title",
+    "body",
+    "url",
+    "category"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80
+    },
+    "body": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 12000,
+      "minWords": 120,
+      "maxWords": 220
+    },
+    "url": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Minimalismus",
+        "Selbstentwicklung",
+        "Frugalismus",
+        "Investieren"
+      ]
+    }
+  },
+  "additionalProperties": false
+}
