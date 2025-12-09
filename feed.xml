@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Journaling für Fokus</title>
+      <description>Journaling ist eine präzise Linse für deinen Fokus, weil Gedanken schriftlich Form gewinnen und Entscheidungen sichtbarer werden. Lege ein Notizbuch mit drei Abschnitten an: Rückblick, Gegenwart und Ausblick, getrennt durch farbige Register. Nutze den Rückblick morgens, um gestern in drei Stichpunkten zu würdigen und Lernerfahrungen klar festzuhalten. Der Gegenwartsbereich dient für Prioritätenlisten, bewusst auf drei Aufgaben begrenzt, ergänzt durch den jeweils benötigten Energiezustand. Im Ausblick formulierst du Visionen, Experimente und Fragen, die dich neugierig halten und dein Lernen strukturieren. Schließe jede Einheit mit einer Skala von eins bis zehn, die deinen Fokus und deine Präsenz bewertet. Ein wöchentlicher Rückblick verbindet die Abschnitte, indem du Trends markierst, Fortschritte feierst und Strategien anpasst. Bewahre Stifte, Marker und Kalender am selben Ort, damit dein Ritual ohne Suchaufwand beginnen kann. Verwende gelegentlich Illustrationen oder Collagen, um Emotionen auszudrücken, die sich schwer in Worte fassen lassen. So wird dein Journal zu einem Kompass, der Klarheit schenkt, Prioritäten schärft und innere Dialoge liebevoll sortiert.</description>
+      <link>https://www.einfachachtsam.de/journaling-fokus-tipps/</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1765258167-5508052914732864700</guid>
+      <pubDate>Tue, 09 Dec 2025 05:29:26 +0000</pubDate>
+      </item>
+    <item>
       <title>Stärkenorientiertes Arbeiten</title>
       <description>Stärkenorientiertes Arbeiten schenkt dir einen Alltag, in dem du Energie gewinnst, statt sie permanent zu verlieren. Beginne mit einem ehrlichen Stärkeninventar, basierend auf Feedback von Freunden, Kollegen und vergangenen Erfolgsgeschichten. Schreibe jede Stärke auf eine Karte, ergänze Beispiele und Situationen, in denen sie besonders sichtbar wurde. Analysiere anschließend deinen Kalender der letzten Wochen und markiere Tätigkeiten, die deine Stärken fordern oder brachliegen lassen. Plane bewusste Experimente, bei denen du ungeliebte Aufgaben delegierst, automatisierst oder mit einer Stärke verbindest. Suche Gespräche mit deinem Team, um Verantwortlichkeiten so anzupassen, dass jeder häufiger in Flow-Momente gelangt. Dokumentiere wöchentlich, welche Aufgaben besonders leicht fielen und wo du außergewöhnliche Ergebnisse erzielt hast. Nutze freie Lernzeiten, um Stärken gezielt auszubauen, etwa durch Kurse, Mentoring oder inspirierende Fachliteratur. Feiere kleine Fortschritte bewusst, damit dein Nervensystem die Verbindung zwischen Stärkenfokus und innerer Stabilität speichert. Mit der Zeit entsteht eine Arbeitsumgebung, die Motivation steigert, Ergebnisse verlässlich verbessert und langfristige Zufriedenheit fördert.</description>
       <link>https://karrierebibel.de/staerken-staerken/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1760160232-5338060618864665184</guid>
       <pubDate>Sat, 11 Oct 2025 05:23:52 +0000</pubDate>
       </item>
-    <item>
-      <title>Rebalancing verstehen</title>
-      <description>Rebalancing hält dein Portfolio in Balance, indem es Zielquoten wiederherstellt und emotionale Entscheidungen reduziert. Lege klare Grenzen fest, etwa fünf Prozent Abweichung, ab der du Anpassungen vornimmst. Prüfe quartalsweise, ob Aktien-, Anleihen- und Cash-Anteile noch deiner Strategie entsprechen. Wenn Aktien stark gestiegen sind, verkaufe einen Teil der Gewinne und investiere in unterrepräsentierte Anlageklassen. Nutze Sparpläne oder frisches Kapital, um Ungleichgewichte sanft zu korrigieren, statt alles sofort umzuschichten. Behalte Steuern und Gebühren im Blick, indem du bevorzugt innerhalb steuerlich günstiger Konten oder Freibeträge umschichtest. Dokumentiere jede Anpassung in einem Rebalancing-Protokoll, das Datum, Grund und ausgeführte Transaktionen festhält. Nutze diese Momente, um deine Risikotoleranz zu überprüfen und sicherzustellen, dass Ziele unverändert gelten. Kommuniziere mit Mitinvestorinnen, falls ihr gemeinsam handelt, damit alle Beteiligten Transparenz und Verständnis behalten. So bleibt dein Portfolio stabil ausgerichtet, während du konsequent auf langfristige Freiheit hinarbeitest.</description>
-      <link>https://www.finanzwesir.com/blog/rebalancing</link>
-      <category>Investieren</category>
-      <guid isPermaLink="false">1760073977-8452480056659285534</guid>
-      <pubDate>Fri, 10 Oct 2025 05:26:16 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 08 Dec 2025 05:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 05:29:26 +0000</lastBuildDate>
     </channel>
   </rss>
