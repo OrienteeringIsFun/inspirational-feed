@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Stärkenorientiertes Arbeiten</title>
+      <description>Stärkenorientiertes Arbeiten schenkt dir einen Alltag, in dem du Energie gewinnst, statt sie permanent zu verlieren. Beginne mit einem ehrlichen Stärkeninventar, basierend auf Feedback von Freunden, Kollegen und vergangenen Erfolgsgeschichten. Schreibe jede Stärke auf eine Karte, ergänze Beispiele und Situationen, in denen sie besonders sichtbar wurde. Analysiere anschließend deinen Kalender der letzten Wochen und markiere Tätigkeiten, die deine Stärken fordern oder brachliegen lassen. Plane bewusste Experimente, bei denen du ungeliebte Aufgaben delegierst, automatisierst oder mit einer Stärke verbindest. Suche Gespräche mit deinem Team, um Verantwortlichkeiten so anzupassen, dass jeder häufiger in Flow-Momente gelangt. Dokumentiere wöchentlich, welche Aufgaben besonders leicht fielen und wo du außergewöhnliche Ergebnisse erzielt hast. Nutze freie Lernzeiten, um Stärken gezielt auszubauen, etwa durch Kurse, Mentoring oder inspirierende Fachliteratur. Feiere kleine Fortschritte bewusst, damit dein Nervensystem die Verbindung zwischen Stärkenfokus und innerer Stabilität speichert. Mit der Zeit entsteht eine Arbeitsumgebung, die Motivation steigert, Ergebnisse verlässlich verbessert und langfristige Zufriedenheit fördert.</description>
+      <link>https://karrierebibel.de/staerken-staerken/</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1765690112-2772142229805275181</guid>
+      <pubDate>Sun, 14 Dec 2025 05:28:32 +0000</pubDate>
+      </item>
+    <item>
       <title>Kreative Freizeitgestaltung</title>
       <description>Frugalismus heißt nicht Verzicht auf Freude, sondern das Entdecken kreativer Freizeitformen, die Budget und Herz gleichermaßen nähren. Stelle eine Liste lokaler kostenloser Angebote zusammen: Bibliothek, Stadtmuseum, Repair-Café, Nachbarschaftsgarten, öffentliche Workshops. Plane Wochenenden mit Themen, etwa Natur, Kultur oder Gemeinschaft, und sammle passende Aktivitäten, die wenig Kosten verursachen. Tauscht mit Freunden Equipment aus, vom Brettspiel bis zum Campingkocher, um Anschaffungen zu reduzieren und Austausch zu fördern. Nutze kreative Challenges, beispielsweise eine Kochrunde mit fünf Zutaten oder eine Fototour durch bislang unbekannte Stadtviertel. Halte Erlebnisse in einem Gemeinschaftstagebuch fest, damit Erinnerungen greifbar bleiben und Ideen für Wiederholungen entstehen. Verknüpfe Freizeit mit Lernen, indem du offene Bildungsangebote nutzt, Podcasts hörst oder Skill-Sharing-Treffen organisierst. Feiere regelmäßig budgetfreundliche Highlights, indem ihr euch gegenseitig erzählt, welcher Moment euch besonders berührt hat. Lege eine kleine Rücklage für spontane Möglichkeiten an, damit ihr außergewöhnliche Chancen trotzdem ergreifen könnt. So entsteht eine Freizeitkultur, die Verbundenheit stärkt, Horizonte erweitert und eure finanzielle Freiheit respektiert.</description>
       <link>https://www.smarticular.net/frugalismus-tipps-freizeit-budgetfreundlich/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1760592351-4436411341539318183</guid>
       <pubDate>Thu, 16 Oct 2025 05:25:51 +0000</pubDate>
       </item>
-    <item>
-      <title>Rituale für ein aufgeräumtes Zuhause</title>
-      <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
-      <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1760505951-999473262998277812</guid>
-      <pubDate>Wed, 15 Oct 2025 05:25:51 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 13 Dec 2025 05:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 05:28:32 +0000</lastBuildDate>
     </channel>
   </rss>
