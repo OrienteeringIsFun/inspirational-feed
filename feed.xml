@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Rebalancing verstehen</title>
+      <description>Rebalancing hält dein Portfolio in Balance, indem es Zielquoten wiederherstellt und emotionale Entscheidungen reduziert. Lege klare Grenzen fest, etwa fünf Prozent Abweichung, ab der du Anpassungen vornimmst. Prüfe quartalsweise, ob Aktien-, Anleihen- und Cash-Anteile noch deiner Strategie entsprechen. Wenn Aktien stark gestiegen sind, verkaufe einen Teil der Gewinne und investiere in unterrepräsentierte Anlageklassen. Nutze Sparpläne oder frisches Kapital, um Ungleichgewichte sanft zu korrigieren, statt alles sofort umzuschichten. Behalte Steuern und Gebühren im Blick, indem du bevorzugt innerhalb steuerlich günstiger Konten oder Freibeträge umschichtest. Dokumentiere jede Anpassung in einem Rebalancing-Protokoll, das Datum, Grund und ausgeführte Transaktionen festhält. Nutze diese Momente, um deine Risikotoleranz zu überprüfen und sicherzustellen, dass Ziele unverändert gelten. Kommuniziere mit Mitinvestorinnen, falls ihr gemeinsam handelt, damit alle Beteiligten Transparenz und Verständnis behalten. So bleibt dein Portfolio stabil ausgerichtet, während du konsequent auf langfristige Freiheit hinarbeitest.</description>
+      <link>https://www.finanzwesir.com/blog/rebalancing</link>
+      <category>Investieren</category>
+      <guid isPermaLink="false">1765776842-7116278670778712033</guid>
+      <pubDate>Mon, 15 Dec 2025 05:34:02 +0000</pubDate>
+      </item>
+    <item>
       <title>Stärkenorientiertes Arbeiten</title>
       <description>Stärkenorientiertes Arbeiten schenkt dir einen Alltag, in dem du Energie gewinnst, statt sie permanent zu verlieren. Beginne mit einem ehrlichen Stärkeninventar, basierend auf Feedback von Freunden, Kollegen und vergangenen Erfolgsgeschichten. Schreibe jede Stärke auf eine Karte, ergänze Beispiele und Situationen, in denen sie besonders sichtbar wurde. Analysiere anschließend deinen Kalender der letzten Wochen und markiere Tätigkeiten, die deine Stärken fordern oder brachliegen lassen. Plane bewusste Experimente, bei denen du ungeliebte Aufgaben delegierst, automatisierst oder mit einer Stärke verbindest. Suche Gespräche mit deinem Team, um Verantwortlichkeiten so anzupassen, dass jeder häufiger in Flow-Momente gelangt. Dokumentiere wöchentlich, welche Aufgaben besonders leicht fielen und wo du außergewöhnliche Ergebnisse erzielt hast. Nutze freie Lernzeiten, um Stärken gezielt auszubauen, etwa durch Kurse, Mentoring oder inspirierende Fachliteratur. Feiere kleine Fortschritte bewusst, damit dein Nervensystem die Verbindung zwischen Stärkenfokus und innerer Stabilität speichert. Mit der Zeit entsteht eine Arbeitsumgebung, die Motivation steigert, Ergebnisse verlässlich verbessert und langfristige Zufriedenheit fördert.</description>
       <link>https://karrierebibel.de/staerken-staerken/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1760678726-8829406697736182678</guid>
       <pubDate>Fri, 17 Oct 2025 05:25:26 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugale Küche mit Genuss</title>
-      <description>Eine frugale Küche bedeutet nicht Verzicht, sondern kreative Planung, die Geschmack, Gesundheit und Budget gleichermaßen achtet. Starte mit einer Wocheninventur: Notiere vorhandene Vorräte, Gewürze und Tiefkühlschätze, bevor du neue Einkäufe planst. Erstelle einen Menüplan mit saisonalen Zutaten, die du über Wochenmärkte, solidarische Landwirtschaft oder Foodsharing-Communities beziehst. Koche Basisgerichte wie Hülsenfrüchtesuppen, Ofengemüse oder Körnerpfannen in großen Portionen und friere individuelle Portionen ein. Nutze Restetage, an denen du kreative Bowls, Wraps oder Aufläufe aus übrig gebliebenen Komponenten gestaltest. Würze bewusst mit Kräutern, Zitrusabrieb und fermentierten Zutaten, um Tiefe zu schaffen, ohne teure Spezialprodukte zu kaufen. Lade Freunde zum gemeinsamen Vorkochen ein, teilt Einkaufskosten, tauscht Rezepte und füllt gemeinsam Vorratsgläser. Dokumentiere Lieblingskombinationen und Kosten pro Portion, damit du Budgetziele mit Genussmomenten sichtbar verbinden kannst. Investiere in langlebige Küchenwerkzeuge, die Reparaturen erlauben, und pflege sie sorgfältig nach jeder Nutzung. So entsteht eine Küche, die Herzen nährt, Ressourcen schont und finanzielle Spielräume liebevoll erweitert.</description>
-      <link>https://utopia.de/ratgeber/meal-prep-vorbereiten-zeit-sparen/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1760592351-4436411341539318183</guid>
-      <pubDate>Thu, 16 Oct 2025 05:25:51 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 14 Dec 2025 05:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 05:34:02 +0000</lastBuildDate>
     </channel>
   </rss>
