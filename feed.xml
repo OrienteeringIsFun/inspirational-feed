@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Journaling für Fokus</title>
+      <description>Journaling ist eine präzise Linse für deinen Fokus, weil Gedanken schriftlich Form gewinnen und Entscheidungen sichtbarer werden. Lege ein Notizbuch mit drei Abschnitten an: Rückblick, Gegenwart und Ausblick, getrennt durch farbige Register. Nutze den Rückblick morgens, um gestern in drei Stichpunkten zu würdigen und Lernerfahrungen klar festzuhalten. Der Gegenwartsbereich dient für Prioritätenlisten, bewusst auf drei Aufgaben begrenzt, ergänzt durch den jeweils benötigten Energiezustand. Im Ausblick formulierst du Visionen, Experimente und Fragen, die dich neugierig halten und dein Lernen strukturieren. Schließe jede Einheit mit einer Skala von eins bis zehn, die deinen Fokus und deine Präsenz bewertet. Ein wöchentlicher Rückblick verbindet die Abschnitte, indem du Trends markierst, Fortschritte feierst und Strategien anpasst. Bewahre Stifte, Marker und Kalender am selben Ort, damit dein Ritual ohne Suchaufwand beginnen kann. Verwende gelegentlich Illustrationen oder Collagen, um Emotionen auszudrücken, die sich schwer in Worte fassen lassen. So wird dein Journal zu einem Kompass, der Klarheit schenkt, Prioritäten schärft und innere Dialoge liebevoll sortiert.</description>
+      <link>https://www.einfachachtsam.de/journaling-fokus-tipps/</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1766035931-2528077505223901312</guid>
+      <pubDate>Thu, 18 Dec 2025 05:32:11 +0000</pubDate>
+      </item>
+    <item>
       <title>Selbstreflexion am Morgen</title>
       <description>Ein bewusst gestalteter Morgen ist ein Labor für Selbstentwicklung, weil er noch unbeschrieben und formbar erscheint. Stell dir einen stillen Tisch bereit, auf dem nur Tagebuch, Stift, Tee und ein warmes Licht warten. Beginne mit drei tiefen Atemzügen, bevor du in kurzen Sätzen notierst, wofür du heute dankbar bist. Wechsle anschließend zur Frage, welches Gefühl dich gestern begleitet hat und welche Lernerkenntnis darin verborgen lag. Formuliere einen Satz, der beschreibt, wie du dich heute erleben möchtest, und wähle dazu eine konkrete Handlung. Schreibe eine kurze Ermutigung an dein zukünftiges Ich, damit du später auf deine heutige Intention zurückgreifen kannst. Beende das Ritual mit einem bewussten Schluck deines Getränks und einem Blick ins Licht, das den Raum erfüllt. Verankere deine Erkenntnisse, indem du einen Timer stellst und die wichtigste Intention noch einmal laut aussprichst. Erlaube dir, das Tagebuch tagsüber kurz aufzuschlagen, um Fortschritte zu markieren oder Kurskorrekturen festzuhalten. So entsteht ein achtsamer Rahmen, der Klarheit schenkt, Selbstführung stärkt und dich freundlich auf den Tag ausrichtet.</description>
       <link>https://www.zeitzuleben.de/morgenritual-selbstreflexion/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1760938033-7096607688941533762</guid>
       <pubDate>Mon, 20 Oct 2025 05:27:12 +0000</pubDate>
       </item>
-    <item>
-      <title>Leichtes Gepäck im Alltag</title>
-      <description>Wenn du deinen Morgen leichter beginnen willst, starte mit einer ruhigen Bestandsaufnahme deiner wichtigsten Räume heute. Notiere ehrlich, welche Gegenstände tatsächlichen Nutzen bringen und welche nur alte Geschichten oder unklare Verpflichtungen tragen. Lass dir anschließend Zeit, jedes Objekt bewusst in die Hand zu nehmen und nach seiner künftigen Aufgabe zu fragen. Werfe nichts übereilt weg, sondern entscheide, ob du es verkaufen, verschenken, spenden oder würdevoll verabschieden möchtest. Indem du diesen Prozess über mehrere Tage verteilst, schützt du deine Energie und würdigst deine bisherigen Lebensabschnitte. Ersetze freiwerdende Flächen bewusst mit Stille, einer frischen Pflanze oder einer klaren Arbeitsfläche für fokussiertes Wirken. Spüre, wie weniger Besitz deine Routinen vereinfacht, Entscheidungen beschleunigt und Platz für neue Erfahrungen oder Beziehungen schafft. Nutze das gewonnene Momentum, um digitale Dokumente ebenso kritisch zu sichten und redundante Dateien sicher zu archivieren. Am Ende steht ein Zuhause, das deine Werte sichtbar macht, deine Aufmerksamkeit fokussiert und deine Zukunft freundlich begrüßt. Feiere jede entschiedene Veränderung mit einem kurzen Atemzug, der dich an deine neue Leichtigkeit erinnert.</description>
-      <link>https://minimalismus.ch/blog/wie-beginne-ich-mit-minimalismus/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1760851552-8895325871957293266</guid>
-      <pubDate>Sun, 19 Oct 2025 05:25:51 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 17 Dec 2025 05:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 05:32:11 +0000</lastBuildDate>
     </channel>
   </rss>
