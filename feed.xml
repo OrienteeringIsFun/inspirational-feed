@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Bewusster Haushaltsplan</title>
+      <description>Ein achtsamer Haushaltsplan lenkt Finanzen so, dass Werte sichtbar werden und Geldströme deine Prioritäten spiegeln. Setze dich monatlich mit allen Kontoauszügen, Quittungen und Verträgen an einen ruhigen Tisch mit klarer Beleuchtung. Kategorisiere Ausgaben nach Grundbedürfnissen, Lebensqualität und Zukunft, um versteckte Gewohnheiten transparent zu machen. Berechne deinen monatlichen Mindestlebensstil und formuliere eine Zielquote, die du gezielt für Investitionen freiräumen möchtest. Nutze Budgethüllen oder digitale Kategorien, damit jeder Euro bewusst eine Aufgabe erhält, bevor er das Konto verlässt. Plane wöchentliche Kontrolltermine, bei denen du Abweichungen erkennst, Ursachen erforschst und Strategien behutsam anpasst. Feiere kreative Einsparungen, indem du sie notierst und das gesparte Geld automatisiert in deinen Zukunftstopf umleitest. Beziehe Mitbewohner oder Familie über transparente Gespräche ein, sodass alle wissen, wie Entscheidungen das gemeinsame Ziel unterstützen. Überprüfe Abos halbjährlich, kündige ruhenden Luxus und verhandle aktiv bessere Konditionen bei Versicherungen oder Tarifen. So entsteht ein finanzfreundlicher Alltag, der Sicherheit schafft, Freiräume ermöglicht und langfristige Wünsche strukturiert erfüllt.</description>
+      <link>https://www.ued.de/haushaltsbuch-fuehren/</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1766986610-7581152386857203071</guid>
+      <pubDate>Mon, 29 Dec 2025 05:36:50 +0000</pubDate>
+      </item>
+    <item>
       <title>Rituale für ein aufgeräumtes Zuhause</title>
       <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
       <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1761888472-6927464092465368903</guid>
       <pubDate>Fri, 31 Oct 2025 05:27:51 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugale Küche mit Genuss</title>
-      <description>Eine frugale Küche bedeutet nicht Verzicht, sondern kreative Planung, die Geschmack, Gesundheit und Budget gleichermaßen achtet. Starte mit einer Wocheninventur: Notiere vorhandene Vorräte, Gewürze und Tiefkühlschätze, bevor du neue Einkäufe planst. Erstelle einen Menüplan mit saisonalen Zutaten, die du über Wochenmärkte, solidarische Landwirtschaft oder Foodsharing-Communities beziehst. Koche Basisgerichte wie Hülsenfrüchtesuppen, Ofengemüse oder Körnerpfannen in großen Portionen und friere individuelle Portionen ein. Nutze Restetage, an denen du kreative Bowls, Wraps oder Aufläufe aus übrig gebliebenen Komponenten gestaltest. Würze bewusst mit Kräutern, Zitrusabrieb und fermentierten Zutaten, um Tiefe zu schaffen, ohne teure Spezialprodukte zu kaufen. Lade Freunde zum gemeinsamen Vorkochen ein, teilt Einkaufskosten, tauscht Rezepte und füllt gemeinsam Vorratsgläser. Dokumentiere Lieblingskombinationen und Kosten pro Portion, damit du Budgetziele mit Genussmomenten sichtbar verbinden kannst. Investiere in langlebige Küchenwerkzeuge, die Reparaturen erlauben, und pflege sie sorgfältig nach jeder Nutzung. So entsteht eine Küche, die Herzen nährt, Ressourcen schont und finanzielle Spielräume liebevoll erweitert.</description>
-      <link>https://utopia.de/ratgeber/meal-prep-vorbereiten-zeit-sparen/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1761801985-137697437086033376</guid>
-      <pubDate>Thu, 30 Oct 2025 05:26:25 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 28 Dec 2025 05:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 05:36:50 +0000</lastBuildDate>
     </channel>
   </rss>
