@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Ressourcenorientierte Pausen</title>
+      <description>Pausen sind keine Unterbrechung, sondern die Werkstatt, in der sich deine Ressourcen regenerieren und wachsen dürfen. Plane sie bewusst wie Termine, inklusive kurzer Beschreibung, welches Bedürfnis die Pause erfüllen soll. Unterscheide körperliche, mentale und emotionale Pausen, damit du passgenau das wählst, was dir Energie schenkt. Stelle dir Erinnerungen im Kalender, die dich freundlich daran erinnern, rechtzeitig aus dem Arbeitsmodus auszusteigen. Nutze kurze Atemübungen, Dehnungen oder einen Spaziergang um den Block, um Körper und Geist zu resetten. Für mentale Pausen eignen sich Mikro-Journaling, Brain-Dumps oder ein Puzzle, das deine Aufmerksamkeit spielerisch umlenkt. Emotionale Pausen darfst du mit Musik, Kontakt zu Freunden oder einem inspirierenden Text füllen, der dich nährt. Reflektiere abends, welche Pausenart den größten Effekt hatte und wie du sie morgen noch stimmiger gestalten kannst. Kommuniziere deinem Umfeld, dass Pausen Teil deiner Arbeitsstrategie sind, damit sich niemand über deine Abwesenheit wundert. So werden Pausen zu kraftvollen Ritualen, die Kreativität erneuern, Belastbarkeit erhöhen und deine Lebensqualität stabilisieren.</description>
+      <link>https://karrierebibel.de/pause-machen/</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1767159215-854342123779034918</guid>
+      <pubDate>Wed, 31 Dec 2025 05:33:34 +0000</pubDate>
+      </item>
+    <item>
       <title>Nachhaltige Investments gestalten</title>
       <description>Nachhaltiges Investieren verbindet Rendite mit Verantwortung, indem dein Kapital Unternehmen stärkt, die soziale und ökologische Standards erfüllen. Definiere deine Werte schriftlich: Umwelt, Soziales, Governance, damit du später Produkte bewusst vergleichen kannst. Recherchiere Siegel, Nachhaltigkeitsratings und Ausschlusskriterien seriöser Anbieter, um Greenwashing zu vermeiden. Achte auf transparente Berichte, die CO₂-Fußabdrücke, Lieferketten und Stimmrechtsstrategien offenlegen. Nutze Fonds oder ETFs, die zu deinen Kriterien passen, und prüfe ihre Kosten sowie die Replikationsmethode. Erstelle eine schriftliche Investmentpolicy, die festlegt, welche Branchen ausgeschlossen bleiben und welche Wirkung du anstrebst. Überwache dein Portfolio regelmäßig mithilfe von Nachhaltigkeitsreports und passe es an, wenn Unternehmen gegen deine Leitlinien verstoßen. Kombiniere nachhaltige Anlagen mit Spenden oder Engagement, etwa durch Stimmrechtsausübung oder Unterstützung wirkungsorientierter Initiativen. Tausche dich mit Communitys aus, die Erfahrungen teilen und seriöse Informationsquellen kuratieren, um informiert zu bleiben. So investierst du mit gutem Gewissen, förderst Wandel und baust gleichzeitig verlässlich Vermögen auf.</description>
       <link>https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sustainable-finance/nachhaltig-anlegen-so-funktioniert-es-60195</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1762061162-5343006671213726570</guid>
       <pubDate>Sun, 02 Nov 2025 05:26:02 +0000</pubDate>
       </item>
-    <item>
-      <title>Rituale für ein aufgeräumtes Zuhause</title>
-      <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
-      <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1761974722-2545827776531699405</guid>
-      <pubDate>Sat, 01 Nov 2025 05:25:21 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 30 Dec 2025 05:32:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 05:33:34 +0000</lastBuildDate>
     </channel>
   </rss>
