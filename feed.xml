@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Digitaler Minimalismus Schritt für Schritt</title>
+      <description>Unsere Bildschirme sind laut, doch wirkliche Klarheit entsteht, wenn jede digitale Oberfläche deine Werte sichtbar unterstützt. Beginne mit einer ruhigen Stunde, in der du Benachrichtigungen kategorisch prüfst und konsequent unnötige Quellen deaktivierst. Ordne anschließend deine wichtigsten Apps nach funktionalen Gruppen und belasse nur Werkzeuge, die Kreativität, Gesundheit oder Beziehungen stärken. Verschiebe unterhaltende Anwendungen bewusst in einen separaten Ordner, damit du sie nur zu geplanten Zeiten öffnest. Übertrage denselben Ansatz auf dein E-Mail-Postfach, indem du Filter, Kurzantworten und feste Bearbeitungsfenster einrichtest. Speichere wichtige Dokumente in klar strukturierten Ordnern mit sprechenden Namen und wöchentlicher Sicherung auf ein externes Medium. Schenke dir außerdem bildschirmfreie Inseln, beispielsweise die erste Stunde nach dem Aufstehen oder jeden Sonntagabend. Nutze freiwerdende Zeit für analoge Notizen, Spaziergänge oder Gespräche, die deine Intuition stärken und Beziehungen vertiefen. Dokumentiere wöchentlich, wie sich dein Fokus verändert, welche Projekte vorankommen und welche digitalen Quellen weiterhin Sinn stiften. So entsteht ein bewusst kuratierter Digitalraum, der dir Energie schenkt, statt dich mit endlosen Ablenkungen zu belasten.</description>
+      <link>https://digitalminimalism.net/dein-digitaler-fruehjahrsputz/</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1767332042-5693644739272243919</guid>
+      <pubDate>Fri, 02 Jan 2026 05:34:02 +0000</pubDate>
+      </item>
+    <item>
       <title>Nachhaltige Investments gestalten</title>
       <description>Nachhaltiges Investieren verbindet Rendite mit Verantwortung, indem dein Kapital Unternehmen stärkt, die soziale und ökologische Standards erfüllen. Definiere deine Werte schriftlich: Umwelt, Soziales, Governance, damit du später Produkte bewusst vergleichen kannst. Recherchiere Siegel, Nachhaltigkeitsratings und Ausschlusskriterien seriöser Anbieter, um Greenwashing zu vermeiden. Achte auf transparente Berichte, die CO₂-Fußabdrücke, Lieferketten und Stimmrechtsstrategien offenlegen. Nutze Fonds oder ETFs, die zu deinen Kriterien passen, und prüfe ihre Kosten sowie die Replikationsmethode. Erstelle eine schriftliche Investmentpolicy, die festlegt, welche Branchen ausgeschlossen bleiben und welche Wirkung du anstrebst. Überwache dein Portfolio regelmäßig mithilfe von Nachhaltigkeitsreports und passe es an, wenn Unternehmen gegen deine Leitlinien verstoßen. Kombiniere nachhaltige Anlagen mit Spenden oder Engagement, etwa durch Stimmrechtsausübung oder Unterstützung wirkungsorientierter Initiativen. Tausche dich mit Communitys aus, die Erfahrungen teilen und seriöse Informationsquellen kuratieren, um informiert zu bleiben. So investierst du mit gutem Gewissen, förderst Wandel und baust gleichzeitig verlässlich Vermögen auf.</description>
       <link>https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sustainable-finance/nachhaltig-anlegen-so-funktioniert-es-60195</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1762234061-8027424046695325499</guid>
       <pubDate>Tue, 04 Nov 2025 05:27:41 +0000</pubDate>
       </item>
-    <item>
-      <title>Journaling für Fokus</title>
-      <description>Journaling ist eine präzise Linse für deinen Fokus, weil Gedanken schriftlich Form gewinnen und Entscheidungen sichtbarer werden. Lege ein Notizbuch mit drei Abschnitten an: Rückblick, Gegenwart und Ausblick, getrennt durch farbige Register. Nutze den Rückblick morgens, um gestern in drei Stichpunkten zu würdigen und Lernerfahrungen klar festzuhalten. Der Gegenwartsbereich dient für Prioritätenlisten, bewusst auf drei Aufgaben begrenzt, ergänzt durch den jeweils benötigten Energiezustand. Im Ausblick formulierst du Visionen, Experimente und Fragen, die dich neugierig halten und dein Lernen strukturieren. Schließe jede Einheit mit einer Skala von eins bis zehn, die deinen Fokus und deine Präsenz bewertet. Ein wöchentlicher Rückblick verbindet die Abschnitte, indem du Trends markierst, Fortschritte feierst und Strategien anpasst. Bewahre Stifte, Marker und Kalender am selben Ort, damit dein Ritual ohne Suchaufwand beginnen kann. Verwende gelegentlich Illustrationen oder Collagen, um Emotionen auszudrücken, die sich schwer in Worte fassen lassen. So wird dein Journal zu einem Kompass, der Klarheit schenkt, Prioritäten schärft und innere Dialoge liebevoll sortiert.</description>
-      <link>https://www.einfachachtsam.de/journaling-fokus-tipps/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1762147693-6725348667073829246</guid>
-      <pubDate>Mon, 03 Nov 2025 05:28:12 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 01 Jan 2026 05:35:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 05:34:02 +0000</lastBuildDate>
     </channel>
   </rss>
