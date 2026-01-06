@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Minimalistische Mobilität</title>
+      <description>Frugalismus in der Mobilität bedeutet, Wege bewusst zu gestalten, sodass Zeit, Geld und Umwelt gleichermaßen profitieren. Analysiere deine regelmäßigen Strecken und prüfe, welche du kombinieren, delegieren oder durch Remote-Arbeit ersetzen kannst. Teste eine Woche lang, alle Wege unter fünf Kilometern mit Fahrrad, ÖPNV oder Carsharing zu absolvieren. Vergleiche anschließend Kosten, Reisezeit und Energielevel, um bewusste Entscheidungen für langfristige Mobilitätsabos zu treffen. Wartungstermine für Fahrräder oder geteilte Fahrzeuge planst du frühzeitig, damit Zuverlässigkeit und Sicherheit gewährleistet bleiben. Nutze Mitfahrgelegenheiten für längere Strecken und kombiniere sie mit produktiven Hörbüchern oder inspirierenden Gesprächen. Investiere stattdessen in hochwertige Ausrüstung wie Regenkleidung, Beleuchtung und Gepäcksysteme, die deinen Alltag erleichtern. Halte deine Mobilitätskosten in einem Monatsjournal fest und feiere Einsparungen, indem du sie auf Ziele umleitest. Teile Erfahrungen mit Freunden, um neue Routen, Fahrgemeinschaften oder Ticketmodelle zu entdecken, die allen zugutekommen. So wird Mobilität zum bewussten Baustein deiner finanziellen Freiheit, statt zum ständigen Kostenfaktor im Hintergrund.</description>
+      <link>https://utopia.de/ratgeber/mobilitaet-alternativen-auto/</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1767677628-5662361844818702066</guid>
+      <pubDate>Tue, 06 Jan 2026 05:33:48 +0000</pubDate>
+      </item>
+    <item>
       <title>Bewusster Haushaltsplan</title>
       <description>Ein achtsamer Haushaltsplan lenkt Finanzen so, dass Werte sichtbar werden und Geldströme deine Prioritäten spiegeln. Setze dich monatlich mit allen Kontoauszügen, Quittungen und Verträgen an einen ruhigen Tisch mit klarer Beleuchtung. Kategorisiere Ausgaben nach Grundbedürfnissen, Lebensqualität und Zukunft, um versteckte Gewohnheiten transparent zu machen. Berechne deinen monatlichen Mindestlebensstil und formuliere eine Zielquote, die du gezielt für Investitionen freiräumen möchtest. Nutze Budgethüllen oder digitale Kategorien, damit jeder Euro bewusst eine Aufgabe erhält, bevor er das Konto verlässt. Plane wöchentliche Kontrolltermine, bei denen du Abweichungen erkennst, Ursachen erforschst und Strategien behutsam anpasst. Feiere kreative Einsparungen, indem du sie notierst und das gesparte Geld automatisiert in deinen Zukunftstopf umleitest. Beziehe Mitbewohner oder Familie über transparente Gespräche ein, sodass alle wissen, wie Entscheidungen das gemeinsame Ziel unterstützen. Überprüfe Abos halbjährlich, kündige ruhenden Luxus und verhandle aktiv bessere Konditionen bei Versicherungen oder Tarifen. So entsteht ein finanzfreundlicher Alltag, der Sicherheit schafft, Freiräume ermöglicht und langfristige Wünsche strukturiert erfüllt.</description>
       <link>https://www.ued.de/haushaltsbuch-fuehren/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1762579529-5807236274692676714</guid>
       <pubDate>Sat, 08 Nov 2025 05:25:29 +0000</pubDate>
       </item>
-    <item>
-      <title>Ressourcenorientierte Pausen</title>
-      <description>Pausen sind keine Unterbrechung, sondern die Werkstatt, in der sich deine Ressourcen regenerieren und wachsen dürfen. Plane sie bewusst wie Termine, inklusive kurzer Beschreibung, welches Bedürfnis die Pause erfüllen soll. Unterscheide körperliche, mentale und emotionale Pausen, damit du passgenau das wählst, was dir Energie schenkt. Stelle dir Erinnerungen im Kalender, die dich freundlich daran erinnern, rechtzeitig aus dem Arbeitsmodus auszusteigen. Nutze kurze Atemübungen, Dehnungen oder einen Spaziergang um den Block, um Körper und Geist zu resetten. Für mentale Pausen eignen sich Mikro-Journaling, Brain-Dumps oder ein Puzzle, das deine Aufmerksamkeit spielerisch umlenkt. Emotionale Pausen darfst du mit Musik, Kontakt zu Freunden oder einem inspirierenden Text füllen, der dich nährt. Reflektiere abends, welche Pausenart den größten Effekt hatte und wie du sie morgen noch stimmiger gestalten kannst. Kommuniziere deinem Umfeld, dass Pausen Teil deiner Arbeitsstrategie sind, damit sich niemand über deine Abwesenheit wundert. So werden Pausen zu kraftvollen Ritualen, die Kreativität erneuern, Belastbarkeit erhöhen und deine Lebensqualität stabilisieren.</description>
-      <link>https://karrierebibel.de/pause-machen/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1762493255-8257019213068748055</guid>
-      <pubDate>Fri, 07 Nov 2025 05:27:34 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 05 Jan 2026 05:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 05:33:48 +0000</lastBuildDate>
     </channel>
   </rss>
