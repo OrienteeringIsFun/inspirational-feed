@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugale Küche mit Genuss</title>
+      <description>Eine frugale Küche bedeutet nicht Verzicht, sondern kreative Planung, die Geschmack, Gesundheit und Budget gleichermaßen achtet. Starte mit einer Wocheninventur: Notiere vorhandene Vorräte, Gewürze und Tiefkühlschätze, bevor du neue Einkäufe planst. Erstelle einen Menüplan mit saisonalen Zutaten, die du über Wochenmärkte, solidarische Landwirtschaft oder Foodsharing-Communities beziehst. Koche Basisgerichte wie Hülsenfrüchtesuppen, Ofengemüse oder Körnerpfannen in großen Portionen und friere individuelle Portionen ein. Nutze Restetage, an denen du kreative Bowls, Wraps oder Aufläufe aus übrig gebliebenen Komponenten gestaltest. Würze bewusst mit Kräutern, Zitrusabrieb und fermentierten Zutaten, um Tiefe zu schaffen, ohne teure Spezialprodukte zu kaufen. Lade Freunde zum gemeinsamen Vorkochen ein, teilt Einkaufskosten, tauscht Rezepte und füllt gemeinsam Vorratsgläser. Dokumentiere Lieblingskombinationen und Kosten pro Portion, damit du Budgetziele mit Genussmomenten sichtbar verbinden kannst. Investiere in langlebige Küchenwerkzeuge, die Reparaturen erlauben, und pflege sie sorgfältig nach jeder Nutzung. So entsteht eine Küche, die Herzen nährt, Ressourcen schont und finanzielle Spielräume liebevoll erweitert.</description>
+      <link>https://utopia.de/ratgeber/meal-prep-vorbereiten-zeit-sparen/</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1768282437-5501890077400917256</guid>
+      <pubDate>Tue, 13 Jan 2026 05:33:57 +0000</pubDate>
+      </item>
+    <item>
       <title>Rituale für ein aufgeräumtes Zuhause</title>
       <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
       <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1763184360-343427759442914852</guid>
       <pubDate>Sat, 15 Nov 2025 05:26:00 +0000</pubDate>
       </item>
-    <item>
-      <title>Digitaler Minimalismus Schritt für Schritt</title>
-      <description>Unsere Bildschirme sind laut, doch wirkliche Klarheit entsteht, wenn jede digitale Oberfläche deine Werte sichtbar unterstützt. Beginne mit einer ruhigen Stunde, in der du Benachrichtigungen kategorisch prüfst und konsequent unnötige Quellen deaktivierst. Ordne anschließend deine wichtigsten Apps nach funktionalen Gruppen und belasse nur Werkzeuge, die Kreativität, Gesundheit oder Beziehungen stärken. Verschiebe unterhaltende Anwendungen bewusst in einen separaten Ordner, damit du sie nur zu geplanten Zeiten öffnest. Übertrage denselben Ansatz auf dein E-Mail-Postfach, indem du Filter, Kurzantworten und feste Bearbeitungsfenster einrichtest. Speichere wichtige Dokumente in klar strukturierten Ordnern mit sprechenden Namen und wöchentlicher Sicherung auf ein externes Medium. Schenke dir außerdem bildschirmfreie Inseln, beispielsweise die erste Stunde nach dem Aufstehen oder jeden Sonntagabend. Nutze freiwerdende Zeit für analoge Notizen, Spaziergänge oder Gespräche, die deine Intuition stärken und Beziehungen vertiefen. Dokumentiere wöchentlich, wie sich dein Fokus verändert, welche Projekte vorankommen und welche digitalen Quellen weiterhin Sinn stiften. So entsteht ein bewusst kuratierter Digitalraum, der dir Energie schenkt, statt dich mit endlosen Ablenkungen zu belasten.</description>
-      <link>https://digitalminimalism.net/dein-digitaler-fruehjahrsputz/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1763098053-2184455350988211026</guid>
-      <pubDate>Fri, 14 Nov 2025 05:27:33 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 12 Jan 2026 05:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:33:57 +0000</lastBuildDate>
     </channel>
   </rss>
