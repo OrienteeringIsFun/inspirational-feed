@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Rituale für ein aufgeräumtes Zuhause</title>
+      <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
+      <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1768368855-3816812738816663212</guid>
+      <pubDate>Wed, 14 Jan 2026 05:34:14 +0000</pubDate>
+      </item>
+    <item>
       <title>Frugale Küche mit Genuss</title>
       <description>Eine frugale Küche bedeutet nicht Verzicht, sondern kreative Planung, die Geschmack, Gesundheit und Budget gleichermaßen achtet. Starte mit einer Wocheninventur: Notiere vorhandene Vorräte, Gewürze und Tiefkühlschätze, bevor du neue Einkäufe planst. Erstelle einen Menüplan mit saisonalen Zutaten, die du über Wochenmärkte, solidarische Landwirtschaft oder Foodsharing-Communities beziehst. Koche Basisgerichte wie Hülsenfrüchtesuppen, Ofengemüse oder Körnerpfannen in großen Portionen und friere individuelle Portionen ein. Nutze Restetage, an denen du kreative Bowls, Wraps oder Aufläufe aus übrig gebliebenen Komponenten gestaltest. Würze bewusst mit Kräutern, Zitrusabrieb und fermentierten Zutaten, um Tiefe zu schaffen, ohne teure Spezialprodukte zu kaufen. Lade Freunde zum gemeinsamen Vorkochen ein, teilt Einkaufskosten, tauscht Rezepte und füllt gemeinsam Vorratsgläser. Dokumentiere Lieblingskombinationen und Kosten pro Portion, damit du Budgetziele mit Genussmomenten sichtbar verbinden kannst. Investiere in langlebige Küchenwerkzeuge, die Reparaturen erlauben, und pflege sie sorgfältig nach jeder Nutzung. So entsteht eine Küche, die Herzen nährt, Ressourcen schont und finanzielle Spielräume liebevoll erweitert.</description>
       <link>https://utopia.de/ratgeber/meal-prep-vorbereiten-zeit-sparen/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1763270796-6209961030797961857</guid>
       <pubDate>Sun, 16 Nov 2025 05:26:36 +0000</pubDate>
       </item>
-    <item>
-      <title>Minimalistische Mobilität</title>
-      <description>Frugalismus in der Mobilität bedeutet, Wege bewusst zu gestalten, sodass Zeit, Geld und Umwelt gleichermaßen profitieren. Analysiere deine regelmäßigen Strecken und prüfe, welche du kombinieren, delegieren oder durch Remote-Arbeit ersetzen kannst. Teste eine Woche lang, alle Wege unter fünf Kilometern mit Fahrrad, ÖPNV oder Carsharing zu absolvieren. Vergleiche anschließend Kosten, Reisezeit und Energielevel, um bewusste Entscheidungen für langfristige Mobilitätsabos zu treffen. Wartungstermine für Fahrräder oder geteilte Fahrzeuge planst du frühzeitig, damit Zuverlässigkeit und Sicherheit gewährleistet bleiben. Nutze Mitfahrgelegenheiten für längere Strecken und kombiniere sie mit produktiven Hörbüchern oder inspirierenden Gesprächen. Investiere stattdessen in hochwertige Ausrüstung wie Regenkleidung, Beleuchtung und Gepäcksysteme, die deinen Alltag erleichtern. Halte deine Mobilitätskosten in einem Monatsjournal fest und feiere Einsparungen, indem du sie auf Ziele umleitest. Teile Erfahrungen mit Freunden, um neue Routen, Fahrgemeinschaften oder Ticketmodelle zu entdecken, die allen zugutekommen. So wird Mobilität zum bewussten Baustein deiner finanziellen Freiheit, statt zum ständigen Kostenfaktor im Hintergrund.</description>
-      <link>https://utopia.de/ratgeber/mobilitaet-alternativen-auto/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1763184360-343427759442914852</guid>
-      <pubDate>Sat, 15 Nov 2025 05:26:00 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 13 Jan 2026 05:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 05:34:14 +0000</lastBuildDate>
     </channel>
   </rss>
