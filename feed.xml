@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Selbstreflexion am Morgen</title>
+      <description>Ein bewusst gestalteter Morgen ist ein Labor für Selbstentwicklung, weil er noch unbeschrieben und formbar erscheint. Stell dir einen stillen Tisch bereit, auf dem nur Tagebuch, Stift, Tee und ein warmes Licht warten. Beginne mit drei tiefen Atemzügen, bevor du in kurzen Sätzen notierst, wofür du heute dankbar bist. Wechsle anschließend zur Frage, welches Gefühl dich gestern begleitet hat und welche Lernerkenntnis darin verborgen lag. Formuliere einen Satz, der beschreibt, wie du dich heute erleben möchtest, und wähle dazu eine konkrete Handlung. Schreibe eine kurze Ermutigung an dein zukünftiges Ich, damit du später auf deine heutige Intention zurückgreifen kannst. Beende das Ritual mit einem bewussten Schluck deines Getränks und einem Blick ins Licht, das den Raum erfüllt. Verankere deine Erkenntnisse, indem du einen Timer stellst und die wichtigste Intention noch einmal laut aussprichst. Erlaube dir, das Tagebuch tagsüber kurz aufzuschlagen, um Fortschritte zu markieren oder Kurskorrekturen festzuhalten. So entsteht ein achtsamer Rahmen, der Klarheit schenkt, Selbstführung stärkt und dich freundlich auf den Tag ausrichtet.</description>
+      <link>https://www.zeitzuleben.de/morgenritual-selbstreflexion/</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1769146598-4705807814500615852</guid>
+      <pubDate>Fri, 23 Jan 2026 05:36:37 +0000</pubDate>
+      </item>
+    <item>
       <title>Ressourcenorientierte Pausen</title>
       <description>Pausen sind keine Unterbrechung, sondern die Werkstatt, in der sich deine Ressourcen regenerieren und wachsen dürfen. Plane sie bewusst wie Termine, inklusive kurzer Beschreibung, welches Bedürfnis die Pause erfüllen soll. Unterscheide körperliche, mentale und emotionale Pausen, damit du passgenau das wählst, was dir Energie schenkt. Stelle dir Erinnerungen im Kalender, die dich freundlich daran erinnern, rechtzeitig aus dem Arbeitsmodus auszusteigen. Nutze kurze Atemübungen, Dehnungen oder einen Spaziergang um den Block, um Körper und Geist zu resetten. Für mentale Pausen eignen sich Mikro-Journaling, Brain-Dumps oder ein Puzzle, das deine Aufmerksamkeit spielerisch umlenkt. Emotionale Pausen darfst du mit Musik, Kontakt zu Freunden oder einem inspirierenden Text füllen, der dich nährt. Reflektiere abends, welche Pausenart den größten Effekt hatte und wie du sie morgen noch stimmiger gestalten kannst. Kommuniziere deinem Umfeld, dass Pausen Teil deiner Arbeitsstrategie sind, damit sich niemand über deine Abwesenheit wundert. So werden Pausen zu kraftvollen Ritualen, die Kreativität erneuern, Belastbarkeit erhöhen und deine Lebensqualität stabilisieren.</description>
       <link>https://karrierebibel.de/pause-machen/</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1764048559-2907806850362808217</guid>
       <pubDate>Tue, 25 Nov 2025 05:29:19 +0000</pubDate>
       </item>
-    <item>
-      <title>Bewusster Haushaltsplan</title>
-      <description>Ein achtsamer Haushaltsplan lenkt Finanzen so, dass Werte sichtbar werden und Geldströme deine Prioritäten spiegeln. Setze dich monatlich mit allen Kontoauszügen, Quittungen und Verträgen an einen ruhigen Tisch mit klarer Beleuchtung. Kategorisiere Ausgaben nach Grundbedürfnissen, Lebensqualität und Zukunft, um versteckte Gewohnheiten transparent zu machen. Berechne deinen monatlichen Mindestlebensstil und formuliere eine Zielquote, die du gezielt für Investitionen freiräumen möchtest. Nutze Budgethüllen oder digitale Kategorien, damit jeder Euro bewusst eine Aufgabe erhält, bevor er das Konto verlässt. Plane wöchentliche Kontrolltermine, bei denen du Abweichungen erkennst, Ursachen erforschst und Strategien behutsam anpasst. Feiere kreative Einsparungen, indem du sie notierst und das gesparte Geld automatisiert in deinen Zukunftstopf umleitest. Beziehe Mitbewohner oder Familie über transparente Gespräche ein, sodass alle wissen, wie Entscheidungen das gemeinsame Ziel unterstützen. Überprüfe Abos halbjährlich, kündige ruhenden Luxus und verhandle aktiv bessere Konditionen bei Versicherungen oder Tarifen. So entsteht ein finanzfreundlicher Alltag, der Sicherheit schafft, Freiräume ermöglicht und langfristige Wünsche strukturiert erfüllt.</description>
-      <link>https://www.ued.de/haushaltsbuch-fuehren/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1763962210-7144391884990982741</guid>
-      <pubDate>Mon, 24 Nov 2025 05:30:10 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 22 Jan 2026 05:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 05:36:37 +0000</lastBuildDate>
     </channel>
   </rss>
