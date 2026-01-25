@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Minimalistische Mobilität</title>
+      <description>Frugalismus in der Mobilität bedeutet, Wege bewusst zu gestalten, sodass Zeit, Geld und Umwelt gleichermaßen profitieren. Analysiere deine regelmäßigen Strecken und prüfe, welche du kombinieren, delegieren oder durch Remote-Arbeit ersetzen kannst. Teste eine Woche lang, alle Wege unter fünf Kilometern mit Fahrrad, ÖPNV oder Carsharing zu absolvieren. Vergleiche anschließend Kosten, Reisezeit und Energielevel, um bewusste Entscheidungen für langfristige Mobilitätsabos zu treffen. Wartungstermine für Fahrräder oder geteilte Fahrzeuge planst du frühzeitig, damit Zuverlässigkeit und Sicherheit gewährleistet bleiben. Nutze Mitfahrgelegenheiten für längere Strecken und kombiniere sie mit produktiven Hörbüchern oder inspirierenden Gesprächen. Investiere stattdessen in hochwertige Ausrüstung wie Regenkleidung, Beleuchtung und Gepäcksysteme, die deinen Alltag erleichtern. Halte deine Mobilitätskosten in einem Monatsjournal fest und feiere Einsparungen, indem du sie auf Ziele umleitest. Teile Erfahrungen mit Freunden, um neue Routen, Fahrgemeinschaften oder Ticketmodelle zu entdecken, die allen zugutekommen. So wird Mobilität zum bewussten Baustein deiner finanziellen Freiheit, statt zum ständigen Kostenfaktor im Hintergrund.</description>
+      <link>https://utopia.de/ratgeber/mobilitaet-alternativen-auto/</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1769319309-233485238152512758</guid>
+      <pubDate>Sun, 25 Jan 2026 05:35:09 +0000</pubDate>
+      </item>
+    <item>
       <title>Risikoprofil entwickeln</title>
       <description>Ein klares Risikoprofil hilft dir, Entscheidungen zu treffen, die Nächte ruhig und Ziele erreichbar halten. Starte mit einer ehrlichen Bilanz deiner finanziellen Situation: Einkommen, Ausgaben, Rücklagen, Verpflichtungen, geplante Anschaffungen. Bewerte deine emotionale Reaktion auf Verluste, indem du Szenarien durchspielst und notierst, wie viel Schwankung du tolerierst. Berücksichtige Lebensziele, Zeitrahmen und Sicherheitspuffer, denn kurzfristige Projekte benötigen andere Strategien als ferne Visionen. Unterteile dein Vermögen in Töpfe: kurzfristig liquide, mittelfristig ausbaufähig, langfristig wachstumsorientiert. Nutze Fragebögen seriöser Institute als Orientierung, überprüfe jedoch, ob die Ergebnisse zu deiner Selbsteinschätzung passen. Sprich mit Vertrauenspersonen über deine Einschätzung, um blinde Flecken zu erkennen und Perspektiven zu erweitern. Halte dein Risikoprofil schriftlich fest und aktualisiere es jährlich oder nach größeren Lebensereignissen. Nutze es als Leitplanke, wenn Märkte schwanken, damit du nicht impulsiv aus Angst oder Euphorie handelst. So entsteht eine stabile Grundlage, die Finanzentscheidungen strukturiert und deinen Weg zur Freiheit unterstützt.</description>
       <link>https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kapitalanlage/risikoprofil-wie-viel-aktie-vertraegst-du-28747</link>
@@ -473,18 +481,10 @@
       <guid isPermaLink="false">1764221364-9121340969592643177</guid>
       <pubDate>Thu, 27 Nov 2025 05:29:23 +0000</pubDate>
       </item>
-    <item>
-      <title>Risikoprofil entwickeln</title>
-      <description>Ein klares Risikoprofil hilft dir, Entscheidungen zu treffen, die Nächte ruhig und Ziele erreichbar halten. Starte mit einer ehrlichen Bilanz deiner finanziellen Situation: Einkommen, Ausgaben, Rücklagen, Verpflichtungen, geplante Anschaffungen. Bewerte deine emotionale Reaktion auf Verluste, indem du Szenarien durchspielst und notierst, wie viel Schwankung du tolerierst. Berücksichtige Lebensziele, Zeitrahmen und Sicherheitspuffer, denn kurzfristige Projekte benötigen andere Strategien als ferne Visionen. Unterteile dein Vermögen in Töpfe: kurzfristig liquide, mittelfristig ausbaufähig, langfristig wachstumsorientiert. Nutze Fragebögen seriöser Institute als Orientierung, überprüfe jedoch, ob die Ergebnisse zu deiner Selbsteinschätzung passen. Sprich mit Vertrauenspersonen über deine Einschätzung, um blinde Flecken zu erkennen und Perspektiven zu erweitern. Halte dein Risikoprofil schriftlich fest und aktualisiere es jährlich oder nach größeren Lebensereignissen. Nutze es als Leitplanke, wenn Märkte schwanken, damit du nicht impulsiv aus Angst oder Euphorie handelst. So entsteht eine stabile Grundlage, die Finanzentscheidungen strukturiert und deinen Weg zur Freiheit unterstützt.</description>
-      <link>https://www.verbraucherzentrale.de/wissen/geld-versicherungen/kapitalanlage/risikoprofil-wie-viel-aktie-vertraegst-du-28747</link>
-      <category>Investieren</category>
-      <guid isPermaLink="false">1764134902-4801716435037465043</guid>
-      <pubDate>Wed, 26 Nov 2025 05:28:22 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 24 Jan 2026 05:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 05:35:09 +0000</lastBuildDate>
     </channel>
   </rss>
