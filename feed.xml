@@ -2,6 +2,18 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein lebenslanger Prozess, der uns ermöglicht, unsere Fähigkeiten, Einstellungen und Verhaltensweisen kontinuierlich zu verbessern. Der erste Schritt in diesem Prozess besteht darin, sich selbst besser kennenzulernen. Dies kann durch Selbstreflexion, Journaling oder Gespräche mit vertrauten Personen geschehen. Wenn wir unsere Stärken und Schwächen erkennen, können wir gezielt an uns arbeiten. Praktiken wie Meditation und Achtsamkeit tragen zusätzlich dazu bei, unser inneres Gleichgewicht zu finden und Stress abzubauen.
+
+Die Suche nach Wissen ist ein weiterer entscheidender Aspekt der Selbstentwicklung. Bücher, Kurse oder Workshops bieten nicht nur neue Perspektiven, sondern auch Werkzeuge, um persönliche Ziele zu erreichen. Es ist wichtig, sich Ziele zu setzen, die sowohl herausfordernd als auch erreichbar sind. Kleine Erfolge motivieren und erfüllen uns mit Selbstvertrauen. 
+
+Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzwerke aus unterstützenden Menschen können inspirierend wirken und neue Möglichkeiten eröffnen. Letztlich ist Selbstentwicklung ein individueller, aber gemeinschaftlicher Weg, der uns hilft, unser volles Potenzial zu entfalten.</description>
+      <link>https://www.example.com/selbstentwicklung</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1769665994-3832742524172508715</guid>
+      <pubDate>Thu, 29 Jan 2026 05:53:13 +0000</pubDate>
+      </item>
+    <item>
       <title>Journaling für Fokus</title>
       <description>Journaling ist eine präzise Linse für deinen Fokus, weil Gedanken schriftlich Form gewinnen und Entscheidungen sichtbarer werden. Lege ein Notizbuch mit drei Abschnitten an: Rückblick, Gegenwart und Ausblick, getrennt durch farbige Register. Nutze den Rückblick morgens, um gestern in drei Stichpunkten zu würdigen und Lernerfahrungen klar festzuhalten. Der Gegenwartsbereich dient für Prioritätenlisten, bewusst auf drei Aufgaben begrenzt, ergänzt durch den jeweils benötigten Energiezustand. Im Ausblick formulierst du Visionen, Experimente und Fragen, die dich neugierig halten und dein Lernen strukturieren. Schließe jede Einheit mit einer Skala von eins bis zehn, die deinen Fokus und deine Präsenz bewertet. Ein wöchentlicher Rückblick verbindet die Abschnitte, indem du Trends markierst, Fortschritte feierst und Strategien anpasst. Bewahre Stifte, Marker und Kalender am selben Ort, damit dein Ritual ohne Suchaufwand beginnen kann. Verwende gelegentlich Illustrationen oder Collagen, um Emotionen auszudrücken, die sich schwer in Worte fassen lassen. So wird dein Journal zu einem Kompass, der Klarheit schenkt, Prioritäten schärft und innere Dialoge liebevoll sortiert.</description>
       <link>https://www.einfachachtsam.de/journaling-fokus-tipps/</link>
@@ -473,18 +485,10 @@
       <guid isPermaLink="false">1764567333-8423201684356260382</guid>
       <pubDate>Mon, 01 Dec 2025 05:35:33 +0000</pubDate>
       </item>
-    <item>
-      <title>Mutige Gespräche führen</title>
-      <description>Mutige Gespräche verändern Beziehungen, weil sie unausgesprochene Spannungen lösen und Raum für gemeinsames Wachstum schaffen. Bereite dich mit einer kurzen Selbstklärung vor: Was ist deine Intention, welches Bedürfnis möchtest du respektvoll ausdrücken? Atme dreimal tief, schreibe die Kernbotschaft auf und prüfe, ob sie sowohl ehrlich als auch freundlich klingt. Wähle einen ruhigen Ort, an dem ihr ungestört seid, und bitte dein Gegenüber offen um Gesprächsbereitschaft. Starte mit einer Beobachtung ohne Bewertung, teile anschließend dein Gefühl und dein Bedürfnis, bevor du eine konkrete Bitte formulierst. Höre aktiv zu, wiederhole zentrale Aussagen deines Gegenübers und frage nach, ob du richtig verstanden hast. Wenn Emotionen hochkochen, vereinbart eine kurze Pause, um eure Nervensysteme zu beruhigen und Klarheit zu bewahren. Beendet das Gespräch mit einer Zusammenfassung der nächsten Schritte und einem Dank für die Offenheit. Reflektiert später, was gut lief, welche Formulierungen hilfreich waren und wo ihr künftig noch mutiger sein möchtet. So entwickelt ihr eine Gesprächskultur, die Vertrauen stärkt, Konflikte verkürzt und gemeinsame Visionen lebendig werden lässt.</description>
-      <link>https://www.palverlag.de/gewaltfreie-kommunikation-tipps.html</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1764480497-98239618758947158</guid>
-      <pubDate>Sun, 30 Nov 2025 05:28:16 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Jan 2026 05:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:53:13 +0000</lastBuildDate>
     </channel>
   </rss>
