@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Weg zu mehr Freiheit</title>
+      <description>Frugalismus ist mehr als nur ein sparsamer Lebensstil; es ist eine bewusste Entscheidung, Ressourcen effizient zu nutzen und sich auf das Wesentliche zu konzentrieren. Für viele Menschen bedeutet dies, ihre Ausgaben drastisch zu reduzieren, um finanzielle Freiheit zu erreichen. Im Mittelpunkt steht die Idee, Geld nicht für materielle Dinge auszugeben, sondern für Erlebnisse und persönliche Weiterentwicklung. Dieser Ansatz fördert ein minimalistisches Leben, das über bloße Möbelstücke und Besitz hinausgeht. Frugalisten investieren in ihre Zukunft, sei es durch Sparpläne oder durch kluge Investitionen. Sie entscheiden sich oft für ein einfacheres Leben, das weniger Stress und mehr Zeit für die wichtigen Dinge im Leben bietet. Es ist eine Philosophie, die viele inspiriert, bewusster zu konsumieren und gleichzeitig die eigenen Werte zu hinterfragen. Indem man sich von überflüssigem Ballast befreit, schafft man Raum für Wachstum und Zufriedenheit. Frugalismus stellt eine wertvolle Alternative in einer konsumorientierten Gesellschaft dar.</description>
+      <link>https://www.example.com/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1769752537-1327090789932509770</guid>
+      <pubDate>Fri, 30 Jan 2026 05:55:36 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein lebenslanger Prozess, der uns ermöglicht, unsere Fähigkeiten, Einstellungen und Verhaltensweisen kontinuierlich zu verbessern. Der erste Schritt in diesem Prozess besteht darin, sich selbst besser kennenzulernen. Dies kann durch Selbstreflexion, Journaling oder Gespräche mit vertrauten Personen geschehen. Wenn wir unsere Stärken und Schwächen erkennen, können wir gezielt an uns arbeiten. Praktiken wie Meditation und Achtsamkeit tragen zusätzlich dazu bei, unser inneres Gleichgewicht zu finden und Stress abzubauen.
 
@@ -477,18 +485,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1764653306-7892860593585692227</guid>
       <pubDate>Tue, 02 Dec 2025 05:28:26 +0000</pubDate>
       </item>
-    <item>
-      <title>Rituale für ein aufgeräumtes Zuhause</title>
-      <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
-      <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1764567333-8423201684356260382</guid>
-      <pubDate>Mon, 01 Dec 2025 05:35:33 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Jan 2026 05:53:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 05:55:36 +0000</lastBuildDate>
     </channel>
   </rss>
