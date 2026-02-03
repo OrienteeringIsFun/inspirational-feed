@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Der Weg zu bewussterem Leben</title>
+      <description>Frugalismus ist mehr als nur eine Sparstrategie; es ist eine Lebensphilosophie, die sich darauf konzentriert, das Wesentliche im Leben zu erkennen und überflüssigen Konsum zu vermeiden. Frugalisten investieren bewusst in ihre Lebensqualität, indem sie einfache, aber erfüllende Entscheidungen treffen. Anstatt Geld für materielle Dinge auszugeben, legen sie Wert auf Erfahrungen und persönliche Entwicklung. Diese Lebensweise ermöglicht nicht nur finanzielle Freiheit, sondern auch mehr Zeit für die Dinge, die wirklich zählen, wie Familie, Freunde und Hobbys. Durch eine kritische Betrachtung des eigenen Konsums lernen Frugalisten, worauf es im Leben wirklich ankommt. Oft führt dies zu einem reduzierten ökologischen Fußabdruck und einem tieferen Verständnis für wirtschaftliche Zusammenhänge. In einer Konsumgesellschaft, die oft Überfluss propagiert, sind Frugalisten die Vorreiter einer neuen, achtsamen und nachhaltigen Lebensweise. Sie inspirieren andere dazu, über den Tellerrand hinauszuschauen und bewusster zu leben.</description>
+      <link>https://www.frugalismus-beispiel.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1770098288-3885102512659237045</guid>
+      <pubDate>Tue, 03 Feb 2026 05:58:08 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung: Schritte zur besseren Version deiner selbst</title>
       <description>Selbstentwicklung ist ein fortlaufender Prozess, der es uns ermöglicht, persönliches Wachstum und Selbstverwirklichung zu erreichen. In einer Welt voller Ablenkungen ist es wichtig, sich auf die eigenen Ziele und Werte zu konzentrieren. Ein erster Schritt besteht darin, sich regelmäßig Zeit für Selbstreflexion zu nehmen. Dies kann durch Journaling, Meditation oder einfach durch das Nachdenken über die eigenen Erfahrungen geschehen. Wichtig ist es, herauszufinden, was uns antreibt und motiviert. Das Setzen von klaren, erreichbaren Zielen hilft dabei, den Fokus zu behalten und Fortschritte messbar zu machen. Darüber hinaus können neue Fähigkeiten erlernt oder bestehende Talente weiterentwickelt werden, was das Selbstvertrauen stärkt. Das Umgeben mit positiven Einflüssen, seien es Bücher, Podcasts oder Menschen, die einen inspirieren, kann ebenfalls einen großen Unterschied machen. Letztlich ist Selbstentwicklung kein Wettlauf, sondern eine Reise, die Zeit und Geduld erfordert.</description>
       <link>https://www.example.com/selbstentwicklung</link>
@@ -477,18 +485,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1764998836-4140910697009022598</guid>
       <pubDate>Sat, 06 Dec 2025 05:27:15 +0000</pubDate>
       </item>
-    <item>
-      <title>Nachhaltige Investments gestalten</title>
-      <description>Nachhaltiges Investieren verbindet Rendite mit Verantwortung, indem dein Kapital Unternehmen stärkt, die soziale und ökologische Standards erfüllen. Definiere deine Werte schriftlich: Umwelt, Soziales, Governance, damit du später Produkte bewusst vergleichen kannst. Recherchiere Siegel, Nachhaltigkeitsratings und Ausschlusskriterien seriöser Anbieter, um Greenwashing zu vermeiden. Achte auf transparente Berichte, die CO₂-Fußabdrücke, Lieferketten und Stimmrechtsstrategien offenlegen. Nutze Fonds oder ETFs, die zu deinen Kriterien passen, und prüfe ihre Kosten sowie die Replikationsmethode. Erstelle eine schriftliche Investmentpolicy, die festlegt, welche Branchen ausgeschlossen bleiben und welche Wirkung du anstrebst. Überwache dein Portfolio regelmäßig mithilfe von Nachhaltigkeitsreports und passe es an, wenn Unternehmen gegen deine Leitlinien verstoßen. Kombiniere nachhaltige Anlagen mit Spenden oder Engagement, etwa durch Stimmrechtsausübung oder Unterstützung wirkungsorientierter Initiativen. Tausche dich mit Communitys aus, die Erfahrungen teilen und seriöse Informationsquellen kuratieren, um informiert zu bleiben. So investierst du mit gutem Gewissen, förderst Wandel und baust gleichzeitig verlässlich Vermögen auf.</description>
-      <link>https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sustainable-finance/nachhaltig-anlegen-so-funktioniert-es-60195</link>
-      <category>Investieren</category>
-      <guid isPermaLink="false">1764912554-1383252518568177995</guid>
-      <pubDate>Fri, 05 Dec 2025 05:29:14 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 02 Feb 2026 06:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 05:58:08 +0000</lastBuildDate>
     </channel>
   </rss>
