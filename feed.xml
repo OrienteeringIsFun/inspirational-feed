@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der das persönliche Wachstum fördert und uns dazu anregt, unsere Potenziale voll auszuschöpfen. Es beginnt mit dem Bewusstsein unserer Stärken und Schwächen. Der erste Schritt besteht darin, sich realistische Ziele zu setzen und aktiv an deren Verwirklichung zu arbeiten. Dies kann durch das Lesen inspirierender Bücher, das Besuchen von Seminaren oder das Praktizieren von Selbstreflexion geschehen. Auch der Austausch mit Gleichgesinnten spielt eine wichtige Rolle. Wir lernen viel von den Erfahrungen anderer und können so unsere eigenen Denkweisen hinterfragen. Achtsamkeit und die Fähigkeit, im Moment zu leben, helfen uns, die Selbstentwicklung zu fördern. Darüber hinaus ist es entscheidend, eine positive Einstellung zu besitzen und Rückschläge als Chancen zur Verbesserung zu betrachten. Es ist eine Reise, die oft herausfordernd ist, jedoch letztlich zu einem erfüllteren und zufriedeneren Leben führt.</description>
+      <link>https://www.selbstentwicklung.com</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1770357678-1756522597426183313</guid>
+      <pubDate>Fri, 06 Feb 2026 06:01:17 +0000</pubDate>
+      </item>
+    <item>
       <title>Minimalismus: Der Weg zu mehr Lebensqualität</title>
       <description>Minimalismus ist nicht nur ein Trend, sondern eine Lebensphilosophie, die sich zunehmend in der heutigen Gesellschaft etabliert. Er bietet eine Möglichkeit, sich von materiellen Ballast zu befreien und die Essenz des Lebens neu zu erkennen. Weniger Besitz bedeutet nicht nur weniger Ordnung zu Hause, sondern auch mehr Raum für die wichtigen Dinge im Leben: Erfahrungen, Beziehungen und persönliche Entfaltung. Durch das Reduzieren auf das Wesentliche können Stress und Ablenkungen verringert werden, was zu einer höheren Lebensqualität führt. Minimalisten streben danach, ihren Besitz auf die Gegenstände zu beschränken, die ihnen wirklich Freude bereiten oder einen praktischen Nutzen haben. Der Fokus liegt auf nachhaltigen und bewussten Entscheidungen. Auch in Zeiten des Konsums bietet Minimalismus eine erfrischende Perspektive: Statt ständig Neues zu erwerben, wird Wert auf das gelegt, was man bereits hat. So entsteht ein Raum für Zufriedenheit und Achtsamkeit, in dem wir uns selbst und die Welt um uns herum besser wahrnehmen können.</description>
       <link>https://www.beispielurl.de/minimalismus</link>
@@ -477,18 +485,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1765258167-5508052914732864700</guid>
       <pubDate>Tue, 09 Dec 2025 05:29:26 +0000</pubDate>
       </item>
-    <item>
-      <title>Stärkenorientiertes Arbeiten</title>
-      <description>Stärkenorientiertes Arbeiten schenkt dir einen Alltag, in dem du Energie gewinnst, statt sie permanent zu verlieren. Beginne mit einem ehrlichen Stärkeninventar, basierend auf Feedback von Freunden, Kollegen und vergangenen Erfolgsgeschichten. Schreibe jede Stärke auf eine Karte, ergänze Beispiele und Situationen, in denen sie besonders sichtbar wurde. Analysiere anschließend deinen Kalender der letzten Wochen und markiere Tätigkeiten, die deine Stärken fordern oder brachliegen lassen. Plane bewusste Experimente, bei denen du ungeliebte Aufgaben delegierst, automatisierst oder mit einer Stärke verbindest. Suche Gespräche mit deinem Team, um Verantwortlichkeiten so anzupassen, dass jeder häufiger in Flow-Momente gelangt. Dokumentiere wöchentlich, welche Aufgaben besonders leicht fielen und wo du außergewöhnliche Ergebnisse erzielt hast. Nutze freie Lernzeiten, um Stärken gezielt auszubauen, etwa durch Kurse, Mentoring oder inspirierende Fachliteratur. Feiere kleine Fortschritte bewusst, damit dein Nervensystem die Verbindung zwischen Stärkenfokus und innerer Stabilität speichert. Mit der Zeit entsteht eine Arbeitsumgebung, die Motivation steigert, Ergebnisse verlässlich verbessert und langfristige Zufriedenheit fördert.</description>
-      <link>https://karrierebibel.de/staerken-staerken/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1765171906-2603863323736954600</guid>
-      <pubDate>Mon, 08 Dec 2025 05:31:46 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 05 Feb 2026 06:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 06:01:17 +0000</lastBuildDate>
     </channel>
   </rss>
