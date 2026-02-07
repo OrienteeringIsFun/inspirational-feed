@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Der Weg zu einem einfacheren Leben</title>
+      <description>Frugalismus ist eine Lebensphilosophie, die sich auf das Wesentliche konzentriert. Es geht darum, bewusster mit Ressourcen umzugehen und materielle Besitztümer zu reduzieren, um finanziellen Spielraum zu schaffen. Frugalisten leben oft nach dem Motto: „Weniger ist mehr“. Diese Bewegung hat in den letzten Jahren an Popularität gewonnen, vor allem bei jungen Menschen, die der Konsumgesellschaft entfliehen möchten. Durch den Verzicht auf überflüssige Ausgaben und den Fokus auf die wirklich wichtigen Dinge im Leben gewinnen sie nicht nur die Kontrolle über ihre Finanzen, sondern auch mehr Zeit für persönliche Entwicklung und Beziehungen. Frugalismus bietet die Möglichkeit, Lebensziele wie Reisen oder finanzielle Unabhängigkeit schneller zu erreichen. Der Einstieg in diese Lebensweise erfordert oft eine grundlegende Umstellung von Denk- und Verhaltensmustern, doch die langfristigen Vorteile sind es wert. Ein bewusster Umgang mit Geld und Besitz kann das Leben erheblich bereichern und zur inneren Zufriedenheit führen.</description>
+      <link>https://www.beispielseite.de/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1770443495-1332068283604289421</guid>
+      <pubDate>Sat, 07 Feb 2026 05:51:34 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der das persönliche Wachstum fördert und uns dazu anregt, unsere Potenziale voll auszuschöpfen. Es beginnt mit dem Bewusstsein unserer Stärken und Schwächen. Der erste Schritt besteht darin, sich realistische Ziele zu setzen und aktiv an deren Verwirklichung zu arbeiten. Dies kann durch das Lesen inspirierender Bücher, das Besuchen von Seminaren oder das Praktizieren von Selbstreflexion geschehen. Auch der Austausch mit Gleichgesinnten spielt eine wichtige Rolle. Wir lernen viel von den Erfahrungen anderer und können so unsere eigenen Denkweisen hinterfragen. Achtsamkeit und die Fähigkeit, im Moment zu leben, helfen uns, die Selbstentwicklung zu fördern. Darüber hinaus ist es entscheidend, eine positive Einstellung zu besitzen und Rückschläge als Chancen zur Verbesserung zu betrachten. Es ist eine Reise, die oft herausfordernd ist, jedoch letztlich zu einem erfüllteren und zufriedeneren Leben führt.</description>
       <link>https://www.selbstentwicklung.com</link>
@@ -477,18 +485,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1765344635-8909707125747123741</guid>
       <pubDate>Wed, 10 Dec 2025 05:30:34 +0000</pubDate>
       </item>
-    <item>
-      <title>Journaling für Fokus</title>
-      <description>Journaling ist eine präzise Linse für deinen Fokus, weil Gedanken schriftlich Form gewinnen und Entscheidungen sichtbarer werden. Lege ein Notizbuch mit drei Abschnitten an: Rückblick, Gegenwart und Ausblick, getrennt durch farbige Register. Nutze den Rückblick morgens, um gestern in drei Stichpunkten zu würdigen und Lernerfahrungen klar festzuhalten. Der Gegenwartsbereich dient für Prioritätenlisten, bewusst auf drei Aufgaben begrenzt, ergänzt durch den jeweils benötigten Energiezustand. Im Ausblick formulierst du Visionen, Experimente und Fragen, die dich neugierig halten und dein Lernen strukturieren. Schließe jede Einheit mit einer Skala von eins bis zehn, die deinen Fokus und deine Präsenz bewertet. Ein wöchentlicher Rückblick verbindet die Abschnitte, indem du Trends markierst, Fortschritte feierst und Strategien anpasst. Bewahre Stifte, Marker und Kalender am selben Ort, damit dein Ritual ohne Suchaufwand beginnen kann. Verwende gelegentlich Illustrationen oder Collagen, um Emotionen auszudrücken, die sich schwer in Worte fassen lassen. So wird dein Journal zu einem Kompass, der Klarheit schenkt, Prioritäten schärft und innere Dialoge liebevoll sortiert.</description>
-      <link>https://www.einfachachtsam.de/journaling-fokus-tipps/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1765258167-5508052914732864700</guid>
-      <pubDate>Tue, 09 Dec 2025 05:29:26 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 06 Feb 2026 06:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 05:51:34 +0000</lastBuildDate>
     </channel>
   </rss>
