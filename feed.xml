@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Reise zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der es uns ermöglicht, unsere Fähigkeiten, Kenntnisse und unser emotionales Wohlbefinden zu verbessern. Diese Reise beginnt oft mit der Selbstreflexion – einem ehrlichen Blick in uns selbst, um unsere Stärken und Schwächen zu erkennen. In der heutigen schnelllebigen Welt ist es wichtig, Ziele zu setzen und Strategien zu entwickeln, um diese zu erreichen. Techniken wie Journaling, Meditation und das Lesen inspirierender Literatur können uns helfen, Klarheit über unsere Lebensziele zu gewinnen. Von großer Bedeutung ist auch die Bereitschaft, aus Fehlern zu lernen und sich ständig neuen Herausforderungen zu stellen. Über das persönliche Wachstum hinaus beeinflusst Selbstentwicklung auch unsere Beziehungen zu anderen. Ein bewusster Umgang mit unseren Emotionen und die Fähigkeit, Empathie zu zeigen, stärken die zwischenmenschlichen Bindungen. Indem wir uns um unsere persönliche Entwicklung kümmern, schaffen wir eine Grundlage für ein erfülltes und authentisches Leben.</description>
+      <link>https://www.example.com/selbstentwicklung</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1770704091-5576534862639191480</guid>
+      <pubDate>Tue, 10 Feb 2026 06:14:50 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zum Minimalismus: Freiheit durch Reduktion</title>
       <description>Minimalismus bedeutet weit mehr als nur das Reduzieren von materiellen Besitztümern. Es ist eine Lebensphilosophie, die darauf abzielt, sich von Überflüssigem zu befreien und sich auf das Wesentliche zu fokussieren. Viele Menschen erleben durch den Prozess des Ausmistens nicht nur äußerliche Veränderungen, sondern auch innere Klarheit. Minimalismus fördert einen bewussteren Umgang mit Ressourcen, sei es Geld, Zeit oder Energie. Indem wir uns von unnötigem Ballast trennen, schaffen wir Raum für die Dinge, die uns wirklich wichtig sind – sei es persönliche Zeit, Hobbys oder wertvolle Beziehungen. Dabei spielt auch der digitale Minimalismus eine Rolle. Es geht darum, die Flut an Informationen zu reduzieren und sich auf qualitative Inhalte zu konzentrieren. Eine minimalistische Lebensweise kann somit zu einem erfüllteren und zufriedenstellenderen Leben führen, in dem wir bewusster leben und Entscheidungen treffen. Dies führt nicht nur zu persönlichem Wachstum, sondern auch zu einer nachhaltigen Lebensweise, die den Planeten respektiert und schont.</description>
       <link>https://www.example.com/minimalismus</link>
@@ -477,18 +485,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1765603777-4389339338275629168</guid>
       <pubDate>Sat, 13 Dec 2025 05:29:36 +0000</pubDate>
       </item>
-    <item>
-      <title>Bewusster Haushaltsplan</title>
-      <description>Ein achtsamer Haushaltsplan lenkt Finanzen so, dass Werte sichtbar werden und Geldströme deine Prioritäten spiegeln. Setze dich monatlich mit allen Kontoauszügen, Quittungen und Verträgen an einen ruhigen Tisch mit klarer Beleuchtung. Kategorisiere Ausgaben nach Grundbedürfnissen, Lebensqualität und Zukunft, um versteckte Gewohnheiten transparent zu machen. Berechne deinen monatlichen Mindestlebensstil und formuliere eine Zielquote, die du gezielt für Investitionen freiräumen möchtest. Nutze Budgethüllen oder digitale Kategorien, damit jeder Euro bewusst eine Aufgabe erhält, bevor er das Konto verlässt. Plane wöchentliche Kontrolltermine, bei denen du Abweichungen erkennst, Ursachen erforschst und Strategien behutsam anpasst. Feiere kreative Einsparungen, indem du sie notierst und das gesparte Geld automatisiert in deinen Zukunftstopf umleitest. Beziehe Mitbewohner oder Familie über transparente Gespräche ein, sodass alle wissen, wie Entscheidungen das gemeinsame Ziel unterstützen. Überprüfe Abos halbjährlich, kündige ruhenden Luxus und verhandle aktiv bessere Konditionen bei Versicherungen oder Tarifen. So entsteht ein finanzfreundlicher Alltag, der Sicherheit schafft, Freiräume ermöglicht und langfristige Wünsche strukturiert erfüllt.</description>
-      <link>https://www.ued.de/haushaltsbuch-fuehren/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1765517462-4881599276577303533</guid>
-      <pubDate>Fri, 12 Dec 2025 05:31:02 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 09 Feb 2026 06:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 06:14:50 +0000</lastBuildDate>
     </channel>
   </rss>
