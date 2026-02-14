@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der es uns ermöglicht, unser volles Potenzial auszuschöpfen. In einer Welt, die von ständigem Wandel geprägt ist, ist es wichtiger denn je, an uns selbst zu arbeiten. Dieser Prozess beginnt häufig mit der Selbstreflexion. Durch das Hinterfragen unserer Gedanken, Gefühle und Verhaltensweisen können wir Muster erkennen, die uns zurückhalten. Dabei spielt das Setzen von Zielen eine entscheidende Rolle. Ob es darum geht, neue Fähigkeiten zu erlernen, mehr Selbstbewusstsein zu entwickeln oder emotionale Intelligenz zu fördern – klare Ziele sind der erste Schritt zur Veränderung. Ein weiterer wichtiger Aspekt ist die Umgebungsgestaltung. Wir sollten uns mit positiven, inspirierenden Menschen umgeben und Orte schaffen, die uns anregen, unser Bestes zu geben. Letztendlich erfordert Selbstentwicklung Geduld und Beharrlichkeit. Die kleinen Fortschritte, die wir täglich machen, können über die Zeit zu tiefgreifenden Veränderungen führen und uns zu einem erfüllteren Leben verhelfen.</description>
+      <link>https://www.selbstentwicklung.de</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1771048426-2199068978282688642</guid>
+      <pubDate>Sat, 14 Feb 2026 05:53:46 +0000</pubDate>
+      </item>
+    <item>
       <title>Minimalismus: Die Kunst des Wesentlichen</title>
       <description>Minimalismus ist weit mehr als nur ein Lebensstil; es ist eine Philosophie, die dazu einlädt, sich von Überflüssigem zu befreien. Im Kern geht es darum, das Wesentliche zu erkennen und zu schätzen. In einer Welt, die von Konsum und ständigem Wettbewerb geprägt ist, stellt Minimalismus eine Rückbesinnung auf die eigenen Werte dar. Durch die Reduktion materieller Besitztümer kann man nicht nur Platz schaffen, sondern auch mentale Klarheit gewinnen. Viele Menschen berichten, dass sie durch den Verzicht auf Überflüssiges eine neue Lebensqualität erfahren haben. Im Alltag bedeutet Minimalismus oft, bewusster zu konsumieren, weniger Zeit mit digitalen Ablenkungen zu verbringen und mehr Raum für persönliche Beziehungen und Selbstentfaltung zu schaffen. Letztendlich geht es darum, den eigenen Lebensstil zu überdenken und gezielt Entscheidungen zu treffen, die zu einem erfüllteren Leben führen. Minimalismus zeigt, dass Glück nicht im Haben, sondern im Sein liegt.</description>
       <link>https://www.beispielseite.de/minimalismus</link>
@@ -477,18 +485,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1765949523-1990485803459880095</guid>
       <pubDate>Wed, 17 Dec 2025 05:32:02 +0000</pubDate>
       </item>
-    <item>
-      <title>Klarheit in deinem Kleiderschrank</title>
-      <description>Dein Kleiderschrank erzählt oft lauter Geschichten als jedes Tagebuch, doch nur wenige Kapitel brauchen wirklich Aufmerksamkeit. Beginne mit einem ruhigen Nachmittag, an dem du jedes Kleidungsstück einmal trägst, fühlst und ehrlich beurteilst. Frage dich, ob das Stück deine gegenwärtige Lebensphase unterstützt oder nur vergangene Rollen aufrechterhält, die nicht mehr passen. Sortiere Kleidung nach Energie, nicht nach Trends: Lieblingsteile sichtbarer platzieren, neutrale Basisteile ordentlich stapeln, Wackelkandidaten parken. Reserviere eine kleine Box für emotionale Erinnerungsstücke, beschränke dich bewusst auf drei und würdige jede Geschichte einzeln. Plane anschließend eine verantwortungsvolle Weitergabe, indem du hochwertige Teile verkaufst, passende Organisationen recherchierst und Transporttermine festlegst. Die frei gewordene Stange stattest du mit identischen Bügeln aus, damit dein Blick Ruhe und Prioritäten leichter erkennt. Falte verbleibende Stücke nach einer einheitlichen Methode, sodass Farben und Materialien harmonisch wirken und dich morgens inspirieren. Halte deine neue Ordnung mit einem kurzen Wochenritual, währenddessen du Lieblingskombinationen vorbereitest und Pflegebedarf direkt einplanst. So verwandelt sich dein Kleiderschrank in eine freundliche Entscheidungshilfe, die Selbstvertrauen, Zeit und mentale Leichtigkeit schenkt.</description>
-      <link>https://www.einfachbewusst.de/2021/03/kleiderschrank-ausmisten/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1765863096-6270869465656951149</guid>
-      <pubDate>Tue, 16 Dec 2025 05:31:35 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 13 Feb 2026 06:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 05:53:46 +0000</lastBuildDate>
     </channel>
   </rss>
