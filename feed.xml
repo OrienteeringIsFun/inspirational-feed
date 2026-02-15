@@ -2,6 +2,18 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Lebensstil mit Bedacht</title>
+      <description>Frugalismus ist mehr als nur eine Sparstrategie; es ist eine Lebensphilosophie, die Konsum überdenkt und den Fokus auf das Wesentliche legt. Frugalisten streben danach, ihre Ausgaben auf das Notwendige zu beschränken und Geld für die Dinge zu sparen, die wirklich zählen. Dieser Ansatz fördert nicht nur finanzielle Stabilität, sondern auch persönliche Zufriedenheit, denn weniger Konsum bedeutet oft eine tiefere Wertschätzung für das, was man besitzt.
+
+Ein zentraler Aspekt des Frugalismus ist das bewusste Leben. Viele Frugalisten verzichten auf unnötige Ausgaben für Luxustelefone, teure Restaurantbesuche oder monatliche Abonnements. Vielmehr investieren sie in Erfahrungen, Bildung und langfristige Ziele wie Reisen oder den Aufbau eines Notfallfonds. 
+
+Der Frugalismus ermutigt dazu, die eigene Lebensweise zu hinterfragen und Prioritäten neu zu setzen. Dies kann zu einem erfüllteren Leben führen, in dem man nicht von materiellen Besitztümern abhängig ist, sondern seine eigene finanzielle Unabhängigkeit anstrebt.</description>
+      <link>https://www.frugalismus.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1771135273-6547519846245088520</guid>
+      <pubDate>Sun, 15 Feb 2026 06:01:13 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der es uns ermöglicht, unser volles Potenzial auszuschöpfen. In einer Welt, die von ständigem Wandel geprägt ist, ist es wichtiger denn je, an uns selbst zu arbeiten. Dieser Prozess beginnt häufig mit der Selbstreflexion. Durch das Hinterfragen unserer Gedanken, Gefühle und Verhaltensweisen können wir Muster erkennen, die uns zurückhalten. Dabei spielt das Setzen von Zielen eine entscheidende Rolle. Ob es darum geht, neue Fähigkeiten zu erlernen, mehr Selbstbewusstsein zu entwickeln oder emotionale Intelligenz zu fördern – klare Ziele sind der erste Schritt zur Veränderung. Ein weiterer wichtiger Aspekt ist die Umgebungsgestaltung. Wir sollten uns mit positiven, inspirierenden Menschen umgeben und Orte schaffen, die uns anregen, unser Bestes zu geben. Letztendlich erfordert Selbstentwicklung Geduld und Beharrlichkeit. Die kleinen Fortschritte, die wir täglich machen, können über die Zeit zu tiefgreifenden Veränderungen führen und uns zu einem erfüllteren Leben verhelfen.</description>
       <link>https://www.selbstentwicklung.de</link>
@@ -477,18 +489,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1766035931-2528077505223901312</guid>
       <pubDate>Thu, 18 Dec 2025 05:32:11 +0000</pubDate>
       </item>
-    <item>
-      <title>Selbstreflexion am Morgen</title>
-      <description>Ein bewusst gestalteter Morgen ist ein Labor für Selbstentwicklung, weil er noch unbeschrieben und formbar erscheint. Stell dir einen stillen Tisch bereit, auf dem nur Tagebuch, Stift, Tee und ein warmes Licht warten. Beginne mit drei tiefen Atemzügen, bevor du in kurzen Sätzen notierst, wofür du heute dankbar bist. Wechsle anschließend zur Frage, welches Gefühl dich gestern begleitet hat und welche Lernerkenntnis darin verborgen lag. Formuliere einen Satz, der beschreibt, wie du dich heute erleben möchtest, und wähle dazu eine konkrete Handlung. Schreibe eine kurze Ermutigung an dein zukünftiges Ich, damit du später auf deine heutige Intention zurückgreifen kannst. Beende das Ritual mit einem bewussten Schluck deines Getränks und einem Blick ins Licht, das den Raum erfüllt. Verankere deine Erkenntnisse, indem du einen Timer stellst und die wichtigste Intention noch einmal laut aussprichst. Erlaube dir, das Tagebuch tagsüber kurz aufzuschlagen, um Fortschritte zu markieren oder Kurskorrekturen festzuhalten. So entsteht ein achtsamer Rahmen, der Klarheit schenkt, Selbstführung stärkt und dich freundlich auf den Tag ausrichtet.</description>
-      <link>https://www.zeitzuleben.de/morgenritual-selbstreflexion/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1765949523-1990485803459880095</guid>
-      <pubDate>Wed, 17 Dec 2025 05:32:02 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 14 Feb 2026 05:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:01:13 +0000</lastBuildDate>
     </channel>
   </rss>
