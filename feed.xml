@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Essenz des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die immer mehr Menschen inspiriert. Der grundlegende Gedanke dahinter ist, Bescheid zu wissen, was wirklich wichtig im Leben ist, und sich von Überflüssigem zu trennen. Durch das Reduzieren materieller Besitztümer öffnen wir Raum für Erfahrungen, Beziehungen und innere Ruhe. Anstatt uns von Konsum und Dingen, die wir nicht benötigen, leiten zu lassen, fordert der Minimalismus uns auf, bewusster zu leben und unsere Zeit sinnvoll zu investieren. Dies kann zu einer gesteigerten Lebensqualität führen, da wir uns auf die Dinge konzentrieren, die uns wirklich erfüllen. Oftmals führt der Schritt in ein minimalistisches Leben auch zu finanzieller Freiheit, da weniger Konsum zu weniger Ausgaben führt und somit mehr Möglichkeiten für sinnvolle Investitionen schafft. Indem wir unseren Lebensstil vereinfachen, schaffen wir Raum für Kreativität und persönliche Entwicklung. Der Minimalismus ermutigt uns, die Freiheit jenseits materieller Besitztümer zu finden und ein erfülltes Leben zu führen.</description>
+      <link>https://www.beispielseite.de/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1771308132-1956492500646035102</guid>
+      <pubDate>Tue, 17 Feb 2026 06:02:12 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für Einsteiger: Der Schlüssel zur finanzielle Freiheit</title>
       <description>Investieren kann eine der effektivsten Möglichkeiten sein, um Vermögen aufzubauen und finanzielle Sicherheit zu erreichen. Für viele Menschen scheint der Einstieg jedoch abschreckend. Es ist wichtig, sich zunächst mit den Grundlagen auseinanderzusetzen. Der Kapitalmarkt bietet verschiedene Anlagemöglichkeiten, darunter Aktien, Anleihen und Immobilien. Jede dieser Anlageklassen hat ihre eigenen Risiken und Chancen. Ein grundlegendes Verständnis dieser Optionen ist entscheidend, um fundierte Entscheidungen zu treffen.
 
@@ -483,18 +491,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1766208528-4279784055874965112</guid>
       <pubDate>Sat, 20 Dec 2025 05:28:48 +0000</pubDate>
       </item>
-    <item>
-      <title>Mutige Gespräche führen</title>
-      <description>Mutige Gespräche verändern Beziehungen, weil sie unausgesprochene Spannungen lösen und Raum für gemeinsames Wachstum schaffen. Bereite dich mit einer kurzen Selbstklärung vor: Was ist deine Intention, welches Bedürfnis möchtest du respektvoll ausdrücken? Atme dreimal tief, schreibe die Kernbotschaft auf und prüfe, ob sie sowohl ehrlich als auch freundlich klingt. Wähle einen ruhigen Ort, an dem ihr ungestört seid, und bitte dein Gegenüber offen um Gesprächsbereitschaft. Starte mit einer Beobachtung ohne Bewertung, teile anschließend dein Gefühl und dein Bedürfnis, bevor du eine konkrete Bitte formulierst. Höre aktiv zu, wiederhole zentrale Aussagen deines Gegenübers und frage nach, ob du richtig verstanden hast. Wenn Emotionen hochkochen, vereinbart eine kurze Pause, um eure Nervensysteme zu beruhigen und Klarheit zu bewahren. Beendet das Gespräch mit einer Zusammenfassung der nächsten Schritte und einem Dank für die Offenheit. Reflektiert später, was gut lief, welche Formulierungen hilfreich waren und wo ihr künftig noch mutiger sein möchtet. So entwickelt ihr eine Gesprächskultur, die Vertrauen stärkt, Konflikte verkürzt und gemeinsame Visionen lebendig werden lässt.</description>
-      <link>https://www.palverlag.de/gewaltfreie-kommunikation-tipps.html</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1766122240-4060931304165320665</guid>
-      <pubDate>Fri, 19 Dec 2025 05:30:40 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 16 Feb 2026 06:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 06:02:12 +0000</lastBuildDate>
     </channel>
   </rss>
