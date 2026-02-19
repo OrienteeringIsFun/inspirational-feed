@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Lebensstil der Achtsamkeit</title>
+      <description>Frugalismus ist mehr als nur ein sparsamer Lebensstil; es ist eine Philosophie, die Achtsamkeit und bewusstes Leben in den Vordergrund stellt. Frugalisten entscheiden sich, nur das Nötigste zu konsumieren und legen großen Wert auf Qualität über Quantität. Dieser Ansatz hilft nicht nur dabei, Geld zu sparen, sondern fördert auch eine tiefere Wertschätzung für die Dinge, die wir besitzen. Durch diesen Lebensstil können Menschen finanzielle Freiheit erlangen und langfristig für die Zukunft vorsorgen. Ein frugalistisches Leben bedeutet oft, sich von überflüssigem Ballast zu befreien – sowohl materiell als auch emotional. Es geht darum, sich auf das Wesentliche zu konzentrieren und die eigene Zeit sowie Ressourcen sinnvoll zu investieren. Indem wir weniger konsumieren, schaffen wir Raum für persönliche Entwicklung und nachhaltige Beziehungen. Frugalismus lädt uns ein, bewusster mit unseren Entscheidungen umzugehen und das Leben in seiner Einfachheit zu genießen.</description>
+      <link>https://www.beispielurl.de/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1771481103-4793212584363909873</guid>
+      <pubDate>Thu, 19 Feb 2026 06:05:03 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Kraft der Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der darauf abzielt, das eigene Potenzial zu entfalten und persönliche Ziele zu erreichen. Sie erfordert Reflexion, Selbstbewusstsein und den Willen, an sich zu arbeiten. Indem man sich selbst besser kennt, können individuelle Stärken und Schwächen erkannt werden. Diese Selbsterkenntnis bildet die Grundlage für persönliches Wachstum. Methoden wie Journaling, Meditation oder das Lesen von inspirierenden Büchern sind hilfreiche Werkzeuge, um die eigene Entwicklung voranzutreiben.
 
@@ -485,18 +493,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1766381572-9174755030790778079</guid>
       <pubDate>Mon, 22 Dec 2025 05:32:52 +0000</pubDate>
       </item>
-    <item>
-      <title>Kreative Freizeitgestaltung</title>
-      <description>Frugalismus heißt nicht Verzicht auf Freude, sondern das Entdecken kreativer Freizeitformen, die Budget und Herz gleichermaßen nähren. Stelle eine Liste lokaler kostenloser Angebote zusammen: Bibliothek, Stadtmuseum, Repair-Café, Nachbarschaftsgarten, öffentliche Workshops. Plane Wochenenden mit Themen, etwa Natur, Kultur oder Gemeinschaft, und sammle passende Aktivitäten, die wenig Kosten verursachen. Tauscht mit Freunden Equipment aus, vom Brettspiel bis zum Campingkocher, um Anschaffungen zu reduzieren und Austausch zu fördern. Nutze kreative Challenges, beispielsweise eine Kochrunde mit fünf Zutaten oder eine Fototour durch bislang unbekannte Stadtviertel. Halte Erlebnisse in einem Gemeinschaftstagebuch fest, damit Erinnerungen greifbar bleiben und Ideen für Wiederholungen entstehen. Verknüpfe Freizeit mit Lernen, indem du offene Bildungsangebote nutzt, Podcasts hörst oder Skill-Sharing-Treffen organisierst. Feiere regelmäßig budgetfreundliche Highlights, indem ihr euch gegenseitig erzählt, welcher Moment euch besonders berührt hat. Lege eine kleine Rücklage für spontane Möglichkeiten an, damit ihr außergewöhnliche Chancen trotzdem ergreifen könnt. So entsteht eine Freizeitkultur, die Verbundenheit stärkt, Horizonte erweitert und eure finanzielle Freiheit respektiert.</description>
-      <link>https://www.smarticular.net/frugalismus-tipps-freizeit-budgetfreundlich/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1766294983-7447266477554560259</guid>
-      <pubDate>Sun, 21 Dec 2025 05:29:42 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 18 Feb 2026 06:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 06:05:03 +0000</lastBuildDate>
     </channel>
   </rss>
