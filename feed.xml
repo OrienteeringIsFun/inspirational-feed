@@ -2,6 +2,18 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die uns dazu anregt, das Wesentliche zu schätzen und Überflüssiges abzubauen. In einer Welt, die von Konsum und Materie geprägt ist, bietet Minimalismus eine befreiende Perspektive. Indem wir uns von unnötigem Ballast trennen, schaffen wir Raum für das, was wirklich wichtig ist – sei es Zeit für Familie und Freunde, persönliche Projekte oder das Verfolgen von Leidenschaften.
+
+Die Basis des Minimalismus liegt oft in der Achtsamkeit und Selbstreflexion. Viele Menschen berichten von einem gesteigerten Wohlbefinden, seit sie sich entschieden haben, bewusster zu leben und sich nicht länger von materiellen Gütern definieren zu lassen. Ein Minimalistischer Lebensstil ermutigt uns, unsere Prioritäten zu überdenken und die Fülle des Lebens abseits des Materiellen zu entdecken.
+
+Durch die Reduktion von Pflichten und Besitz können wir oftmals mehr Zeit und Energie für unsere persönlichen Ziele aufbringen und finden so einen tieferen Sinn in unserem Tun.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1771653033-4747925904358172244</guid>
+      <pubDate>Sat, 21 Feb 2026 05:50:32 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für die Zukunft: Ein nachhaltiger Ansatz</title>
       <description>Investieren ist mehr als nur das Anlegen von Geld – es ist eine entscheidende Entscheidung für die eigene finanzielle Zukunft. Anstatt die Ersparnisse auf einem Sparkonto zu belassen, wo sie durch Inflation an Wert verlieren, eröffnet das Investieren die Möglichkeit, das eigene Vermögen zu vermehren. Dabei ist es wichtig, sich über verschiedene Anlageklassen zu informieren, sei es in Aktien, Anleihen oder Immobilien. Ein diversifiziertes Portfolio kann dabei helfen, Risiken zu minimieren und gleichzeitig von den Chancen des Marktes zu profitieren. 
 
@@ -487,18 +499,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1766554397-7794237541905995295</guid>
       <pubDate>Wed, 24 Dec 2025 05:33:16 +0000</pubDate>
       </item>
-    <item>
-      <title>Nachhaltige Investments gestalten</title>
-      <description>Nachhaltiges Investieren verbindet Rendite mit Verantwortung, indem dein Kapital Unternehmen stärkt, die soziale und ökologische Standards erfüllen. Definiere deine Werte schriftlich: Umwelt, Soziales, Governance, damit du später Produkte bewusst vergleichen kannst. Recherchiere Siegel, Nachhaltigkeitsratings und Ausschlusskriterien seriöser Anbieter, um Greenwashing zu vermeiden. Achte auf transparente Berichte, die CO₂-Fußabdrücke, Lieferketten und Stimmrechtsstrategien offenlegen. Nutze Fonds oder ETFs, die zu deinen Kriterien passen, und prüfe ihre Kosten sowie die Replikationsmethode. Erstelle eine schriftliche Investmentpolicy, die festlegt, welche Branchen ausgeschlossen bleiben und welche Wirkung du anstrebst. Überwache dein Portfolio regelmäßig mithilfe von Nachhaltigkeitsreports und passe es an, wenn Unternehmen gegen deine Leitlinien verstoßen. Kombiniere nachhaltige Anlagen mit Spenden oder Engagement, etwa durch Stimmrechtsausübung oder Unterstützung wirkungsorientierter Initiativen. Tausche dich mit Communitys aus, die Erfahrungen teilen und seriöse Informationsquellen kuratieren, um informiert zu bleiben. So investierst du mit gutem Gewissen, förderst Wandel und baust gleichzeitig verlässlich Vermögen auf.</description>
-      <link>https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sustainable-finance/nachhaltig-anlegen-so-funktioniert-es-60195</link>
-      <category>Investieren</category>
-      <guid isPermaLink="false">1766467974-1255561961884640993</guid>
-      <pubDate>Tue, 23 Dec 2025 05:32:53 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 20 Feb 2026 06:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 05:50:32 +0000</lastBuildDate>
     </channel>
   </rss>
