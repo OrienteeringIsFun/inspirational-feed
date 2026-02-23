@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Weg zu mehr Lebensqualität</title>
+      <description>Frugalismus ist ein Lebensstil, der auf der bewussten Einsparung und der Reduzierung von Konsum basiert. Anders als bei einer reinen Sparstrategie geht es beim Frugalismus nicht nur darum, Geld zu sparen, sondern auch darum, Wert auf Dinge zu legen, die wirklich wichtig sind. Anstatt materielle Besitztümer anzuhäufen, konzentrieren sich frugal lebende Menschen darauf, Erfahrungen und persönliche Entwicklung zu fördern. Sie hinterfragen ihre Kaufentscheidungen und treffen bewusstere Entscheidungen. Dies kann zu einem erfüllteren Leben führen, da weniger Raum für materielle Ablenkungen bleibt. Mit dieser Lebensweise geht oft eine Reduzierung des ökologischen Fußabdrucks einher, da weniger konsumiert und weggeworfen wird. Der Fokus auf finanzielle Freiheit ermöglicht es den Menschen, sich auf ihre Leidenschaften zu konzentrieren und die Zeit sinnvoller zu nutzen. Frugalismus bietet somit nicht nur finanzielle Vorteile, sondern trägt auch zur persönlichen Zufriedenheit bei.</description>
+      <link>https://www.example.com/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1771827004-4861877178302514054</guid>
+      <pubDate>Mon, 23 Feb 2026 06:10:03 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist eine kontinuierliche Reise, die in jedem Lebensabschnitt beginnen kann. Sie erfordert Mut, Disziplin und die Bereitschaft, sich den eigenen Schwächen zu stellen. Dabei geht es nicht nur um das Erlernen neuer Fähigkeiten, sondern auch um die Auseinandersetzung mit der eigenen Person. Ein wesentlicher Aspekt der Selbstentwicklung ist die Selbstreflexion. Sie hilft uns, unsere Gedanken, Gefühle und Handlungen kritisch zu hinterfragen. Durch Journaling oder Meditation können wir Klarheit über unsere Ziele gewinnen und bewusster leben. Ein weiterer wichtiger Punkt ist die Fähigkeit, aus Fehlern zu lernen. Jeder Rückschlag bietet die Chance, wertvolle Erkenntnisse zu gewinnen, die uns wachsen lassen. Zudem kann das Setzen realistischer Ziele, die in kleine Schritte unterteilt werden, den Prozess der Selbstentwicklung erleichtern. Letztlich führt uns dieser Weg zu einem erfüllteren Leben, indem wir unser volles Potenzial entdecken und entfalten.</description>
       <link>https://www.beispielseite.de/selbstentwicklung</link>
@@ -491,18 +499,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1766727050-440780886100133410</guid>
       <pubDate>Fri, 26 Dec 2025 05:30:50 +0000</pubDate>
       </item>
-    <item>
-      <title>Diversifikation mit Anleihen</title>
-      <description>Anleihen bieten Stabilität, weil sie regelmäßige Zahlungen liefern und Schwankungen am Aktienmarkt teilweise ausgleichen können. Unterscheide Staatsanleihen, Unternehmensanleihen und nachhaltige Varianten, damit du bewusste Entscheidungen für deine Werte triffst. Prüfe Bonitätsbewertungen seriöser Agenturen und achte auf Laufzeiten, die zu deinem Investitionshorizont passen. Mischfonds oder ETFs auf Anleiheindizes erleichtern den Einstieg, weil sie Risiken über viele Emittenten streuen. Setze klare Quoten für den Anteil von Anleihen in deinem Gesamtportfolio, abgestimmt auf Alter und Ziele. Überlege, ob ein globaler Anleihe-ETF oder ein heimischer Schwerpunkt besser zu deiner Risikotoleranz passt. Berücksichtige Steuern und Depotkosten, damit die erwarteten Zinsen nicht durch Gebühren aufgezehrt werden. Aktualisiere deine Asset-Allokation jährlich, indem du Gewinne umschichtest und Verluste begrenzt, ohne hektisch zu reagieren. Halte dir einen Notgroschen außerhalb des Depots, damit du Anleihen nicht in ungünstigen Marktphasen verkaufen musst. So ergänzt du deine Geldanlage um Sicherheit, bleibst flexibel und lässt dein Portfolio ruhiger schlafen.</description>
-      <link>https://www.bundesbank.de/de/aufgaben/themen/anleihen-grundwissen-622112</link>
-      <category>Investieren</category>
-      <guid isPermaLink="false">1766640772-5003464418414841920</guid>
-      <pubDate>Thu, 25 Dec 2025 05:32:52 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 22 Feb 2026 05:58:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 06:10:03 +0000</lastBuildDate>
     </channel>
   </rss>
