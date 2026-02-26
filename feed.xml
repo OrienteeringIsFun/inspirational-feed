@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der unser gesamtes Leben begleiten sollte. Es geht darum, an uns selbst zu arbeiten und unser volles Potenzial zu entfalten. Der erste Schritt auf diesem Weg ist oft die Selbstreflexion. Wir sollten uns die Zeit nehmen, um zu verstehen, wer wir sind, was uns motiviert und wo unsere Stärken und Schwächen liegen. Mit dieser Erkenntnis können wir gezielt Ziele setzen und Strategien entwickeln, um diese zu erreichen. Wichtig ist es, realistisch zu bleiben und sich nicht mit anderen zu vergleichen. Jeder Mensch hat seinen eigenen Weg und Zeitrahmen. Zudem spielt auch die Akzeptanz von Rückschlägen eine große Rolle. Diese sind nicht das Ende, sondern ein Teil des Lernprozesses. Durch kontinuierliches Lernen, sei es durch Bücher, Kurse oder persönliche Erfahrungen, können wir uns selbst immer weiterentwickeln. Indem wir Schritt für Schritt an uns arbeiten, schaffen wir die Grundlagen für ein erfülltes und glückliches Leben.</description>
+      <link>https://www.beispiel.de/selbstentwicklung</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1772085814-8296674213233781704</guid>
+      <pubDate>Thu, 26 Feb 2026 06:03:34 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Kraft des Minimalismus</title>
       <description>Minimalismus ist mehr als nur ein Trend – er ist eine Lebenseinstellung, die viele Menschen zur Vereinfachung ihres Lebens ermutigt. In einer Welt voller Überfluss erkennen immer mehr, dass weniger oft mehr ist. Durch das Reduzieren von Besitztümern können wir nicht nur physisch, sondern auch geistig aufräumen. Weniger Gegenstände führen oft zu weniger Stress und mehr Klarheit im Leben. Dies schafft Raum für die Dinge, die wirklich wichtig sind, wie Zeit für Familie, Freunde, Hobbys und persönliche Entwicklung. Der Weg zum Minimalismus erfordert Mut und Entschlossenheit, da wir uns von gesellschaftlichen Erwartungen und materiellem Ballast befreien müssen. Doch die Vorteile sind unbestreitbar: Ein einfacherer Lebensstil ermöglicht uns, uns auf die Kernaspekte unseres Daseins zu konzentrieren und die Freude an den kleinen Dingen zu entdecken. So wird der Minimalismus zu einem Schlüssel für mehr Zufriedenheit und inneren Frieden.</description>
       <link>https://www.beispielwebsite.de/minimalismus</link>
@@ -491,18 +499,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1766986610-7581152386857203071</guid>
       <pubDate>Mon, 29 Dec 2025 05:36:50 +0000</pubDate>
       </item>
-    <item>
-      <title>Rituale für ein aufgeräumtes Zuhause</title>
-      <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
-      <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1766899993-2753146403856633253</guid>
-      <pubDate>Sun, 28 Dec 2025 05:33:12 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 25 Feb 2026 06:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:03:34 +0000</lastBuildDate>
     </channel>
   </rss>
