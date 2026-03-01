@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zum Minimalismus</title>
+      <description>Minimalismus ist mehr als nur eine ästhetische Lebensweise. Es ist eine Philosophie, die uns lehrt, uns von überflüssigem Ballast zu befreien und das Wesentliche zu schätzen. In einer Welt, die von Konsum und Ablenkungen geprägt ist, bietet der Minimalismus einen klaren Gegenentwurf: weniger Besitz, weniger Verpflichtungen, weniger Stress. Durch die Reduktion auf das Nötigste schaffen wir Raum für die Dinge, die wirklich wichtig sind – sei es persönliche Freiheit, kreative Entfaltung oder tiefere zwischenmenschliche Beziehungen. Der Prozess des Minimalisierens beginnt oft im eigenen Zuhause, wo wir uns von überflüssigen Gegenständen trennen. Dies kann befreiend wirken und uns helfen, bewusster mit unserem Ressourcen umzugehen. Letztlich geht es beim Minimalismus nicht nur um körperliche Dinge, sondern auch darum, gedanklich und emotional Platz zu schaffen für die Dinge, die uns wirklich glücklich machen. Ein bewusster Umgang mit dem eigenen Leben führt zu mehr Zufriedenheit und innerer Gelassenheit.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1772344607-7238471429512039722</guid>
+      <pubDate>Sun, 01 Mar 2026 05:56:46 +0000</pubDate>
+      </item>
+    <item>
       <title>Erfolgreich Investieren für Einsteiger</title>
       <description>Investieren kann eine der effektivsten Methoden sein, um Vermögen aufzubauen und finanzielle Freiheit zu erlangen. Für viele Menschen scheint der Einstieg jedoch überwältigend. Die gute Nachricht ist, dass es auch für Einsteiger einfach sein kann, mit dem Investieren zu beginnen. Zunächst ist es wichtig, sich über die verschiedenen Anlageformen zu informieren. Aktien, Anleihen und Immobilien sind traditionelle Optionen, doch auch Indexfonds und ETFs erfreuen sich wachsender Beliebtheit, da sie eine breite Diversifikation bieten und oft kostengünstiger sind. Darüber hinaus sollten Anleger ihre finanziellen Ziele klar definieren und ein Budget festlegen, um sicherzustellen, dass sie keine überstürzten Entscheidungen treffen. Ein zusätzlicher Vorteil des frühen Investierens ist der Zinseszinseffekt, der das Vermögen über die Jahre exponentiell wachsen lässt. Geduld und eine langfristige Perspektive sind daher entscheidend. Letztendlich sollte das Investieren eine bewusste und informierte Entscheidung sein, bei der Verständnis und Planung im Vordergrund stehen.</description>
       <link>https://www.investierenbeispiel.de</link>
@@ -491,18 +499,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1767245715-607918356993346551</guid>
       <pubDate>Thu, 01 Jan 2026 05:35:15 +0000</pubDate>
       </item>
-    <item>
-      <title>Ressourcenorientierte Pausen</title>
-      <description>Pausen sind keine Unterbrechung, sondern die Werkstatt, in der sich deine Ressourcen regenerieren und wachsen dürfen. Plane sie bewusst wie Termine, inklusive kurzer Beschreibung, welches Bedürfnis die Pause erfüllen soll. Unterscheide körperliche, mentale und emotionale Pausen, damit du passgenau das wählst, was dir Energie schenkt. Stelle dir Erinnerungen im Kalender, die dich freundlich daran erinnern, rechtzeitig aus dem Arbeitsmodus auszusteigen. Nutze kurze Atemübungen, Dehnungen oder einen Spaziergang um den Block, um Körper und Geist zu resetten. Für mentale Pausen eignen sich Mikro-Journaling, Brain-Dumps oder ein Puzzle, das deine Aufmerksamkeit spielerisch umlenkt. Emotionale Pausen darfst du mit Musik, Kontakt zu Freunden oder einem inspirierenden Text füllen, der dich nährt. Reflektiere abends, welche Pausenart den größten Effekt hatte und wie du sie morgen noch stimmiger gestalten kannst. Kommuniziere deinem Umfeld, dass Pausen Teil deiner Arbeitsstrategie sind, damit sich niemand über deine Abwesenheit wundert. So werden Pausen zu kraftvollen Ritualen, die Kreativität erneuern, Belastbarkeit erhöhen und deine Lebensqualität stabilisieren.</description>
-      <link>https://karrierebibel.de/pause-machen/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1767159215-854342123779034918</guid>
-      <pubDate>Wed, 31 Dec 2025 05:33:34 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 28 Feb 2026 05:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 05:56:46 +0000</lastBuildDate>
     </channel>
   </rss>
