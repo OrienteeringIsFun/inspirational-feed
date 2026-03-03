@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Der Weg zu finanzieller Freiheit</title>
+      <description>Frugalismus ist mehr als nur eine Spartechnik; es ist eine Lebensphilosophie, die Einfachheit, Nachhaltigkeit und finanzielle Unabhängigkeit kombiniert. Der Begriff beschreibt einen Lebensstil, bei dem Konsum und Ausgaben stark reduziert werden, um Geld für die wesentlichen Dinge im Leben zu sparen. Frugalisten konzentrieren sich auf die Minimierung unnötiger Ausgaben, sei es durch den Verzicht auf teure Markenprodukte, das Kochen zu Hause oder die Nutzung öffentlicher Verkehrsmittel statt des eigenen Autos. Ziel ist nicht nur eine bessere finanzielle Situation, sondern auch ein bewussterer Umgang mit Ressourcen und eine tiefere Wertschätzung für die Dinge, die wirklich zählen. Durch eine frugalistische Lebensweise können finanzielle Ziele schneller erreicht werden, sei es die Altersvorsorge, eine Weltreise oder der frühzeitige Ausstieg aus dem Berufsleben. Dieser Ansatz fördert auch ein Leben in Einklang mit der Umwelt und reduziert den persönlichen ökologischen Fußabdruck, was in der heutigen Zeit von großer Bedeutung ist.</description>
+      <link>https://www.beispiel.de/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1772517433-5883725400575606376</guid>
+      <pubDate>Tue, 03 Mar 2026 05:57:12 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein fortwährender Prozess, der tief in unserer Natur verwurzelt ist. Er eröffnet uns die Möglichkeit, unsere Stärken zu erkennen und unsere Schwächen zu überwinden. In der heutigen schnelllebigen Welt ist es wichtiger denn je, innezuhalten und an sich selbst zu arbeiten. Durch regelmäßige Selbstreflexion können wir unsere Ziele klarer definieren und unsere Fortschritte evaluieren. Methoden wie Journaling oder Meditation helfen uns, den Kopf zu klären und den Fokus zurückzugewinnen. Zudem ist es entscheidend, sich mit inspirierenden Menschen zu umgeben, die uns motivieren und in unserem Wachstumsprozess unterstützen. Buchlektüren und Podcasts zu Themen der persönlichen Entwicklung können ebenfalls wertvolle Impulse geben. Um dem eigenen Lebensweg gerecht zu werden, sollten wir bereit sein, aus unserer Komfortzone auszubrechen und neue Erfahrungen zu sammeln. Selbstentwicklung ist kein Ziel, sondern eine lebenslange Reise, die uns bereichert und wachsen lässt.</description>
       <link>https://www.example.com/selbstentwicklung</link>
@@ -491,18 +499,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1767418221-1834599888310679882</guid>
       <pubDate>Sat, 03 Jan 2026 05:30:21 +0000</pubDate>
       </item>
-    <item>
-      <title>Digitaler Minimalismus Schritt für Schritt</title>
-      <description>Unsere Bildschirme sind laut, doch wirkliche Klarheit entsteht, wenn jede digitale Oberfläche deine Werte sichtbar unterstützt. Beginne mit einer ruhigen Stunde, in der du Benachrichtigungen kategorisch prüfst und konsequent unnötige Quellen deaktivierst. Ordne anschließend deine wichtigsten Apps nach funktionalen Gruppen und belasse nur Werkzeuge, die Kreativität, Gesundheit oder Beziehungen stärken. Verschiebe unterhaltende Anwendungen bewusst in einen separaten Ordner, damit du sie nur zu geplanten Zeiten öffnest. Übertrage denselben Ansatz auf dein E-Mail-Postfach, indem du Filter, Kurzantworten und feste Bearbeitungsfenster einrichtest. Speichere wichtige Dokumente in klar strukturierten Ordnern mit sprechenden Namen und wöchentlicher Sicherung auf ein externes Medium. Schenke dir außerdem bildschirmfreie Inseln, beispielsweise die erste Stunde nach dem Aufstehen oder jeden Sonntagabend. Nutze freiwerdende Zeit für analoge Notizen, Spaziergänge oder Gespräche, die deine Intuition stärken und Beziehungen vertiefen. Dokumentiere wöchentlich, wie sich dein Fokus verändert, welche Projekte vorankommen und welche digitalen Quellen weiterhin Sinn stiften. So entsteht ein bewusst kuratierter Digitalraum, der dir Energie schenkt, statt dich mit endlosen Ablenkungen zu belasten.</description>
-      <link>https://digitalminimalism.net/dein-digitaler-fruehjahrsputz/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1767332042-5693644739272243919</guid>
-      <pubDate>Fri, 02 Jan 2026 05:34:02 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 02 Mar 2026 05:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 05:57:12 +0000</lastBuildDate>
     </channel>
   </rss>
