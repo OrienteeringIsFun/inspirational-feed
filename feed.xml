@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der es uns ermöglicht, unser volles Potenzial zu entfalten. Dabei spielt die Selbstreflexion eine entscheidende Rolle. Indem wir regelmäßig innehalten und unser Verhalten sowie unsere Gedanken hinterfragen, können wir lernen, welche Muster uns zurückhalten und welche uns voranbringen. Zudem ist es wichtig, sich realistische Ziele zu setzen, die sowohl herausfordernd als auch erreichbar sind. Kleine Erfolge wirken motivierend und stärken unser Selbstbewusstsein. Ein weiterer Aspekt ist die Umgebung, in der wir leben: Positive Einflüsse können unseren Entwicklungsprozess erheblich unterstützen. Egal, ob Bücher, Podcasts oder der Austausch mit Gleichgesinnten - all dies fördert das persönliche Wachstum. Letztlich erfordert Selbstentwicklung Geduld und Durchhaltevermögen, doch die investierte Zeit ist eine der wertvollsten Investitionen in unsere Zukunft. Jeder Schritt in Richtung Selbstverbesserung öffnet neue Türen und erweitert unsere Perspektiven.</description>
+      <link>https://www.example.com/selbstentwicklung</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1772776438-8093977971239049801</guid>
+      <pubDate>Fri, 06 Mar 2026 05:53:58 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Kunst des Minimalismus</title>
       <description>Minimalismus ist mehr als nur ein Trend – es ist eine Lebensphilosophie, die das Wesentliche in den Vordergrund stellt. Durch das Reduzieren von materiellen Besitztümern schaffen wir Platz für das, was wirklich zählt: Erfahrungen, Beziehungen und persönliche Entwicklung. Der Weg zum minimalistischen Lebensstil beginnt oft mit der kritischen Frage: "Was brauche ich wirklich?" Indem wir uns von überflüssigem Ballast befreien, gewinnen wir nicht nur physisch, sondern auch mental an Raum. Viele Minimalisten berichten von einer gesteigerten Lebensqualität, die sich durch weniger Stress und mehr Klarheit äußert. Darüber hinaus fördert dieser Ansatz Nachhaltigkeit und bewussten Konsum, da wir gezwungen sind, sorgsam mit den Ressourcen umzugehen. Das Streben nach einem minimalistischen Lebensstil ist somit auch ein Schritt in Richtung einer umweltfreundlicheren Zukunft. Indem wir uns auf das Wesentliche konzentrieren, können wir ein erfüllteres und zufriedeneres Leben führen.</description>
       <link>https://www.beispiel.de/minimalismus</link>
@@ -491,18 +499,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1767677628-5662361844818702066</guid>
       <pubDate>Tue, 06 Jan 2026 05:33:48 +0000</pubDate>
       </item>
-    <item>
-      <title>Bewusster Haushaltsplan</title>
-      <description>Ein achtsamer Haushaltsplan lenkt Finanzen so, dass Werte sichtbar werden und Geldströme deine Prioritäten spiegeln. Setze dich monatlich mit allen Kontoauszügen, Quittungen und Verträgen an einen ruhigen Tisch mit klarer Beleuchtung. Kategorisiere Ausgaben nach Grundbedürfnissen, Lebensqualität und Zukunft, um versteckte Gewohnheiten transparent zu machen. Berechne deinen monatlichen Mindestlebensstil und formuliere eine Zielquote, die du gezielt für Investitionen freiräumen möchtest. Nutze Budgethüllen oder digitale Kategorien, damit jeder Euro bewusst eine Aufgabe erhält, bevor er das Konto verlässt. Plane wöchentliche Kontrolltermine, bei denen du Abweichungen erkennst, Ursachen erforschst und Strategien behutsam anpasst. Feiere kreative Einsparungen, indem du sie notierst und das gesparte Geld automatisiert in deinen Zukunftstopf umleitest. Beziehe Mitbewohner oder Familie über transparente Gespräche ein, sodass alle wissen, wie Entscheidungen das gemeinsame Ziel unterstützen. Überprüfe Abos halbjährlich, kündige ruhenden Luxus und verhandle aktiv bessere Konditionen bei Versicherungen oder Tarifen. So entsteht ein finanzfreundlicher Alltag, der Sicherheit schafft, Freiräume ermöglicht und langfristige Wünsche strukturiert erfüllt.</description>
-      <link>https://www.ued.de/haushaltsbuch-fuehren/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1767591667-1026684801174725772</guid>
-      <pubDate>Mon, 05 Jan 2026 05:41:07 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 05 Mar 2026 05:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 05:53:58 +0000</lastBuildDate>
     </channel>
   </rss>
