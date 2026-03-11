@@ -2,6 +2,16 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Lebensstil der Nachhaltigkeit</title>
+      <description>Frugalismus ist mehr als nur eine sparsame Lebensweise; es ist eine Philosophie, die sich auf das Wesentliche konzentriert. Der Frugalist strebt danach, Konsum zu minimieren und gleichzeitig Lebensqualität zu maximieren. Dabei geht es nicht um Knauserigkeit, sondern um bewusste Entscheidungen, die Geld, Zeit und Ressourcen effizient nutzen. Diese Herangehensweise erlaubt es, die eigenen Werte zu reflektieren und ein Leben zu führen, das im Einklang mit den eigenen Zielen steht.
+
+In einer Welt, die oft von materiellem Überfluss geprägt ist, bietet der Frugalismus eine erfrischende Perspektive. Die Reduktion von Besitz und Verpflichtungen kann nicht nur helfen, finanziellen Druck zu mindern, sondern auch geistige Klarheit und Zufriedenheit zu fördern. Frugalisten investieren häufig in Erfahrungen statt in Dinge, was zu erfüllenden und nachhaltigen Momenten führt. Durch gezielte Einsparungen ermöglichen sie sich auch langfristige Pläne, wie frühzeitigen Ruhestand oder Reiseziele, die sie wirklich lieben. Der Frugalismus ist damit ein Weg, Freiheit zu gewinnen und ein selbstbestimmtes Leben zu führen.</description>
+      <link>https://www.beispielseite.de/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1773208646-3000278412824301479</guid>
+      <pubDate>Wed, 11 Mar 2026 05:57:26 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Kraft der Selbstentwicklung: Wege zu einem besseren Ich</title>
       <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der uns einlädt, unser volles Potenzial zu entfalten. Sie erfordert Mut, sich seinen Schwächen und Ängsten zu stellen, und die Bereitschaft, an sich selbst zu arbeiten. Ein zentraler Aspekt der Selbstentwicklung liegt in der Selbsterkenntnis. Wer sich selbst gut kennt, erkennt auch, was ihn hindert, seine Ziele zu erreichen. Die Methoden sind vielfältig: von täglichen Affirmationen und Meditationspraktiken bis hin zu Lesen von inspirierenden Büchern. Wichtig ist, dass wir uns regelmäßig Zeit nehmen, um zu reflektieren und our Fortschritt zu beurteilen. Selbstentwicklung ist jedoch nicht nur eine individuelle Reise - sie kann auch durch den Austausch mit Gleichgesinnten enorm gefördert werden. So entsteht ein Netzwerk, das uns unterstützt und motiviert. Der Schlüssel liegt darin, sich die Freiheit zu geben, Fehler zu machen und dabei stets neugierig zu bleiben. Jeder Schritt wärmt unseren Geist und formt uns zu einem besseren Ich.</description>
       <link>https://example.com/selbstentwicklung</link>
@@ -495,18 +505,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1768109649-4055762959560654295</guid>
       <pubDate>Sun, 11 Jan 2026 05:34:09 +0000</pubDate>
       </item>
-    <item>
-      <title>Minimalistische Routinen für Familien</title>
-      <description>Familienleben bringt Bewegung, doch strukturierte Minimalismus-Routinen schaffen Leichtigkeit, ohne Spontaneität oder Spiel zu verlieren. Beginnt euren Tag mit einer gemeinsamen Fünf-Minuten-Aufgabe, bei der jedes Familienmitglied seinen Bereich kurz ordnet. Verwendet farblich markierte Körbe für Dinge unterwegs, damit Spielsachen, Schulsachen und Hobbyutensilien strukturierte Übergänge haben. Plant wöchentliche Familienbesprechungen, um Bedürfnisse, Kalender und Aufräumwünsche abzugleichen, begleitet von Snacks und Lieblingsmusik. Jedes Kind erhält eine überschaubare Erinnerungsbox, die vierteljährlich gemeinsam sortiert und bewusst liebevoll reduziert wird. Für Eltern lohnt eine Abendroutine mit zwei Fragen: Was darf bleiben, was darf morgen gehen oder weiterziehen? Digitale Termine, Einkaufslisten und Wunschzettel sammelt ihr in einer gemeinsamen App, sodass kein Papierstapel Kontrolle übernimmt. Belohnt konsequentes Aussortieren mit gemeinsamen Erlebnissen: ein Picknick, eine Fahrradtour oder ein kreativer Bastelnachmittag. So verbindet ihr Minimalismus mit Freude, Teamgeist und der Erfahrung, dass weniger Dinge mehr Nähe ermöglichen. Langfristig entsteht ein Zuhause, das Energie spart, Entscheidungen verkürzt und Ressourcen für gemeinsame Abenteuer freilegt.</description>
-      <link>https://www.minimalistmoms.com/blog/minimalismus-familie</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1768023009-6713615935322523804</guid>
-      <pubDate>Sat, 10 Jan 2026 05:30:09 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 10 Mar 2026 05:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:57:26 +0000</lastBuildDate>
     </channel>
   </rss>
