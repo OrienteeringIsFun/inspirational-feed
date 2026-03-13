@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Schönheit des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die dazu einlädt, sich von Überflüssigem zu befreien und die Essenz des Lebens zu entdecken. Im Kern geht es darum, bewusster zu leben und den Fokus auf die Dinge zu legen, die wirklich zählen. Diese Praxis ermutigt uns, materielle Besitztümer zu hinterfragen und den Wert des Einklangs mit uns selbst und unserem Umfeld zu erkennen. Durch das Reduzieren von Ballast – sei es physisch oder emotional – eröffnen sich oft neue Perspektiven und Freiräume für Kreativität. Viele Menschen berichten von einem Gefühl der Befreiung und Klarheit, sobald sie den ersten Schritt in Richtung Minimalismus wagen. Es geht nicht nur um weniger Dinge, sondern um ein erfüllteres Leben. Diese Strömung hat das Potenzial, uns zu helfen, unsere Prioritäten neu zu ordnen und die Zeit, die wir investieren, wesentlich bewusster zu gestalten. Minimalismus ist somit eine Einladung, das Wesentliche zu umarmen und Überflüssiges loszulassen.</description>
+      <link>https://www.beispielurl.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1773381431-8298607839511826049</guid>
+      <pubDate>Fri, 13 Mar 2026 05:57:10 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für Anfänger: Der Schlüssel zum Vermögensaufbau</title>
       <description>Investieren ist ein essentielles Werkzeug für jeden, der seine finanzielle Zukunft sichern möchte. Während viele Menschen den Begriff oft mit Risiko und Unsicherheit assoziieren, sollte man ihn vielmehr als Chance sehen. Bereits mit kleinen Beträgen kann man beginnen, Vermögen aufzubauen. Ein guter erster Schritt ist es, sich über verschiedene Anlageformen zu informieren. Aktien, Anleihen und Immobilien sind nur einige Möglichkeiten, die unterschiedliche Risiken und Renditen bieten. Wichtig ist, dass man eine Anlagestrategie entwickelt, die zu den eigenen Zielen und der Risikobereitschaft passt. Außerdem sollte man die Bedeutung von Diversifikation nicht unterschätzen; indem man in verschiedene Bereiche investiert, kann man das Risiko streuen. Ein weiterer Aspekt ist die Geduld: Investieren ist oft ein langfristiger Prozess, der sich über Jahre hinweg auszahlt. Letztlich geht es nicht nur um Geld, sondern auch um die Freiheit, die eine finanzielle Unabhängigkeit mit sich bringt.</description>
       <link>https://www.example.com/investieren-anfaenger</link>
@@ -497,18 +505,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1768282437-5501890077400917256</guid>
       <pubDate>Tue, 13 Jan 2026 05:33:57 +0000</pubDate>
       </item>
-    <item>
-      <title>Rituale für ein aufgeräumtes Zuhause</title>
-      <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
-      <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1768196262-2643704618997801500</guid>
-      <pubDate>Mon, 12 Jan 2026 05:37:42 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 12 Mar 2026 05:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:57:10 +0000</lastBuildDate>
     </channel>
   </rss>
