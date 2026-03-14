@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der darauf abzielt, das individuelle Potenzial zu entfalten und persönliche Ziele zu erreichen. Es geht darum, sich selbst besser kennenzulernen und eigene Stärken sowie Schwächen zu identifizieren. Ein wichtiger Aspekt der Selbstentwicklung ist die Auseinandersetzung mit den eigenen Werten und Überzeugungen. Diese Reflexion ermöglicht es, gezielte Entscheidungen zu treffen und den eigenen Lebensweg aktiv zu gestalten. Tools wie Journaling oder geführte Meditation können dabei unterstützen, innere Klarheit zu gewinnen. Zudem ist es essenziell, außerhalb der Komfortzone zu agieren. Neue Erfahrungen sammeln und sich Herausforderungen stellen, fördert nicht nur das Selbstbewusstsein, sondern stärkt auch die Resilienz. In einer sich ständig verändernden Welt ist die Fähigkeit zur Selbstentwicklung zunehmend wichtig, um sowohl im beruflichen als auch im privaten Leben erfolgreich zu sein. Ein integrierter Ansatz, der körperliche, emotionale und geistige Aspekte berücksichtigt, kann den persönlichen Entwicklungsprozess nachhaltig fördern.</description>
+      <link>https://www.example.com/selbstentwicklung</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1773467656-1689340914719213642</guid>
+      <pubDate>Sat, 14 Mar 2026 05:54:16 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Schönheit des Minimalismus</title>
       <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die dazu einlädt, sich von Überflüssigem zu befreien und die Essenz des Lebens zu entdecken. Im Kern geht es darum, bewusster zu leben und den Fokus auf die Dinge zu legen, die wirklich zählen. Diese Praxis ermutigt uns, materielle Besitztümer zu hinterfragen und den Wert des Einklangs mit uns selbst und unserem Umfeld zu erkennen. Durch das Reduzieren von Ballast – sei es physisch oder emotional – eröffnen sich oft neue Perspektiven und Freiräume für Kreativität. Viele Menschen berichten von einem Gefühl der Befreiung und Klarheit, sobald sie den ersten Schritt in Richtung Minimalismus wagen. Es geht nicht nur um weniger Dinge, sondern um ein erfüllteres Leben. Diese Strömung hat das Potenzial, uns zu helfen, unsere Prioritäten neu zu ordnen und die Zeit, die wir investieren, wesentlich bewusster zu gestalten. Minimalismus ist somit eine Einladung, das Wesentliche zu umarmen und Überflüssiges loszulassen.</description>
       <link>https://www.beispielurl.com/minimalismus</link>
@@ -497,18 +505,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1768368855-3816812738816663212</guid>
       <pubDate>Wed, 14 Jan 2026 05:34:14 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugale Küche mit Genuss</title>
-      <description>Eine frugale Küche bedeutet nicht Verzicht, sondern kreative Planung, die Geschmack, Gesundheit und Budget gleichermaßen achtet. Starte mit einer Wocheninventur: Notiere vorhandene Vorräte, Gewürze und Tiefkühlschätze, bevor du neue Einkäufe planst. Erstelle einen Menüplan mit saisonalen Zutaten, die du über Wochenmärkte, solidarische Landwirtschaft oder Foodsharing-Communities beziehst. Koche Basisgerichte wie Hülsenfrüchtesuppen, Ofengemüse oder Körnerpfannen in großen Portionen und friere individuelle Portionen ein. Nutze Restetage, an denen du kreative Bowls, Wraps oder Aufläufe aus übrig gebliebenen Komponenten gestaltest. Würze bewusst mit Kräutern, Zitrusabrieb und fermentierten Zutaten, um Tiefe zu schaffen, ohne teure Spezialprodukte zu kaufen. Lade Freunde zum gemeinsamen Vorkochen ein, teilt Einkaufskosten, tauscht Rezepte und füllt gemeinsam Vorratsgläser. Dokumentiere Lieblingskombinationen und Kosten pro Portion, damit du Budgetziele mit Genussmomenten sichtbar verbinden kannst. Investiere in langlebige Küchenwerkzeuge, die Reparaturen erlauben, und pflege sie sorgfältig nach jeder Nutzung. So entsteht eine Küche, die Herzen nährt, Ressourcen schont und finanzielle Spielräume liebevoll erweitert.</description>
-      <link>https://utopia.de/ratgeber/meal-prep-vorbereiten-zeit-sparen/</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1768282437-5501890077400917256</guid>
-      <pubDate>Tue, 13 Jan 2026 05:33:57 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 13 Mar 2026 05:57:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 05:54:16 +0000</lastBuildDate>
     </channel>
   </rss>
