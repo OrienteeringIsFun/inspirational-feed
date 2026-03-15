@@ -2,6 +2,15 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Weg zu mehr Lebensqualität</title>
+      <description>Frugalismus ist ein Lebensstil, der auf Einfachheit und einem bewussten Umgang mit Geld basiert. Im Gegensatz zum herkömmlichen Konsumverhalten streben Frugalisten danach, ihre Ausgaben auf das Notwendigste zu reduzieren. Dadurch gewinnen sie nicht nur finanziellen Spielraum, sondern auch Zeit und Freiheit, um sich auf die Dinge zu konzentrieren, die ihnen wirklich wichtig sind. Dieser Lebensstil ermutigt Menschen, bewusster zu konsumieren, ihre Prioritäten zu überdenken und sich von materialistischen Zwängen zu befreien. 
+Ein zentraler Aspekt des Frugalismus ist die bewusste Entscheidung, nicht mehr Geld auszugeben, als nötig ist, um ein erfülltes Leben zu führen. Oftmals zeigt sich, dass weniger Besitz und weniger Aufwand zu mehr Zufriedenheit führen können. Reisen, Zeit mit Freunden und Familie oder das Verfolgen von Hobbys erhalten so einen höheren Stellenwert. In einer Welt, die oft von Konsumdruck geprägt ist, bietet der Frugalismus einen erfrischenden Ansatz, um mehr Lebensqualität und finanzielle Freiheit zu erlangen.</description>
+      <link>https://www.frugalismus.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1773554898-6699216917672114392</guid>
+      <pubDate>Sun, 15 Mar 2026 06:08:18 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der darauf abzielt, das individuelle Potenzial zu entfalten und persönliche Ziele zu erreichen. Es geht darum, sich selbst besser kennenzulernen und eigene Stärken sowie Schwächen zu identifizieren. Ein wichtiger Aspekt der Selbstentwicklung ist die Auseinandersetzung mit den eigenen Werten und Überzeugungen. Diese Reflexion ermöglicht es, gezielte Entscheidungen zu treffen und den eigenen Lebensweg aktiv zu gestalten. Tools wie Journaling oder geführte Meditation können dabei unterstützen, innere Klarheit zu gewinnen. Zudem ist es essenziell, außerhalb der Komfortzone zu agieren. Neue Erfahrungen sammeln und sich Herausforderungen stellen, fördert nicht nur das Selbstbewusstsein, sondern stärkt auch die Resilienz. In einer sich ständig verändernden Welt ist die Fähigkeit zur Selbstentwicklung zunehmend wichtig, um sowohl im beruflichen als auch im privaten Leben erfolgreich zu sein. Ein integrierter Ansatz, der körperliche, emotionale und geistige Aspekte berücksichtigt, kann den persönlichen Entwicklungsprozess nachhaltig fördern.</description>
       <link>https://www.example.com/selbstentwicklung</link>
@@ -497,18 +506,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1768455286-1416739595481755997</guid>
       <pubDate>Thu, 15 Jan 2026 05:34:46 +0000</pubDate>
       </item>
-    <item>
-      <title>Rituale für ein aufgeräumtes Zuhause</title>
-      <description>Ein aufgeräumtes Zuhause beginnt nicht mit großen Aktionen, sondern mit kleinen täglichen Ritualen, die beständig wirken. Starte jeden Morgen mit einem fünfminütigen Rundgang, bei dem du Oberflächen frei räumst und Energie neu ausrichtest. Lege eine Ablagezone für unterwegs ankommende Gegenstände fest, damit Schlüssel, Post und Technik sofort ihren Platz finden. Beziehe deine Mitbewohner durch kurze Abendroutinen ein, in denen jeder drei Handgriffe übernimmt und anschließend Dankbarkeit ausgesprochen wird. Ein wöchentliches Reset am Sonntag strukturiert größere Aufgaben: Textilien waschen, Vorräte prüfen, Reparaturen terminieren, Pflanzen pflegen. Nutze ruhige Musik oder Podcasts, um den Prozess angenehm zu gestalten und die Wiederholung mit Freude zu verbinden. Halte ein kleines Notizbuch bereit, in dem du auftauchende Ideen für Verschönerungen oder Simplifizierungen sofort festhältst. Belohne dich nach jeder abgeschlossenen Runde mit einem Glas Wasser, einem Dehnungsimpuls oder einer Minute stillen Atmens. So lernt dein Körper, Ordnung mit Fürsorge zu verbinden, statt sie als lästige Pflicht wahrzunehmen. Mit der Zeit entsteht eine Atmosphäre, die Konzentration fördert, Gäste willkommen heißt und deine Ziele freundlich unterstützt.</description>
-      <link>https://www.ordnungsliebe.net/abendroutine-ordnung-zuhause/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1768368855-3816812738816663212</guid>
-      <pubDate>Wed, 14 Jan 2026 05:34:14 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 14 Mar 2026 05:54:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:08:18 +0000</lastBuildDate>
     </channel>
   </rss>
