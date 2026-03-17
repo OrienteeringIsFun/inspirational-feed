@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zum Minimalismus: Freiheit durch Reduktion</title>
+      <description>Minimalismus ist weit mehr als nur ein Trend – es ist eine Lebensphilosophie, die uns hilft, das Wesentliche von dem Unnötigen zu unterscheiden. In einer Welt, die von Konsum und Überfluss geprägt ist, suchen viele Menschen nach Möglichkeiten, ihr Leben zu entschlacken. Durch das Reduzieren materieller Besitztümer schaffen wir Raum für neue Erfahrungen und stärken unsere geistige Gesundheit. Minimalismus fördert nicht nur die Achtsamkeit, sondern kann auch finanzielle Freiheit bedeuten. Wer weniger besitzt, gibt weniger aus und kann seine Ressourcen effizienter nutzen. Zudem wird der Fokus auf Qualität und Nachhaltigkeit gelegt, anstatt auf Quantität. Es ist ein bewusster Lebensstil, der uns ermutigt, uns auf Dinge zu konzentrieren, die uns wirklich glücklich machen – seien es eher spirituelle Erlebnisse oder die Zeit mit geliebten Menschen. Letztendlich führt Minimalismus zu einer klareren Sicht auf unsere Werte und Prioritäten, weshalb immer mehr Menschen diesen Weg einschlagen.</description>
+      <link>https://www.beispielurl.de/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1773727482-7343724717423695888</guid>
+      <pubDate>Tue, 17 Mar 2026 06:04:42 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für ein unabhängiges Leben</title>
       <description>Investieren ist eine Schlüsselstrategie, um finanzielle Freiheit und Unabhängigkeit zu erreichen. Dabei geht es nicht nur um den Kauf von Aktien oder Immobilien, sondern vielmehr um die bewusste Auswahl von Anlagen, die zur eigenen Lebensvision passen. Ein gut durchdachter Investmentplan ermöglicht es, Vermögen aufzubauen und die eigene Zukunft aktiv zu gestalten. Es ist wichtig, sich über verschiedene Anlagemöglichkeiten zu informieren und Risiken sinnvoll abzuwägen. Wer nachhaltig investieren möchte, sollte auch Ethik und Umweltaspekte berücksichtigen. Oftmals sind es die kleinen, regelmäßigen Investitionen, die über die Jahre einen signifikanten Unterschied machen können. Disziplin ist dabei entscheidend: Anstatt impulsiv zu handeln, sollten Entscheidungen auf fundierten Informationen basieren. Diversifikation des Portfolios kann zudem helfen, Risiken zu streuen und die Chancen auf eine positive Rendite zu erhöhen. Letztlich ist Investieren ein Werkzeug, um Träume zu verwirklichen und ein selbstbestimmtes Leben zu führen.</description>
       <link>https://www.example.com/investieren</link>
@@ -498,18 +506,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1768627772-4078918372251478820</guid>
       <pubDate>Sat, 17 Jan 2026 05:29:32 +0000</pubDate>
       </item>
-    <item>
-      <title>Selbstreflexion am Morgen</title>
-      <description>Ein bewusst gestalteter Morgen ist ein Labor für Selbstentwicklung, weil er noch unbeschrieben und formbar erscheint. Stell dir einen stillen Tisch bereit, auf dem nur Tagebuch, Stift, Tee und ein warmes Licht warten. Beginne mit drei tiefen Atemzügen, bevor du in kurzen Sätzen notierst, wofür du heute dankbar bist. Wechsle anschließend zur Frage, welches Gefühl dich gestern begleitet hat und welche Lernerkenntnis darin verborgen lag. Formuliere einen Satz, der beschreibt, wie du dich heute erleben möchtest, und wähle dazu eine konkrete Handlung. Schreibe eine kurze Ermutigung an dein zukünftiges Ich, damit du später auf deine heutige Intention zurückgreifen kannst. Beende das Ritual mit einem bewussten Schluck deines Getränks und einem Blick ins Licht, das den Raum erfüllt. Verankere deine Erkenntnisse, indem du einen Timer stellst und die wichtigste Intention noch einmal laut aussprichst. Erlaube dir, das Tagebuch tagsüber kurz aufzuschlagen, um Fortschritte zu markieren oder Kurskorrekturen festzuhalten. So entsteht ein achtsamer Rahmen, der Klarheit schenkt, Selbstführung stärkt und dich freundlich auf den Tag ausrichtet.</description>
-      <link>https://www.zeitzuleben.de/morgenritual-selbstreflexion/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1768541655-7773866059278607984</guid>
-      <pubDate>Fri, 16 Jan 2026 05:34:15 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 16 Mar 2026 06:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:04:42 +0000</lastBuildDate>
     </channel>
   </rss>
