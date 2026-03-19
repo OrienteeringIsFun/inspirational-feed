@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Lebensstil der Besinnung</title>
+      <description>Frugalismus ist mehr als nur ein sparsames Leben; es ist eine Philosophie, die sich auf das Wesentliche konzentriert. Menschen, die diesen Lebensstil wählen, streben danach, ihre Konsumgewohnheiten zu überdenken und sich auf das zu fokussieren, was wirklich zählt: Zeit, Beziehungen und persönliche Entfaltung. Durch bewussten Konsum gelingt es Frugalisten, finanzielle Freiheit zu erlangen und ein erfülltes Leben zu führen. Sie investieren nicht nur Geld, sondern auch Zeit in die Dinge, die ihnen Freude bereiten. Der Verzicht auf unnötigen Luxus und materielle Besitztümer schafft Raum für neue Erfahrungen und Eindrücke. Dabei ist Frugalismus individuell und jeder kann für sich definieren, was für ihn oder sie essenziell ist. In einer Welt, die oft von Überfluss geprägt ist, lädt der Frugalismus dazu ein, innezuhalten und den eigenen Lebensstil zu hinterfragen. Letztendlich zielt dieser Ansatz darauf ab, mehr Lebensqualität zu erreichen, ohne sich in einem Hamsterrad des Konsums zu verlieren.</description>
+      <link>https://www.beispiel-url.de/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1773900196-8449734533050901749</guid>
+      <pubDate>Thu, 19 Mar 2026 06:03:16 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Reise zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein fortwährender Prozess, der das Streben nach persönlichem Wachstum und Verbesserung beschreibt. Dieser Weg beginnt oft mit der Auseinandersetzung der eigenen Stärken und Schwächen. Indem wir uns selbst reflektieren, können wir Erkenntnisse gewinnen, die uns helfen, unsere Ziele klarer zu definieren.  Es ist wichtig, realistische und erreichbare Ziele zu setzen, die unsere Komfortzone herausfordern, ohne uns zu überfordern. Zudem spielt das Lernen von neuen Fähigkeiten eine entscheidende Rolle. Regelmäßiges Lesen, Kurse besuchen oder das Erlernen einer neuen Sprache sind Beispiele, die unsere Perspektiven erweitern und unser Selbstvertrauen stärken können. Auch der Austausch mit anderen, sei es durch Netzwerke oder Mentorenschaften, bereichert unsere Entwicklung. Der Prozess der Selbstentwicklung ist individuell und erfordert Geduld und Ausdauer. Jeder Schritt in Richtung Selbstverbesserung trägt dazu bei, ein erfüllteres und glücklicheres Leben zu führen.</description>
       <link>https://www.beispielseite.de/selbstentwicklung</link>
@@ -498,18 +506,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1768801130-1647970065226164791</guid>
       <pubDate>Mon, 19 Jan 2026 05:38:50 +0000</pubDate>
       </item>
-    <item>
-      <title>Leichtes Gepäck im Alltag</title>
-      <description>Wenn du deinen Morgen leichter beginnen willst, starte mit einer ruhigen Bestandsaufnahme deiner wichtigsten Räume heute. Notiere ehrlich, welche Gegenstände tatsächlichen Nutzen bringen und welche nur alte Geschichten oder unklare Verpflichtungen tragen. Lass dir anschließend Zeit, jedes Objekt bewusst in die Hand zu nehmen und nach seiner künftigen Aufgabe zu fragen. Werfe nichts übereilt weg, sondern entscheide, ob du es verkaufen, verschenken, spenden oder würdevoll verabschieden möchtest. Indem du diesen Prozess über mehrere Tage verteilst, schützt du deine Energie und würdigst deine bisherigen Lebensabschnitte. Ersetze freiwerdende Flächen bewusst mit Stille, einer frischen Pflanze oder einer klaren Arbeitsfläche für fokussiertes Wirken. Spüre, wie weniger Besitz deine Routinen vereinfacht, Entscheidungen beschleunigt und Platz für neue Erfahrungen oder Beziehungen schafft. Nutze das gewonnene Momentum, um digitale Dokumente ebenso kritisch zu sichten und redundante Dateien sicher zu archivieren. Am Ende steht ein Zuhause, das deine Werte sichtbar macht, deine Aufmerksamkeit fokussiert und deine Zukunft freundlich begrüßt. Feiere jede entschiedene Veränderung mit einem kurzen Atemzug, der dich an deine neue Leichtigkeit erinnert.</description>
-      <link>https://minimalismus.ch/blog/wie-beginne-ich-mit-minimalismus/</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1768714317-3062910620635994702</guid>
-      <pubDate>Sun, 18 Jan 2026 05:31:56 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 18 Mar 2026 06:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:03:16 +0000</lastBuildDate>
     </channel>
   </rss>
