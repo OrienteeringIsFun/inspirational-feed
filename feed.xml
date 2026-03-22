@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kraft der Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein lebenslanger Prozess, der uns hilft, unsere inneren Potenziale zu entfalten und unser volles Selbst zu entdecken. Es umfasst sowohl die Verbesserung von Fähigkeiten als auch die persönliche Entfaltung in emotionaler und mentaler Hinsicht. Immer mehr Menschen erkennen die Bedeutung von Selbstentwicklung, sei es durch das Lesen von Büchern, den Austausch mit Gleichgesinnten oder die Teilnahme an Workshops. Die Reise beginnt oft mit der Selbsterkenntnis: Wer bin ich? Was sind meine Ziele? Diese Fragen helfen dabei, Klarheit zu gewinnen und den richtigen Weg zu finden. Ein weiterer wichtiger Aspekt ist die Praxis der Achtsamkeit, die uns lehrt, im Moment zu leben und bewusster zu handeln. Selbstentwicklung erfordert auch Mut, denn oft müssen wir Komfortzonen verlassen. Das ermöglicht Wachstum und neue Perspektiven. Durch kontinuierliches Arbeiten an uns selbst schaffen wir nicht nur eine bessere Lebensqualität, sondern inspirieren auch die Menschen um uns herum, ihren eigenen Weg der Selbstentwicklung zu beschreiten.</description>
+      <link>https://www.example.com/selbstentwicklung</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1774159150-8355084739355520013</guid>
+      <pubDate>Sun, 22 Mar 2026 05:59:09 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zum Minimalismus</title>
       <description>Minimalismus ist mehr als nur ein Lebensstil; es ist eine Philosophie, die das Ziel verfolgt, durch das Reduzieren von Besitz und Verpflichtungen ein erfüllteres Leben zu führen. Der Ansatz basiert auf der Überzeugung, dass weniger oft mehr ist. Indem man sich von überflüssigen Gegenständen trennt, schafft man Raum für das Wesentliche – sei es in materieller, emotionaler oder geistiger Hinsicht. Minimalisten setzen sich häufig intensiv mit ihren Bedürfnissen und Wünschen auseinander. Dies führt zu einer klareren Wahrnehmung und einem bewussteren Umgang mit Ressourcen.
 
@@ -500,18 +508,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1769060238-4317148050770150763</guid>
       <pubDate>Thu, 22 Jan 2026 05:37:18 +0000</pubDate>
       </item>
-    <item>
-      <title>Ressourcenorientierte Pausen</title>
-      <description>Pausen sind keine Unterbrechung, sondern die Werkstatt, in der sich deine Ressourcen regenerieren und wachsen dürfen. Plane sie bewusst wie Termine, inklusive kurzer Beschreibung, welches Bedürfnis die Pause erfüllen soll. Unterscheide körperliche, mentale und emotionale Pausen, damit du passgenau das wählst, was dir Energie schenkt. Stelle dir Erinnerungen im Kalender, die dich freundlich daran erinnern, rechtzeitig aus dem Arbeitsmodus auszusteigen. Nutze kurze Atemübungen, Dehnungen oder einen Spaziergang um den Block, um Körper und Geist zu resetten. Für mentale Pausen eignen sich Mikro-Journaling, Brain-Dumps oder ein Puzzle, das deine Aufmerksamkeit spielerisch umlenkt. Emotionale Pausen darfst du mit Musik, Kontakt zu Freunden oder einem inspirierenden Text füllen, der dich nährt. Reflektiere abends, welche Pausenart den größten Effekt hatte und wie du sie morgen noch stimmiger gestalten kannst. Kommuniziere deinem Umfeld, dass Pausen Teil deiner Arbeitsstrategie sind, damit sich niemand über deine Abwesenheit wundert. So werden Pausen zu kraftvollen Ritualen, die Kreativität erneuern, Belastbarkeit erhöhen und deine Lebensqualität stabilisieren.</description>
-      <link>https://karrierebibel.de/pause-machen/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1768973828-2159150380669002149</guid>
-      <pubDate>Wed, 21 Jan 2026 05:37:08 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 21 Mar 2026 05:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 05:59:09 +0000</lastBuildDate>
     </channel>
   </rss>
