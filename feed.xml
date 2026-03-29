@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein Wohntrend; es ist eine Lebensphilosophie, die darauf abzielt, überflüssige Dinge zu beseitigen und sich auf das Wesentliche zu konzentrieren. In einer Welt voller Ablenkungen und Konsumrausch bietet Minimalismus einen klaren Pfad zu innerem Frieden und Klarheit. Durch das Reduzieren materieller Besitztümer schaffen wir Raum für Dinge, die wirklich zählen – sei es Zeit für Familie, Hobbys oder persönliche Entwicklung. Minimalismus lehrt uns, bewusster zu konsumieren und die Qualität über die Quantität zu stellen. Immer mehr Menschen berichten von einer gesteigerten Lebensqualität und weniger Stress, nachdem sie sich von überflüssigem Ballast befreit haben. Diese Lebensweise erfordert Mut und Entschlossenheit, kann jedoch ein tiefgreifendes Gefühl der Freiheit und Erfüllung mit sich bringen. Anstatt nach dem nächsten großen Kauf zu streben, lernen wir, Glück in den kleinen Dingen des Lebens zu finden, und entdecken somit, was uns wirklich wichtig ist.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1774764852-8630414916339055804</guid>
+      <pubDate>Sun, 29 Mar 2026 06:14:11 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für die Zukunft: Ein kluger Schritt</title>
       <description>Investieren ist mehr als nur Geldanlage; es ist eine Strategie für finanzielle Sicherheit und persönliches Wachstum. Durch bewusstes Investieren kann jeder seine Vermögenswerte vergrößern und für die Zukunft vorsorgen. Wichtig ist, sich gut zu informieren und eine fundierte Entscheidung zu treffen. Ob in Aktien, Immobilien oder Fonds – jede Anlageform hat ihre Vor- und Nachteile. Dabei sollte auch die persönliche Risikobereitschaft berücksichtigt werden.
 
@@ -504,18 +512,10 @@ Nicht zuletzt ist der Austausch mit Gleichgesinnten von großer Bedeutung. Netzw
       <guid isPermaLink="false">1769665994-3832742524172508715</guid>
       <pubDate>Thu, 29 Jan 2026 05:53:13 +0000</pubDate>
       </item>
-    <item>
-      <title>Journaling für Fokus</title>
-      <description>Journaling ist eine präzise Linse für deinen Fokus, weil Gedanken schriftlich Form gewinnen und Entscheidungen sichtbarer werden. Lege ein Notizbuch mit drei Abschnitten an: Rückblick, Gegenwart und Ausblick, getrennt durch farbige Register. Nutze den Rückblick morgens, um gestern in drei Stichpunkten zu würdigen und Lernerfahrungen klar festzuhalten. Der Gegenwartsbereich dient für Prioritätenlisten, bewusst auf drei Aufgaben begrenzt, ergänzt durch den jeweils benötigten Energiezustand. Im Ausblick formulierst du Visionen, Experimente und Fragen, die dich neugierig halten und dein Lernen strukturieren. Schließe jede Einheit mit einer Skala von eins bis zehn, die deinen Fokus und deine Präsenz bewertet. Ein wöchentlicher Rückblick verbindet die Abschnitte, indem du Trends markierst, Fortschritte feierst und Strategien anpasst. Bewahre Stifte, Marker und Kalender am selben Ort, damit dein Ritual ohne Suchaufwand beginnen kann. Verwende gelegentlich Illustrationen oder Collagen, um Emotionen auszudrücken, die sich schwer in Worte fassen lassen. So wird dein Journal zu einem Kompass, der Klarheit schenkt, Prioritäten schärft und innere Dialoge liebevoll sortiert.</description>
-      <link>https://www.einfachachtsam.de/journaling-fokus-tipps/</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1769578617-4096171409497326847</guid>
-      <pubDate>Wed, 28 Jan 2026 05:36:57 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 28 Mar 2026 06:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 06:14:11 +0000</lastBuildDate>
     </channel>
   </rss>
