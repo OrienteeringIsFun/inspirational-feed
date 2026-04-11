@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung: Kleine Schritte, große Veränderungen</title>
+      <description>Selbstentwicklung ist ein fortwährender Prozess, der oft mit kleinen, achtsamen Schritten beginnt. In der heutigen schnelllebigen Welt neigen viele dazu, sich von äußeren Einflüssen ablenken zu lassen. Doch wahre Veränderung kommt von innen. Es ist wichtig, sich Zeit für Reflexion zu nehmen und herauszufinden, was die eigenen Werte und Ziele sind. Dabei kann das Führen eines Journals helfen, um Gedanken und Fortschritte festzuhalten. Ein weiterer Aspekt der Selbstentwicklung ist das Setzen realistischer Ziele. Anstatt sich zu überfordern, sollten kleine, erreichbare Ziele formuliert werden. Dies fördert nicht nur die Motivation, sondern auch das Selbstvertrauen. Auch der Austausch mit Gleichgesinnten kann inspirierend wirken und den eigenen Weg unterstützen. Letztlich geht es darum, kontinuierlich an sich zu arbeiten und offen für neue Erfahrungen zu sein. Vertrauen Sie dem Prozess, denn jeder Schritt zählt auf dem Weg zur verbesserten Version Ihrer selbst.</description>
+      <link>https://www.selbstentwicklung.de</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1775887548-1936200239689571094</guid>
+      <pubDate>Sat, 11 Apr 2026 06:05:48 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Kraft des Minimalismus</title>
       <description>Minimalismus ist mehr als nur ein ästhetischer Lebensstil; es ist eine Philosophie, die uns dazu anregt, unser Leben zu hinterfragen und Überflüssiges abzulegen. In einer Welt, die oft von Konsum und materiellem Besitz geprägt ist, bietet der Minimalismus einen erfrischenden Ansatz, um sich auf die wirklich wichtigen Dinge zu konzentrieren. Es geht darum, Raum für das Wesentliche zu schaffen—sei es Zeit, Beziehungen oder persönliche Ziele. Indem wir uns von unnötigen Gegenständen und Ablenkungen befreien, gewinnen wir nicht nur mentale Klarheit, sondern auch Freiheit. Viele Menschen berichten, dass sie durch die Reduzierung ihres Besitzes eine tiefere Zufriedenheit erfahren haben, weil sie sich weniger um materielle Dinge kümmern müssen. Minimalismus fördert Achtsamkeit und hilft, Prioritäten zu setzen, wodurch wir bewusster leben können. Letztendlich ist es ein Weg, der zu mehr Nachhaltigkeit, innerer Ruhe und einer tieferen Wertschätzung für das Leben führt.</description>
       <link>https://www.example.com/minimalismus</link>
@@ -510,18 +518,10 @@ Der Frugalismus ermutigt dazu, die eigene Lebensweise zu hinterfragen und Priori
       <guid isPermaLink="false">1770790336-1301333493740262789</guid>
       <pubDate>Wed, 11 Feb 2026 06:12:15 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Reise zur Selbstentwicklung</title>
-      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der es uns ermöglicht, unsere Fähigkeiten, Kenntnisse und unser emotionales Wohlbefinden zu verbessern. Diese Reise beginnt oft mit der Selbstreflexion – einem ehrlichen Blick in uns selbst, um unsere Stärken und Schwächen zu erkennen. In der heutigen schnelllebigen Welt ist es wichtig, Ziele zu setzen und Strategien zu entwickeln, um diese zu erreichen. Techniken wie Journaling, Meditation und das Lesen inspirierender Literatur können uns helfen, Klarheit über unsere Lebensziele zu gewinnen. Von großer Bedeutung ist auch die Bereitschaft, aus Fehlern zu lernen und sich ständig neuen Herausforderungen zu stellen. Über das persönliche Wachstum hinaus beeinflusst Selbstentwicklung auch unsere Beziehungen zu anderen. Ein bewusster Umgang mit unseren Emotionen und die Fähigkeit, Empathie zu zeigen, stärken die zwischenmenschlichen Bindungen. Indem wir uns um unsere persönliche Entwicklung kümmern, schaffen wir eine Grundlage für ein erfülltes und authentisches Leben.</description>
-      <link>https://www.example.com/selbstentwicklung</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1770704091-5576534862639191480</guid>
-      <pubDate>Tue, 10 Feb 2026 06:14:50 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 06:05:48 +0000</lastBuildDate>
     </channel>
   </rss>
