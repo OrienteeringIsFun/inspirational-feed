@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kraft des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein Lebensstil; es ist eine Philosophie, die uns dazu anregt, bewusster mit unseren Ressourcen umzugehen. In einer Welt, die häufig von Überfluss und Konsum geprägt ist, bietet Minimalismus einen erfrischenden Kontrast. Es geht nicht nur darum, materielle Besitztümer zu reduzieren, sondern auch um das Streben nach innerer Freiheit und Klarheit. Durch das Entfernen von Unnötigem schaffen wir Raum für die Dinge, die wirklich zählen: Zeit mit geliebten Menschen, persönliche Entwicklung und sinnvolle Erfahrungen. Zu einem minimalistischen Leben gehört auch eine bewusste Auswahl der Informationen, die wir konsumieren, sowie der Aktivitäten, denen wir unsere Zeit widmen. Indem wir uns auf das Wesentliche konzentrieren, können wir Stress reduzieren und unser Wohlbefinden steigern. Minimalismus lehrt uns, dass wir nicht mehr brauchen, um glücklicher zu sein; manchmal ist weniger tatsächlich mehr.</description>
+      <link>https://www.beispielseite.de/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1776492967-9120796460440443047</guid>
+      <pubDate>Sat, 18 Apr 2026 06:16:06 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zum erfolgreichen Investieren</title>
       <description>Investieren ist eine Kunst, die Geduld, Wissen und eine klare Strategie erfordert. Viele Menschen stellen sich die Frage, wie sie ihr Geld sinnvoll anlegen können, um langfristig von den Zinsen und der Wertsteigerung zu profitieren. Der erste Schritt ist, ein Grundverständnis für verschiedene Anlageformen zu entwickeln. Aktien, Anleihen, Immobilien oder Fonds – jede Anlageklasse hat ihre Vor- und Nachteile. 
 
@@ -510,18 +518,10 @@ Zudem spielt das Setzen von klaren Zielen eine entscheidende Rolle. Ziele sollte
       <guid isPermaLink="false">1771394810-2054567576279523567</guid>
       <pubDate>Wed, 18 Feb 2026 06:06:50 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Essenz des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die immer mehr Menschen inspiriert. Der grundlegende Gedanke dahinter ist, Bescheid zu wissen, was wirklich wichtig im Leben ist, und sich von Überflüssigem zu trennen. Durch das Reduzieren materieller Besitztümer öffnen wir Raum für Erfahrungen, Beziehungen und innere Ruhe. Anstatt uns von Konsum und Dingen, die wir nicht benötigen, leiten zu lassen, fordert der Minimalismus uns auf, bewusster zu leben und unsere Zeit sinnvoll zu investieren. Dies kann zu einer gesteigerten Lebensqualität führen, da wir uns auf die Dinge konzentrieren, die uns wirklich erfüllen. Oftmals führt der Schritt in ein minimalistisches Leben auch zu finanzieller Freiheit, da weniger Konsum zu weniger Ausgaben führt und somit mehr Möglichkeiten für sinnvolle Investitionen schafft. Indem wir unseren Lebensstil vereinfachen, schaffen wir Raum für Kreativität und persönliche Entwicklung. Der Minimalismus ermutigt uns, die Freiheit jenseits materieller Besitztümer zu finden und ein erfülltes Leben zu führen.</description>
-      <link>https://www.beispielseite.de/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1771308132-1956492500646035102</guid>
-      <pubDate>Tue, 17 Feb 2026 06:02:12 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 06:16:06 +0000</lastBuildDate>
     </channel>
   </rss>
