@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein ästhetisches Konzept – es ist eine Lebensphilosophie, die den Fokus auf das Wesentliche legt. In einer Welt voller Überfluss und Ablenkungen bietet Minimalismus einen Weg, sich von unnötigem Ballast zu befreien. Durch das Reduzieren materieller Besitztümer gewinnen wir nicht nur mehr Platz, sondern auch mehr Zeit und geistige Klarheit. Weniger Dinge bedeuten häufig weniger Stress und eine höhere Lebensqualität. Viele Menschen entdecken, dass die Konzentration auf Erfahrungen, Beziehungen und persönliche Entwicklung erfüllender ist als das Streben nach materiellem Wohlstand. Sei es durch decluttering, also das Ausmisten von Altem, oder durch bewusste Kaufentscheidungen – Minimalismus fordert uns heraus, uns mit unseren Werten auseinanderzusetzen. Indem wir lernen, was wirklich wichtig für uns ist, schaffen wir Raum für neue Möglichkeiten und eine tiefere Zufriedenheit im Leben. Minimalismus kann somit als ein Werkzeug angesehen werden, das uns hilft, ein bewussteres und erfüllteres Leben zu führen.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1776841236-6416270457405419317</guid>
+      <pubDate>Wed, 22 Apr 2026 07:00:35 +0000</pubDate>
+      </item>
+    <item>
       <title>Intelligent Investieren: Der Weg zum finanziellen Erfolg</title>
       <description>Investieren ist mehr als nur Geld anlegen – es ist eine Strategie, um Vermögen aufzubauen und seine finanzielle Zukunft zu sichern. In Zeiten geringer Zinsen auf Sparkonten ist es entscheidend, die eigene Geldanlage zu diversifizieren. Aktien, Anleihen, Immobilien oder Indexfonds sind nur einige der Möglichkeiten, die Anlegern zur Verfügung stehen. Dabei ist es wichtig, die eigenen Ziele zu definieren und ein individuelles Risikoportfolio zu erstellen. Wer frühzeitig beginnt zu investieren, profitiert nicht nur von der Zinseszinswirkung, sondern hat auch die Möglichkeit, von langfristigen Wertsteigerungen zu profitieren. Bildung in Finanzthemen spielt eine zentrale Rolle beim Investieren. Je mehr Wissen über Märkte und Anlageformen vorhanden ist, desto besser können Entscheidungen getroffen werden. Es ist ratsam, regelmäßig die Anlagestrategie zu überprüfen und gegebenenfalls anzupassen. Auf diese Weise kann man langfristig an den Wachstumschancen der Finanzmärkte teilhaben und die eigenen finanziellen Ziele erreichen.</description>
       <link>https://www.finanzwissen.de/intelligent-investieren</link>
@@ -506,22 +514,10 @@ Langfristiges Denken ist entscheidend. Viele erfolgreiche Investoren haben sich 
       <guid isPermaLink="false">1771739889-8665976242514042207</guid>
       <pubDate>Sun, 22 Feb 2026 05:58:09 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kunst des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die uns dazu anregt, das Wesentliche zu schätzen und Überflüssiges abzubauen. In einer Welt, die von Konsum und Materie geprägt ist, bietet Minimalismus eine befreiende Perspektive. Indem wir uns von unnötigem Ballast trennen, schaffen wir Raum für das, was wirklich wichtig ist – sei es Zeit für Familie und Freunde, persönliche Projekte oder das Verfolgen von Leidenschaften.
-
-Die Basis des Minimalismus liegt oft in der Achtsamkeit und Selbstreflexion. Viele Menschen berichten von einem gesteigerten Wohlbefinden, seit sie sich entschieden haben, bewusster zu leben und sich nicht länger von materiellen Gütern definieren zu lassen. Ein Minimalistischer Lebensstil ermutigt uns, unsere Prioritäten zu überdenken und die Fülle des Lebens abseits des Materiellen zu entdecken.
-
-Durch die Reduktion von Pflichten und Besitz können wir oftmals mehr Zeit und Energie für unsere persönlichen Ziele aufbringen und finden so einen tieferen Sinn in unserem Tun.</description>
-      <link>https://www.example.com/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1771653033-4747925904358172244</guid>
-      <pubDate>Sat, 21 Feb 2026 05:50:32 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:00:35 +0000</lastBuildDate>
     </channel>
   </rss>
