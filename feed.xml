@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein trendiger Lebensstil; es ist eine Philosophie, die darauf abzielt, überflüssigen Ballast abzubauen. In einer Welt, die ständig nach mehr strebt – sei es an materiellem Besitz oder digitalen Ablenkungen – hilft der Minimalismus, Klarheit und Fokus zu finden. Durch die Reduktion auf das Wesentliche können wir nicht nur unseren Lebensraum bereinigen, sondern auch unser geistiges Wohlbefinden steigern. Statt sich von einer Flut an Besitztümern überwältigen zu lassen, ermutigt der Minimalismus dazu, Wert auf Qualität statt Quantität zu legen. Dies betrifft nicht nur physische Dinge, sondern auch Zeit, Beziehungen und Erfahrungen. Indem wir uns von unnötigen Verpflichtungen verabschieden, schaffen wir Raum für die Dinge, die wirklich zählen. Im Kern geht es darum, die Kontrolle über unser Leben zurückzugewinnen und bewusster zu leben. Der Weg zum Minimalismus verlangt Mut und Entschlossenheit, aber die Belohnungen – Freiheit, Zufriedenheit und Klarheit – sind es wert.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1777881078-5459832555398291990</guid>
+      <pubDate>Mon, 04 May 2026 07:51:18 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für Anfänger: Die ersten Schritte</title>
       <description>Investieren ist ein entscheidender Aspekt für den Aufbau von Vermögen und die Sicherung der finanziellen Zukunft. Gerade für Anfänger kann es jedoch überwältigend wirken. Der erste Schritt besteht darin, zu verstehen, dass Investieren mehr ist als nur Spekulieren mit Aktien. Es geht darum, Ihr Geld für sich arbeiten zu lassen. Ein einfacher Start können Indexfonds oder ETFs sein, die in einen breiten Markt investieren und so das Risiko streuen. Statt in Einzelaktien zu investieren, was oft viel Wissen erfordert, bieten diese Fonds eine solide Grundlage. Zudem sollten Sie sich mit der eigenen Risikobereitschaft auseinandersetzen. Je früher Sie beginnen, desto mehr Zeit hat Ihr Geld, um zu wachsen – dank des Zinseszinseffekts. Auch kleinere Beträge sind wertvoll, denn sie summieren sich über die Jahre. Der Schlüssel liegt im langfristigen Denken und in der Geduld, auch wenn es in der heutigen schnelllebigen Welt verlockend erscheint, sofortige Gewinne anzustreben.</description>
       <link>https://www.beispielurl.de/investieren-fuer-anfaenger</link>
@@ -510,18 +518,10 @@ Langfristiges Denken ist entscheidend. Viele erfolgreiche Investoren haben sich 
       <guid isPermaLink="false">1772776438-8093977971239049801</guid>
       <pubDate>Fri, 06 Mar 2026 05:53:58 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kunst des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend – es ist eine Lebensphilosophie, die das Wesentliche in den Vordergrund stellt. Durch das Reduzieren von materiellen Besitztümern schaffen wir Platz für das, was wirklich zählt: Erfahrungen, Beziehungen und persönliche Entwicklung. Der Weg zum minimalistischen Lebensstil beginnt oft mit der kritischen Frage: "Was brauche ich wirklich?" Indem wir uns von überflüssigem Ballast befreien, gewinnen wir nicht nur physisch, sondern auch mental an Raum. Viele Minimalisten berichten von einer gesteigerten Lebensqualität, die sich durch weniger Stress und mehr Klarheit äußert. Darüber hinaus fördert dieser Ansatz Nachhaltigkeit und bewussten Konsum, da wir gezwungen sind, sorgsam mit den Ressourcen umzugehen. Das Streben nach einem minimalistischen Lebensstil ist somit auch ein Schritt in Richtung einer umweltfreundlicheren Zukunft. Indem wir uns auf das Wesentliche konzentrieren, können wir ein erfüllteres und zufriedeneres Leben führen.</description>
-      <link>https://www.beispiel.de/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1772690143-8084601138918153005</guid>
-      <pubDate>Thu, 05 Mar 2026 05:55:43 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 03 May 2026 07:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:51:18 +0000</lastBuildDate>
     </channel>
   </rss>
