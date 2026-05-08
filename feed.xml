@@ -2,6 +2,18 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein Lifestyle-Trend; er ist eine Philosophie, die sich mit der Essenz des Lebens beschäftigt. In einer Welt voller überflüssiger Dinge und ständiger Ablenkungen fordert uns der Minimalismus dazu heraus, uns auf das Wesentliche zu besinnen. Indem wir uns von unnötigem Besitz trennen, schaffen wir Raum für die Dinge, die uns wirklich wichtig sind – sei es Zeit mit der Familie, persönliche Hobbys oder das Streben nach Selbstverwirklichung.
+
+Die Vorteile eines minimalistischen Lebensstils sind vielfältig. Er reduziert Stress, da Entscheidungsfindungen einfacher werden und weniger materielle Verpflichtungen uns belasten. Zudem fördert Minimalismus das bewusste Konsumverhalten: Wir lernen, jeder Anschaffung einen echten Wert beizumessen. Dieser zurückhaltende Lebensstil kann uns helfen, finanziell unabhängiger zu werden und die eigene Lebensqualität zu steigern, indem wir uns von gesellschaftlichem Druck befreien.
+
+Mit jedem Schritt in Richtung Minimalismus können wir unser Leben neu gestalten und die Freiheit entdecken, die mit weniger einhergeht.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1778223388-4401705250794088309</guid>
+      <pubDate>Fri, 08 May 2026 06:56:27 +0000</pubDate>
+      </item>
+    <item>
       <title>Nachhaltig Investieren: Für eine bessere Zukunft</title>
       <description>Investieren ist nicht nur eine Möglichkeit, Wohlstand aufzubauen, sondern auch eine Entscheidung, die Auswirkungen auf unsere Gesellschaft und Umwelt hat. Immer mehr Menschen erkennen die Bedeutung von nachhaltigem Investieren, bei dem finanzielle Ziele mit ethischen und sozialen Werten verknüpft werden. ESG-Kriterien (Umwelt, Soziale Verantwortung und Unternehmensführung) spielen dabei eine zentrale Rolle. Durch die Auswahl von Unternehmen, die hohe Standards in diesen Bereichen einhalten, können Anleger ihren Einfluss auf die Märkte nutzen und positive Veränderungen fördern. Die Verantwortung als Investor bedeutet nicht nur die Maximierung von Renditen, sondern auch das Bewusstsein für die eigenen Entscheidungen. Schließlich zeigt sich, dass nachhaltige Investments nicht nur gut für die Welt sind, sondern oft auch langfristig vergleichbare oder sogar überlegene Renditen erzielen können. So wird das Geld nicht nur für persönliche finanzielle Ziele eingesetzt, sondern auch für eine bessere Zukunft der kommenden Generationen.</description>
       <link>https://www.example.com/nachhaltig-investieren</link>
@@ -510,18 +522,10 @@ In einer Welt, die oft von materiellem Überfluss geprägt ist, bietet der Fruga
       <guid isPermaLink="false">1773122072-8854767311633510262</guid>
       <pubDate>Tue, 10 Mar 2026 05:54:31 +0000</pubDate>
       </item>
-    <item>
-      <title>Der Charme des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Wohnstil; es ist eine Lebensphilosophie. In einer Welt, die oft von Überfluss und Konsum geprägt ist, bietet Minimalismus eine willkommene Abwechslung. Er ermutigt uns, uns auf das Wesentliche zu konzentrieren und unnötigen Ballast abzulegen. Durch die Reduktion materieller Besitztümer gelingt es vielen, mehr Raum für persönliche Entwicklung und Lebensfreude zu schaffen. Ein minimalistisches Leben kann den Geist klären, Stress reduzieren und die Zufriedenheit steigern. Es geht nicht nur darum, weniger Dinge zu besitzen, sondern auch um die Qualität der Erfahrungen, die wir sammeln. Indem wir uns von Überflüssigem trennen, schaffen wir Platz für das, was uns wirklich erfüllt. Sei es Zeit mit Angehörigen, das Verfolgen von Leidenschaften oder einfach nur Momente der Stille und des Nachdenkens. Minimalismus lädt dazu ein, bewusster zu leben und die Schönheit im Einfachen zu entdecken.</description>
-      <link>https://www.example.com/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1773036218-4523165922635956794</guid>
-      <pubDate>Mon, 09 Mar 2026 06:03:38 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 07 May 2026 07:46:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 06:56:27 +0000</lastBuildDate>
     </channel>
   </rss>
