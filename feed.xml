@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Minimalismus: Weniger ist mehr</title>
+      <description>In einer Welt, die von Überfluss und ständigem Konsum geprägt ist, gewinnt Minimalismus zunehmend an Bedeutung. Minimalismus bedeutet nicht nur, materielle Besitztümer zu reduzieren, sondern auch, sich von unnötigem Ballast im Leben zu befreien. Es geht darum, Raum für das Wesentliche zu schaffen und Prioritäten neu zu setzen. Statt sich mit Dingen zu umgeben, die letztlich keinen Mehrwert bieten, fokussiert sich ein minimalistischer Lebensstil auf das, was wirklich wichtig ist. Das kann Zeit mit Familie und Freunden, persönliche Entwicklung oder das Verfolgen von Hobbys umfassen. Minimalismus fördert zudem ein bewusstes Leben: Der Verzicht auf Überflüssiges kann zu mehr Zufriedenheit und innerer Ruhe führen. Indem man sich von materiellem Besitz löst, eröffnet man sich Freiräume für neue Erfahrungen und Ideen. Minimalismus ist somit nicht nur eine ästhetische Entscheidung, sondern ein ganzheitlicher Ansatz, der das Leben bereichern kann.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1778572157-4029543632115286814</guid>
+      <pubDate>Tue, 12 May 2026 07:49:17 +0000</pubDate>
+      </item>
+    <item>
       <title>Intelligentes Investieren für langfristigen Erfolg</title>
       <description>Investieren ist eine der effektivsten Möglichkeiten, um Vermögen aufzubauen und finanzielle Stabilität zu erreichen. In der heutigen Zeit ist es wichtiger denn je, sich über Anlageformen und Märkte zu informieren. Doch wie geht man am besten vor? Zunächst ist es wichtig, die eigenen finanziellen Ziele zu definieren und einen klaren Plan zu entwickeln. Ob Aktien, Immobilien oder Anleihen – jede Anlageform hat ihre eigenen Risiken und Chancen. Risikostreuung, auch bekannt als Diversifizierung, ist ein entscheidender Ansatz, um das Investitionsportfolio zu sichern. Anstatt alles auf eine Karte zu setzen, sollten Sie in verschiedene Bereiche investieren. Dies kann dazu beitragen, Verluste in einem Bereich durch Gewinne in einem anderen auszugleichen. Zudem ist Geduld eine Tugend im Investieren. Kurzfristige Schwankungen der Märkte können frustrierend sein, aber langfristiges Denken führt oft zu besseren Ergebnissen. Informieren Sie sich kontinuierlich und lassen Sie sich nicht von emotionalen Entscheidungen leiten.</description>
       <link>https://www.investieren.com/ratgeber</link>
@@ -512,18 +520,10 @@ Ein zentraler Aspekt des Frugalismus ist die bewusste Entscheidung, nicht mehr G
       <guid isPermaLink="false">1773467656-1689340914719213642</guid>
       <pubDate>Sat, 14 Mar 2026 05:54:16 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Schönheit des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die dazu einlädt, sich von Überflüssigem zu befreien und die Essenz des Lebens zu entdecken. Im Kern geht es darum, bewusster zu leben und den Fokus auf die Dinge zu legen, die wirklich zählen. Diese Praxis ermutigt uns, materielle Besitztümer zu hinterfragen und den Wert des Einklangs mit uns selbst und unserem Umfeld zu erkennen. Durch das Reduzieren von Ballast – sei es physisch oder emotional – eröffnen sich oft neue Perspektiven und Freiräume für Kreativität. Viele Menschen berichten von einem Gefühl der Befreiung und Klarheit, sobald sie den ersten Schritt in Richtung Minimalismus wagen. Es geht nicht nur um weniger Dinge, sondern um ein erfüllteres Leben. Diese Strömung hat das Potenzial, uns zu helfen, unsere Prioritäten neu zu ordnen und die Zeit, die wir investieren, wesentlich bewusster zu gestalten. Minimalismus ist somit eine Einladung, das Wesentliche zu umarmen und Überflüssiges loszulassen.</description>
-      <link>https://www.beispielurl.com/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1773381431-8298607839511826049</guid>
-      <pubDate>Fri, 13 Mar 2026 05:57:10 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 11 May 2026 08:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:49:17 +0000</lastBuildDate>
     </channel>
   </rss>
