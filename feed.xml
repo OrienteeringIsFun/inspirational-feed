@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Der Weg zu einem erfüllten Leben</title>
+      <description>Frugalismus ist eine Lebensphilosophie, die sich auf finanzielle Einsparungen und bewussten Konsum konzentriert. Im Kern geht es darum, die eigenen Ausgaben zu minimieren, um mehr finanzielle Freiheit zu gewinnen und die Lebensqualität zu steigern. Frugalisten legen großen Wert auf Nachhaltigkeit und bewusste Entscheidungen im Alltag. Das bedeutet nicht, auf alles zu verzichten, sondern gezielt in Bereiche zu investieren, die tatsächlich einen Mehrwert bieten. Durch den Verzicht auf überflüssige Ausgaben können Frugalisten häufig schneller für ihre Träume sparen, sei es eine Weltreise, der Kauf eines Hauses oder die finanzielle Unabhängigkeit. Dieser Lebensstil fördert nicht nur den bewussten Umgang mit Geld, sondern auch eine tiefere Wertschätzung für die einfachen Dinge im Leben. Frugalismus bietet somit die Möglichkeit, materielle Belastungen abzubauen und sich auf das Wesentliche zu konzentrieren: Spendable Zeit, innere Zufriedenheit und Selbstverwirklichung.</description>
+      <link>https://example.com/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1779438463-2685913491137785284</guid>
+      <pubDate>Fri, 22 May 2026 08:27:43 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein lebenslanger Prozess, der nicht nur das persönliche Wachstum fördert, sondern auch das Verständnis für sich selbst und andere vertieft. Zentral ist die Fähigkeit, regelmäßig innezuhalten und eigene Ziele zu reflektieren. Dies kann durch Journaling, Meditation oder Selbstgespräche geschehen. Die Selbstentwicklung erfordert Mut, da es oft bedeutet, sich eigenen Schwächen und Ängsten zu stellen. Dabei ist es wichtig, sich realistische Ziele zu setzen, um Motivation und Fortschritt zu gewährleisten. Die Auseinandersetzung mit Literatur, Seminaren oder Mentoren kann eine wertvolle Unterstützung bieten. Zudem ist die Schaffung eines positiven Umfeldes, das inspirierende Menschen und Ressourcen bereitstellt, entscheidend für den Erfolg. Durch kontinuierliches Lernen und die Bereitschaft zur Veränderung kann jeder Einzelne seine Potenziale entfalten und ein erfüllteres Leben führen. Der Weg mag herausfordernd sein, doch die Belohnungen, die er bietet, machen jede Anstrengung wert.</description>
       <link>https://www.beispielseite.de/selbstentwicklung</link>
@@ -519,18 +527,10 @@ Durch bewusste Entscheidungen im Alltag, wie das Reduzieren von unnötigen Ausga
       <guid isPermaLink="false">1774246425-3264746235235594156</guid>
       <pubDate>Mon, 23 Mar 2026 06:13:44 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kraft der Selbstentwicklung</title>
-      <description>Selbstentwicklung ist ein lebenslanger Prozess, der uns hilft, unsere inneren Potenziale zu entfalten und unser volles Selbst zu entdecken. Es umfasst sowohl die Verbesserung von Fähigkeiten als auch die persönliche Entfaltung in emotionaler und mentaler Hinsicht. Immer mehr Menschen erkennen die Bedeutung von Selbstentwicklung, sei es durch das Lesen von Büchern, den Austausch mit Gleichgesinnten oder die Teilnahme an Workshops. Die Reise beginnt oft mit der Selbsterkenntnis: Wer bin ich? Was sind meine Ziele? Diese Fragen helfen dabei, Klarheit zu gewinnen und den richtigen Weg zu finden. Ein weiterer wichtiger Aspekt ist die Praxis der Achtsamkeit, die uns lehrt, im Moment zu leben und bewusster zu handeln. Selbstentwicklung erfordert auch Mut, denn oft müssen wir Komfortzonen verlassen. Das ermöglicht Wachstum und neue Perspektiven. Durch kontinuierliches Arbeiten an uns selbst schaffen wir nicht nur eine bessere Lebensqualität, sondern inspirieren auch die Menschen um uns herum, ihren eigenen Weg der Selbstentwicklung zu beschreiten.</description>
-      <link>https://www.example.com/selbstentwicklung</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1774159150-8355084739355520013</guid>
-      <pubDate>Sun, 22 Mar 2026 05:59:09 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 21 May 2026 08:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:27:43 +0000</lastBuildDate>
     </channel>
   </rss>
