@@ -2,6 +2,18 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Der Weg zu mehr Lebensqualität</title>
+      <description>Frugalismus bezeichnet eine Lebensweise, die den Fokus auf finanzielle Unabhängigkeit und bewusstes Leben legt. Im Kern geht es darum, mit weniger auszukommen und den Konsum auf das Wesentliche zu beschränken. Anstatt einem Hamsterrad aus Arbeit und Konsum zu folgen, setzen Frugalisten auf Sparsamkeit und nachhaltige Entscheidungen, die langfristig zu einem erfüllteren Leben führen.
+
+Die Prinzipien des Frugalismus umfassen unter anderem die Reduzierung laufender Kosten, Minimalismus in der Anschaffung von Gütern und eine bewusste Konsumhaltung. Diese Lebensweise ermöglicht nicht nur finanzielle Ersparnisse, sondern fördert auch die mentale Klarheit, da weniger materielle Dinge oft mit weniger Stress einhergehen.
+
+Frugalisten sind häufig in der Lage, früher in den Ruhestand zu gehen oder ihre Arbeitsstunden zu reduzieren, da sie keine unnötigen Ausgaben haben. Durch eine bewusste Auswahl von Lebensmitteln, Wohnraum und Freizeitaktivitäten schaffen sie Platz für das, was im Leben wirklich zählt: Zeit, Gesundheit und persönliche Entwicklung.</description>
+      <link>https://www.beispielwebsite.de/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1779784723-6298194597762893773</guid>
+      <pubDate>Tue, 26 May 2026 08:38:43 +0000</pubDate>
+      </item>
+    <item>
       <title>Minimalismus: Weniger ist mehr</title>
       <description>Minimalismus ist mehr als nur ein Trend; es ist eine bewusste Lebensentscheidung. In einer Welt, die von Überfluss und Konsum geprägt ist, setzt der Minimalismus einen Kontrapunkt. Er ermutigt dazu, das Wesentliche vom Unwesentlichen zu trennen und sich auf das zu konzentrieren, was tatsächlich zählt. Durch das Reduzieren physischer Besitztümer eröffnen sich nicht nur Platz und Ordnung, sondern auch geistige Klarheit. Jeder Gegenstand, den man besitzt, sollte einen Nutzen oder eine tiefere Bedeutung haben. Dies führt dazu, dass man weniger Geld ausgibt und sich stärker auf Erlebnisse und Beziehungen konzentriert. Der Weg zum Minimalismus ist individuell und kann schrittweise erfolgen. Man kann mit einer kleinen Ecke im Raum beginnen oder mit der digitalen Entrümpelung von Geräten. Letztendlich fördert Minimalismus ein Leben voller Zufriedenheit und Freiheit, indem er dazu beiträgt, Überflüssiges loszulassen und den Fokus auf die Essenz des Lebens zu richten.</description>
       <link>https://www.beispielseite.de/minimalismus</link>
@@ -519,18 +531,10 @@ Durch bewusste Entscheidungen im Alltag, wie das Reduzieren von unnötigen Ausga
       <guid isPermaLink="false">1774505717-4363384621145186950</guid>
       <pubDate>Thu, 26 Mar 2026 06:15:16 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kraft des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die uns dazu einlädt, uns von überflüssigem Ballast zu befreien. In einer Welt, die oft von Konsum und Überfluss geprägt ist, bietet der Minimalismus einen Weg zu mehr Klarheit und Zufriedenheit. Indem wir uns auf das Wesentliche konzentrieren, schaffen wir Raum für die Dinge, die wirklich wichtig sind. Das kann bedeuten, materiellen Besitz zu reduzieren, aber auch überflüssige Verpflichtungen und Stress abzubauen. Durch diesen Prozess lernen wir, bewusster zu leben und unsere Zeit für die Dinge zu nutzen, die uns wirklich glücklich machen. Minimalismus lehrt uns, Wert auf Qualität statt Quantität zu legen und gezielte Entscheidungen für unser Leben zu treffen. Diese Abkehr vom Überfluss führt nicht nur zu einem aufgeräumten Zuhause, sondern oft auch zu einem klareren Geist. Im Endeffekt kann Minimalismus dabei helfen, eine tiefere Verbindung zu uns selbst und unserer Umwelt zu finden.</description>
-      <link>https://www.beispielurl.de/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1774418773-2505685944107984974</guid>
-      <pubDate>Wed, 25 Mar 2026 06:06:13 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 24 May 2026 07:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 08:38:43 +0000</lastBuildDate>
     </channel>
   </rss>
