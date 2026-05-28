@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein Trend – er ist eine Lebensphilosophie, die immer mehr Menschen begeistert. Bei diesem Ansatz geht es darum, den Fokus auf das Wesentliche zu legen und überflüssigen Ballast abzubauen. In einer Welt voller Konsum und Ablenkungen kann Minimalismus dazu beitragen, Klarheit und Zufriedenheit zu finden. Durch das Reduzieren von Besitztümern, Verpflichtungen und sogar digitalen Ablenkungen schaffen wir Raum für das, was wirklich zählt: Zeit mit den Liebsten, persönliche Entwicklung und innere Ruhe. Minimalismus lehrt uns, bewusster mit unseren Ressourcen umzugehen und Prioritäten zu setzen. Die positiven Effekte sind zahlreich: weniger Stress, mehr Kreativität und ein erhöhter Fokus auf die persönlichen Ziele. Indem wir lernen, mit weniger zufrieden zu sein, eröffnen sich neue Möglichkeit der Selbstentdeckung und Wachstum. Lassen Sie sich von der Idee inspirieren, Ihr Leben zu entgiften und neu auszurichten.</description>
+      <link>https://www.minimalismus.de</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1779958188-2315139171928055646</guid>
+      <pubDate>Thu, 28 May 2026 08:49:48 +0000</pubDate>
+      </item>
+    <item>
       <title>Strategien für kluges Investieren</title>
       <description>Investieren ist ein entscheidender Schritt, um finanzielle Ziele zu erreichen und Vermögen aufzubauen. Die Auswahl der richtigen Anlagestrategie hängt von mehreren Faktoren ab, darunter das persönliche Risikoprofil, der Zeithorizont und die individuellen finanziellen Ziele. Eine gängige Strategie ist die Diversifikation, bei der das Kapital auf verschiedene Anlageklassen verteilt wird, um das Risiko zu minimieren. Aktien, Anleihen und Immobilien sind Beispiele für unterschiedliche Investments, die zusammen ein ausgewogenes Portfolio bilden können. 
 
@@ -523,20 +531,10 @@ Eine bequeme Möglichkeit, mit dem Investieren zu beginnen, ist der Kauf von ETF
       <guid isPermaLink="false">1774677750-616589243574869222</guid>
       <pubDate>Sat, 28 Mar 2026 06:02:29 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugalismus: Ein Weg zu mehr Freiheit</title>
-      <description>Frugalismus ist eine Lebensweise, die sich auf die Prinzipien der Sparsamkeit und des bewussten Konsums konzentriert. Im Kern des Frugalismus steht die Idee, dass man weniger ausgibt, um mehr zu leben. Anstatt sich dem Konsumdruck zu beugen, wählen Frugalisten die Freiheit, ihre Ressourcen gezielt einzusetzen. Diese Lebensweise fördert nicht nur die finanzielle Unabhängigkeit, sondern auch ein erfüllteres Leben, das weniger von materiellem Besitz abhängt. 
-
-Durch bewusste Entscheidungen im Alltag, wie das Reduzieren von unnötigen Ausgaben und das Streben nach einem minimalistischen Leben, schaffen Frugalisten Raum für das Wesentliche. Dazu gehören oft Erfahrungen, Beziehungen und persönliche Entwicklung statt materieller Güter. Die Auseinandersetzung mit den eigenen Werten und der eigenen Prioritäten führt dazu, dass viele Frugalisten ein tieferes Verständnis ihrer Lebensziele entwickeln. Dieser Ansatz kann nicht nur das Bankkonto entlasten, sondern auch das allgemeine Wohlbefinden steigern.</description>
-      <link>https://www.example.com/frugalismus</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1774592141-8586884551516412890</guid>
-      <pubDate>Fri, 27 Mar 2026 06:15:41 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 27 May 2026 08:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:49:48 +0000</lastBuildDate>
     </channel>
   </rss>
