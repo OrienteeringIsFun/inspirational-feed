@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist weit mehr als nur eine ästhetische Entscheidung. Es ist ein Lebensstil, der Menschen dazu einlädt, sich auf das Wesentliche zu konzentrieren und Überflüssiges hinter sich zu lassen. In einer Welt, die oft von Konsum und Überreizung geprägt ist, bietet Minimalismus einen Weg zu Klarheit und Echtheit. Durch die Reduzierung materieller Gegenstände und das Fokussieren auf Erfahrungen statt Besitztümer, schaffen Menschen Raum für tiefere Begegnungen und erfüllendere Aktivitäten. Dieser Ansatz fördert nicht nur die geistige Gesundheit, sondern auch die finanzielle Stabilität. Zeichen von Überfluss, wie ständige Ablenkungen und materielle Verpflichtungen, können zu Stress führen. Minimalismus hingegen ermutigt zur Reflexion über die eigenen Werte und Prioritäten, was letztlich zu einem harmonischeren Leben führt. Es geht darum, emotionalen und physischen Ballast abzuwerfen, um Platz für das zu schaffen, was wirklich zählt. Ein bewussterer Lebensstil kann somit nicht nur das persönliche Wohlbefinden steigern, sondern auch positive Auswirkungen auf die Umwelt haben.</description>
+      <link>https://www.example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1780309661-1396388586051953176</guid>
+      <pubDate>Mon, 01 Jun 2026 10:27:41 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für die Zukunft</title>
       <description>Investieren ist mehr als nur ein finanzieller Akt – es ist eine Entscheidung für die eigene Zukunft. In einer Welt, die von Unsicherheit geprägt ist, bietet das Investieren die Möglichkeit, Vermögen aufzubauen und sich finanziell abzusichern. Es erfordert jedoch eine fundierte Planung und ein grundlegendes Verständnis der Märkte. Zu den gängigsten Anlageformen zählen Aktien, Fonds, Immobilien und Anleihen. Der Schlüssel zum erfolgreichen Investieren liegt in der Diversifikation: indem man in verschiedene Sektoren und Anlageklassen investiert, minimiert man das Risiko. Ein weiterer wichtiger Aspekt ist das langfristige Denken; während kurzfristige Schwankungen unvermeidlich sind, zeigt die Geschichte, dass Märkte über längere Zeiträume an Wert gewinnen können. Es ist ratsam, sich regelmäßig fortzubilden, um fundierte Entscheidungen treffen zu können. In der heutigen digitalen Welt stehen zahlreiche Ressourcen zur Verfügung, um das Wissen über das Investieren zu erweitern. Das eigene Portfolio sollte regelmäßig überprüft und angepasst werden, um den individuellen Zielen gerecht zu werden.</description>
       <link>https://www.example.com/investieren-zukunft</link>
@@ -519,22 +527,10 @@ Ein minimalistischer Lebensstil fördert die Achtsamkeit und lässt uns bewusste
       <guid isPermaLink="false">1775026175-808934694636357350</guid>
       <pubDate>Wed, 01 Apr 2026 06:49:35 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugalismus: Der Weg zu einem einfacheren Leben</title>
-      <description>Frugalismus ist eine Lebensphilosophie, die daran glaubt, durch bewussten Konsum und alternative Lebensweisen Zufriedenheit und finanzielle Freiheit zu erreichen. Anders als beim Minimalismus, der sich stark auf das Reduzieren von Besitztümern konzentriert, geht es beim Frugalismus primär um die Reduzierung von Ausgaben. Frugalisten legen Wert auf eine einfache Lebensweise, die es ihnen erlaubt, Geld zu sparen und gleichzeitig die Lebensqualität zu steigern. 
-
-Der entscheidende Aspekt des Frugalismus besteht darin, bewusste Entscheidungen zu treffen. Das bedeutet, dass man sich mit den eigenen Bedürfnissen auseinandersetzt und gezielt spart, wo es sinnvoll ist. Frugalisten verzichten häufig auf unnötige Luxusgüter und bewerten jeden Kauf kritisch. 
-
-Diese Lebensweise ermöglicht nicht nur finanzielle Unabhängigkeit, sondern fördert auch einen nachhaltigeren Umgang mit Ressourcen. Ein frugalistisches Leben bedeutet, sich von gesellschaftlichen Konsumzwängen zu lösen und die Freude in den kleinen Dingen zu finden. Durch diese Simplifizierung wird nicht nur das eigene Budget geschont, sondern auch der Stress im Alltag reduziert.</description>
-      <link>https://www.frugalismus.de</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1774937971-7990696412758604888</guid>
-      <pubDate>Tue, 31 Mar 2026 06:19:30 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 31 May 2026 08:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:27:41 +0000</lastBuildDate>
     </channel>
   </rss>
