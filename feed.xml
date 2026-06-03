@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus – Die Kunst des bewussten Lebens</title>
+      <description>Frugalismus ist ein Lebensstil, der durch einfache und bewusste Entscheidungen geprägt ist. Er ermutigt die Menschen, mit weniger auszukommen und ihre Ressourcen effizienter zu nutzen. Im Kern geht es darum, nicht nur Geld zu sparen, sondern auch ein erfülltes und zufriedenes Leben zu führen. Frugalisten legen Wert auf Nachhaltigkeit und reduzieren ihren Konsum, indem sie nur das kaufen, was sie wirklich benötigen. Dies fördert nicht nur die persönliche finanzielle Freiheit, sondern auch die Umwelt. Die Umsetzung frugaler Prinzipien kann in vielen Lebensbereichen erfolgen – sei es durch den Verzicht auf überflüssige Abonnements, das Führen eines Budgets oder die Entscheidung für Second-Hand-Produkte. Umgeben von überflüssigem Konsum macht der frugale Lebensstil klar, dass weniger oft mehr ist. Viele Frugalisten entdecken, dass echte Zufriedenheit nicht durch Materielles, sondern durch Beziehungen, Erfahrungen und persönliche Weiterentwicklung entsteht. So wird Frugalismus zu einem Weg, die eigene Lebensqualität zu steigern und gleichzeitig finanzielle Sicherheit zu erlangen.</description>
+      <link>https://www.example.com/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1780480798-7741638698981161911</guid>
+      <pubDate>Wed, 03 Jun 2026 09:59:58 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung: Kleine Schritte, große Veränderungen</title>
       <description>Selbstentwicklung ist ein lebenslanger Prozess, der uns dazu anregt, unsere Fähigkeiten zu erkennen und zu verbessern. Oft erscheinen die Herausforderungen überwältigend, doch es sind die kleinen Schritte, die den größten Unterschied bewirken können. Beginnen Sie mit der Selbstreflexion: Fragen Sie sich, was Sie wirklich erreichen möchten und welche Werte Ihnen wichtig sind. Setzen Sie sich realistische Ziele und brechen Sie diese in machbare Aufgaben auf. Der Schlüssel zur dauerhaften Veränderung liegt in der Kontinuität und Disziplin. Versuchen Sie, täglich Zeit für persönliche Entwicklung einzuplanen, sei es durch Lesen, Meditation oder das Erlernen neuer Fähigkeiten. Umgeben Sie sich mit positiven Einflüssen, die Sie inspirieren und motivieren. Denken Sie daran, dass Rückschläge Teil des Prozesses sind, die Ihnen wertvolle Lektionen bieten. Nehmen Sie sich die Zeit, um zu wachsen und zu lernen, und Sie werden erstaunt sein, wie weit Sie kommen können.</description>
       <link>https://www.beispielurl.de/selbstentwicklung</link>
@@ -519,18 +527,10 @@ Ein minimalistischer Lebensstil fördert die Achtsamkeit und lässt uns bewusste
       <guid isPermaLink="false">1775196901-7854765959763879190</guid>
       <pubDate>Fri, 03 Apr 2026 06:15:00 +0000</pubDate>
       </item>
-    <item>
-      <title>Der Weg zum Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend – er ist eine Lebensweise, die einen radikalen Wandel in der eigenen Wahrnehmung von Besitz und Lebensqualität anstoßen kann. In einer Welt, die oft von Überfluss und Konsum geprägt ist, bietet der Minimalismus eine Rückbesinnung auf das Wesentliche. Indem wir uns von physischen und emotionalen Ballast befreien, schaffen wir Raum für Dinge, die wirklich zählen: unsere Zeit, Beziehungen und persönliche Entwicklung. Dieser Ansatz fördert nicht nur ein bewussteres Leben, sondern auch die Fähigkeit, Prioritäten zu setzen und effektiver zu handeln. Viele Menschen, die den Minimalismus in ihr Leben integriert haben, berichten von einem gesteigerten Gefühl der Zufriedenheit und der inneren Ruhe. Es ist beeindruckend zu sehen, wie die Fokussierung auf Qualität anstelle von Quantität einen positiven Einfluss auf die Lebensgestaltung haben kann. In einer Zeit, in der Ablenkungen allgegenwärtig sind, kann der Minimalismus als Schlüssel zu einem erfüllteren Leben fungieren.</description>
-      <link>https://www.example.com/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1775110515-3042678238560725720</guid>
-      <pubDate>Thu, 02 Apr 2026 06:15:15 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 02 Jun 2026 09:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:59:58 +0000</lastBuildDate>
     </channel>
   </rss>
