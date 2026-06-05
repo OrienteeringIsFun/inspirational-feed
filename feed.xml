@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist weit mehr als nur ein ästhetisches Konzept; es ist eine Lebensphilosophie, die sich darauf konzentriert, das Wesentliche zu bewahren und Überflüssiges zu eliminieren. In einer Welt, die oft von Materialismus und Konsum geprägt ist, bietet der Minimalismus einen erfrischenden Kontrapunkt. Es geht darum, sich von unnötigen Besitztümern zu befreien und Klarheit im Leben zu schaffen. Durch die Reduzierung von physikalischen und mentalen Ballast kann man sich auf die wirklich wichtigen Dinge konzentrieren: Beziehungen, Gesundheit und persönliche Entwicklung. Viele praktizierende Minimalisten berichten von einem erhöhten Sinn für Lebensqualität und Zufriedenheit. Indem wir unsere Besitztümer und Verpflichtungen aufs Wesentliche beschränken, schaffen wir Raum für Kreativität und Achtsamkeit. So wird Minimalismus nicht nur zu einem Ansatz, um den persönlichen Raum zu reinigen, sondern auch zu einer Möglichkeit, die eigene Denkweise und Lebensweise grundlegend zu verändern. Es ist eine Einladung, bewusster zu leben und das Leben in seiner Fülle zu genießen.</description>
+      <link>https://www.beispielseite.de/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1780649363-4472584952846778328</guid>
+      <pubDate>Fri, 05 Jun 2026 08:49:22 +0000</pubDate>
+      </item>
+    <item>
       <title>Intelligent investieren für ein besseres Morgen</title>
       <description>Investieren ist mehr als nur Geld anlegen; es ist eine Strategie für die Zukunft. Durch kluge Investitionen können Sie Vermögen aufbauen und finanzielle Sicherheit erreichen. Die Grundprinzipien des Investierens umfassen das Verständnis von Risiko und Rendite sowie die Diversifikation Ihres Portfolios, um potenzielle Verluste zu minimieren. Anfängliche Schritte können die Investition in Aktien, Anleihen oder Immobilien umfassen. Wählen Sie Anlagen, die zu Ihren finanziellen Zielen und Ihrer Risikobereitschaft passen. Eine langfristige Perspektive ist ebenfalls entscheidend; Geduld und Durchhaltevermögen zahlen sich aus. Oft neigen Menschen dazu, kurzfristigen Schwankungen erliegen, doch der Markt hat historische Tiefs und Höhen überstanden. Informieren Sie sich kontinuierlich über Trends und Märkte und nutzen Sie Fachliteratur oder Online-Kurse, um Ihr Wissen zu erweitern. Investieren Sie nicht nur Geld, sondern auch Zeit in Ihre finanzielle Bildung. So legen Sie den Grundstein für eine erfolgreiche Anlagestrategie, die Ihnen langfristig zugutekommt.</description>
       <link>https://www.example.com/investieren</link>
@@ -519,18 +527,10 @@ Ein minimalistischer Lebensstil fördert die Achtsamkeit und lässt uns bewusste
       <guid isPermaLink="false">1775369790-211057675079044231</guid>
       <pubDate>Sun, 05 Apr 2026 06:16:29 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugalismus: Der Weg zu mehr Lebensqualität</title>
-      <description>Frugalismus ist eine Lebensweise, die bewussten Konsum und finanzieller Sparsamkeit in den Mittelpunkt stellt. Im Gegensatz zu übermäßigem Konsum geht es beim Frugalismus darum, genug für die eigenen Bedürfnisse zu haben, gleichzeitig aber auf Luxus und unnötige Ausgaben zu verzichten. Diese Bewegung hat in den letzten Jahren an Bekanntheit gewonnen, da immer mehr Menschen nach Wegen suchen, ihr Leben zu entschlacken und sich von finanziellen Belastungen zu befreien. Frugalisten setzen bewusst Prioritäten und investieren in Erfahrungen statt in materielle Dinge. Ihr Ziel ist nicht nur finanzielle Freiheit, sondern auch eine höhere Lebensqualität. Wer frugal lebt, reduziert Stress und schafft Raum für persönliche Entfaltung und nachhaltige Beziehungen. Dieser Ansatz fördert ein einfacheres, erfüllteres Leben, das nicht von Konsum abhängig ist. Frugalismus kann jeder für sich selbst anpassen, um mehr Freude und Zufriedenheit im Alltag zu finden.</description>
-      <link>https://www.beispiel.de/frugalismus</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1775282601-6656488920018888432</guid>
-      <pubDate>Sat, 04 Apr 2026 06:03:20 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:55:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:49:22 +0000</lastBuildDate>
     </channel>
   </rss>
