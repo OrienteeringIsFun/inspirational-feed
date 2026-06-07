@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Leben mit weniger für mehr Freude</title>
+      <description>Frugalismus ist eine Lebensphilosophie, die sich auf den bewussten Verzicht auf Überfluss und Konsum konzentriert, um mehr Freiheit und Lebensqualität zu gewinnen. Diese Bewegung erfreut sich zunehmender Beliebtheit, da immer mehr Menschen die Vorteile einer einfachen Lebensweise erkennen. Frugalisten nehmen ihre Ausgaben kritisch unter die Lupe und streben danach, nur das zu konsumieren, was ihnen wirklich wichtig ist. Dies umfasst nicht nur materielle Dinge, sondern auch Zeit und geistigen Raum. Durch diese Fokussierung auf das Wesentliche können Frugalisten oft erhebliche Einsparungen erzielen und damit ihre finanzielle Unabhängigkeit fördern. Zudem wird das Streben nach einem weniger überladenen Leben oft mit einem verbesserten emotionalen Wohlbefinden in Verbindung gebracht. Wer sich für Frugalismus entscheidet, befreit sich von gesellschaftlichen Zwängen und entwickelt ein neues Bewusstsein für Qualität statt Quantität. Auf lange Sicht kann dies zu einem erfüllteren Leben führen, in dem die wahren Werte wie Beziehungen, Erfahrungen und persönliche Entwicklung im Vordergrund stehen.</description>
+      <link>https://www.frugalismus-beispiel.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1780820825-2271192246286762549</guid>
+      <pubDate>Sun, 07 Jun 2026 08:27:05 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Reise zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein fortwährender Prozess, der uns hilft, unser volles Potenzial zu entfalten. Sie umfasst persönliche Ziele, emotionale Intelligenz, soziale Fähigkeiten und die Fähigkeit, aus Erfahrungen zu lernen. Ein zentraler Aspekt der Selbstentwicklung ist die Selbstreflexion. Indem wir regelmäßig innehalten und unser Verhalten sowie unsere Gedanken hinterfragen, gewinnen wir wertvolle Einsichten über uns selbst. Dies ermöglicht es uns, unsere Stärken zu erkennen und an unseren Schwächen zu arbeiten.
 
@@ -521,20 +529,10 @@ Ein weiterer zentraler Aspekt ist die Bereitschaft, aus Fehlern zu lernen. Jeder
       <guid isPermaLink="false">1775542915-5899861635338311882</guid>
       <pubDate>Tue, 07 Apr 2026 06:21:54 +0000</pubDate>
       </item>
-    <item>
-      <title>Der Weg zum Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend – es ist eine Lebensphilosophie, die sich auf das Wesentliche konzentriert. In einer Welt voller Überfluss und Konsumrausch bietet Minimalismus eine willkommene Befreiung. Dabei geht es nicht nur darum, materielle Dinge zu reduzieren, sondern auch um die Vereinfachung des Lebens. Indem wir uns von unnötigen Besitztümern trennen, schaffen wir Raum für die Dinge, die wirklich zählen: Erlebnisse, Beziehungen und persönliches Wachstum.
-
-Ein minimalistischer Lebensstil fördert die Achtsamkeit und lässt uns bewusster entscheiden, was wir in unser Leben lassen. Es gilt, die eigenen Werte zu reflektieren und festzulegen, was uns wirklich wichtig ist. Auch die finanzielle Entlastung kann ein positiver Nebeneffekt des Minimalismus sein. Weniger Ausgaben für materielle Dinge bedeuten mehr Freiheit, um in Erfahrungen oder die eigene Entwicklung zu investieren. Ein bewusster Umgang mit Ressourcen führt letztlich zu mehr Zufriedenheit und innerer Ruhe.</description>
-      <link>https://www.minimalismus.de</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1775458664-2833829050407028605</guid>
-      <pubDate>Mon, 06 Apr 2026 06:57:44 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 06 Jun 2026 07:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 08:27:05 +0000</lastBuildDate>
     </channel>
   </rss>
