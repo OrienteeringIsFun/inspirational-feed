@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Weniger ist mehr: Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein ästhetischer Trend – es ist eine Lebensphilosophie, die uns dazu anregt, uns von Überflüssigem zu befreien und uns auf das Wesentliche zu konzentrieren. In einer Welt, die oft von Konsum und Materialismus geprägt ist, bietet der Minimalismus eine erfrischende Perspektive. Durch das Reduzieren von Besitztümern und dem Vereinfachen des Alltags können wir nicht nur Platz schaffen, sondern auch geistige Klarheit gewinnen. Weniger Dinge bedeuten weniger Ablenkungen, was mehr Raum für Kreativität und persönliche Entfaltung schafft. Die Prinzipien des Minimalismus lassen sich auf alle Lebensbereiche anwenden, sei es in der Wohnung, im Beruf oder in zwischenmenschlichen Beziehungen. Indem wir uns von den Fesseln des Überflusses lösen, können wir unseren Lebensstil bewusster gestalten und letztlich glücklicher und erfüllter leben. Es geht darum, die Zeit und Energie, die wir für materielle Dinge aufwenden, besser für die Dinge zu nutzen, die uns wirklich am Herzen liegen.</description>
+      <link>https://www.beispiel.de/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1780994239-7432627605613698351</guid>
+      <pubDate>Tue, 09 Jun 2026 08:37:18 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für Anfänger: Der Schlüssel zu finanziellem Wachstum</title>
       <description>Investieren ist eine der effektivsten Möglichkeiten, um für die Zukunft vorzusorgen und finanzielle Sicherheit zu erlangen. Doch insbesondere für Anfänger kann der Einstieg in die Welt der Kapitalanlagen einschüchternd wirken. Zunächst ist es wichtig, sich über die verschiedenen Anlageformen zu informieren. Aktien, Anleihen, Immobilien und Fonds sind nur einige der Optionen, die zur Verfügung stehen. Jedes Investment birgt Chancen und Risiken, daher sollte man seine eigenen Ziele und Risikobereitschaft gut kennen.
 
@@ -521,20 +529,10 @@ Ein minimalistisches Leben kann helfen, Stress abzubauen und den Fokus auf das W
       <guid isPermaLink="false">1775715866-2491798238242867538</guid>
       <pubDate>Thu, 09 Apr 2026 06:24:25 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugalismus: Ein bewusster Lebensstil</title>
-      <description>Frugalismus ist mehr als nur ein Trend – es ist eine bewusste Lebensweise, die Menschen dazu anregt, über ihren Konsum nachzudenken. Im Kern geht es darum, mit weniger zufrieden zu sein und die eigenen Prioritäten neu zu definieren. Frugalisten legen Wert auf Qualität statt Quantität und investieren ihre Ressourcen in Erlebnisse und langfristige Ziele. Dies kann zu einer erheblichen finanziellen Freiheit führen, da durch bewusste Entscheidungen Geld gespart wird, das für sinnvollere Investitionen verwendet werden kann.
-
-Ein Schlüsselprinzip des Frugalismus ist das Reduzieren von Überflüssigem. Anstatt sich von materiellen Besitztümern leiten zu lassen, konzentrieren sich Frugalisten auf das, was ihnen wirklich Freude bringt. Dies kann beispielsweise bedeuten, Einfachheit und Nachhaltigkeit in den Alltag zu integrieren. Indem man bewusster lebt und sich von unnötigem Konsum befreit, eröffnet man sich einen Raum für persönliche Entwicklung und finanzielle Investitionen in die Zukunft.</description>
-      <link>https://www.example.com/frugalismus</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1775629424-8140036759725680464</guid>
-      <pubDate>Wed, 08 Apr 2026 06:23:44 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 09:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:37:18 +0000</lastBuildDate>
     </channel>
   </rss>
