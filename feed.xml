@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Der Weg zu mehr Zufriedenheit</title>
+      <description>Frugalismus ist ein Lebensstil, der sich auf das Wesentliche konzentriert und übermäßigen Konsum vermeidet. Anstatt das Geld in materielle Dinge zu investieren, die oft nur kurzfristige Freude bringen, fokussieren sich Frugalisten auf Qualität und Nachhaltigkeit. Dieses Konzept ermutigt dazu, bewusste Entscheidungen zu treffen, die nicht nur den Geldbeutel, sondern auch das persönliche Wohlbefinden stärken. Durch das Reduzieren von Ausgaben kann man nicht nur finanzielle Sicherheit gewinnen, sondern auch Zeit für die wesentlichen Dinge im Leben schaffen. Frugalismus bietet die Möglichkeit, Ausgaben zu überdenken und Prioritäten neu zu setzen. Oft führt dieser Weg zu einer einfacheren und erfüllteren Lebensweise, in der materielle Güter nicht im Vordergrund stehen. Stattdessen rücken persönliche Werte, Beziehungen und Selbstentwicklung mehr in den Fokus. In einer Welt, die von Konsum geprägt ist, kann Frugalismus eine wohltuende Alternative darstellen, um echte Zufriedenheit zu erreichen.</description>
+      <link>https://www.frugalismus.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1781522352-283490464186523849</guid>
+      <pubDate>Mon, 15 Jun 2026 11:19:12 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstverbesserung: Ein stetiger Prozess</title>
       <description>Selbstentwicklung ist ein essentielles Element eines erfüllten Lebens. Sie umfasst die kontinuierliche Arbeit an der eigenen Persönlichkeit, Fähigkeiten und Einstellungen. Dieser Prozess kann durch verschiedene Methoden gefördert werden, wie etwa durch das Lesen inspirierender Bücher, das Setzen von Zielen und die Reflexion der eigenen Erfahrungen. Wichtig ist es, sich regelmäßig Zeit für sich selbst zu nehmen und über die eigenen Fortschritte nachzudenken.
 
@@ -521,20 +529,10 @@ Langfristig denken und nicht von der aktuellen Marktidee leiten lassen – das i
       <guid isPermaLink="false">1776236268-6201195670552839845</guid>
       <pubDate>Wed, 15 Apr 2026 06:57:47 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kraft des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensphilosophie, die uns dazu anregt, bewusster mit unseren Besitztümern und unserer Zeit umzugehen. In einer Welt, die oft von Überfluss und Konsum geprägt ist, bietet Minimalismus einen klaren Kontrast: weniger Besitz führt zu mehr Freiheit. Durch die Reduzierung von materiellem Ballast schaffen wir Raum für die wirklich wichtigen Dinge im Leben – sei es die Zeit mit Familie und Freunden, Hobbys oder persönliche Erfüllung.
-
-Ein minimalistisches Leben kann helfen, Stress abzubauen und den Fokus auf das Wesentliche zu lenken. Statt uns von einer Vielzahl von Gegenständen oder Verpflichtungen ablenken zu lassen, lernen wir, bewusste Entscheidungen zu treffen. Dies fördert nicht nur einen klaren Geist, sondern auch eine nachhaltigere Lebensweise. Jeder Schritt in Richtung Minimalismus trägt dazu bei, unser Lebensumfeld zu verbessern und uns von unnötigem Druck zu befreien. Daher ist die Entscheidung für Minimalismus nicht nur eine Frage des Stils, sondern auch der inneren Zufriedenheit und Harmonisierung unseres Lebensstils.</description>
-      <link>https://www.beispielseite.de/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1776149749-7164882622322513906</guid>
-      <pubDate>Tue, 14 Apr 2026 06:55:49 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 14 Jun 2026 08:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:19:12 +0000</lastBuildDate>
     </channel>
   </rss>
