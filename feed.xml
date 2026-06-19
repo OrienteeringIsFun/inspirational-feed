@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Der Weg zu finanziellem Glück</title>
+      <description>Frugalismus ist eine Lebensphilosophie, die auf einem bewussten und sparsamen Umgang mit Ressourcen basiert. Die Idee hinter dem Frugalismus ist einfach: Weniger Geld auszugeben bedeutet, mehr finanzielle Freiheit zu gewinnen. Frugalisten suchen nach Wegen, um ihre Ausgaben zu reduzieren, ohne dabei auf Lebensqualität zu verzichten. Dazu zählen einfache Dinge wie die Vermeidung unnötiger Käufe, die Nutzung öffentlicher Verkehrsmittel oder das Zubereiten von Mahlzeiten zu Hause, anstatt auswärts zu essen. Diese Strategien erlauben es, Geld zu sparen und es in sinnvolle Dinge zu investieren, wie Bildung oder Reisen. Darüber hinaus fördert Frugalismus ein bewusstes Konsumverhalten, das die Umwelt schont und die Lebenszufriedenheit erhöht. Indem man bewusste Entscheidungen trifft und auf materielle Überflüssigkeiten verzichtet, können Frugalisten ein Leben führen, das von Werten und Sinnhaftigkeit geprägt ist. Letztlich zeigt der Frugalismus, dass Glück nicht im Konsum, sondern in der Achtsamkeit und dem Streben nach einem erfüllten Leben zu finden ist.</description>
+      <link>https://deinewebsite.de/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1781862446-5262158721937484339</guid>
+      <pubDate>Fri, 19 Jun 2026 09:47:25 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein fortlaufender Prozess, der uns ein Leben lang begleitet. Es geht darum, das eigene Potenzial zu erkennen und kontinuierlich daran zu arbeiten, es auszuschöpfen. Jeder Mensch hat individuelle Stärken und Schwächen, und der Schlüssel zur Selbstverbesserung liegt darin, selbstreflektiert zu sein. Dies kann durch verschiedene Methoden erfolgen, wie Journaling, Meditation oder das Setzen von Zielen. Wichtig ist auch, sich Herausforderungen zu stellen, denn nur durch das Verlassen der eigenen Komfortzone können wir wachsen und uns weiterentwickeln.
 
@@ -520,18 +528,10 @@ Letztlich erfordert Selbstentwicklung Geduld und Durchhaltevermögen. Jeder Schr
       <guid isPermaLink="false">1776581366-5825849195602766423</guid>
       <pubDate>Sun, 19 Apr 2026 06:49:25 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kraft des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Lebensstil; es ist eine Philosophie, die uns dazu anregt, bewusster mit unseren Ressourcen umzugehen. In einer Welt, die häufig von Überfluss und Konsum geprägt ist, bietet Minimalismus einen erfrischenden Kontrast. Es geht nicht nur darum, materielle Besitztümer zu reduzieren, sondern auch um das Streben nach innerer Freiheit und Klarheit. Durch das Entfernen von Unnötigem schaffen wir Raum für die Dinge, die wirklich zählen: Zeit mit geliebten Menschen, persönliche Entwicklung und sinnvolle Erfahrungen. Zu einem minimalistischen Leben gehört auch eine bewusste Auswahl der Informationen, die wir konsumieren, sowie der Aktivitäten, denen wir unsere Zeit widmen. Indem wir uns auf das Wesentliche konzentrieren, können wir Stress reduzieren und unser Wohlbefinden steigern. Minimalismus lehrt uns, dass wir nicht mehr brauchen, um glücklicher zu sein; manchmal ist weniger tatsächlich mehr.</description>
-      <link>https://www.beispielseite.de/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1776492967-9120796460440443047</guid>
-      <pubDate>Sat, 18 Apr 2026 06:16:06 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 18 Jun 2026 09:21:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:47:25 +0000</lastBuildDate>
     </channel>
   </rss>
