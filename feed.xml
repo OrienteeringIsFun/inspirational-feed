@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Die Kunst des Minimalismus</title>
+      <description>Minimalismus ist nicht nur ein Lebensstil, sondern eine Philosophie, die uns dazu anregt, das Wesentliche zu schätzen. In einer Welt voller Ablenkungen und Überfluss bietet minimalistische Lebensweise einen klaren Weg zu mehr Klarheit und Zufriedenheit. Durch bewusste Entscheidungen bezüglich unserer Besitztümer und Verpflichtungen reduzieren wir Überflüssiges und schaffen Raum für das, was uns wirklich wichtig ist. Der Prozess beginnt oft mit einer Bestandsaufnahme und der Frage: 'Was brauche ich wirklich?'. Indem wir uns von unverlangten Objekten und überflüssigem Ballast befreien, können wir uns auf die Dinge konzentrieren, die Freude und Erfüllung bringen. Minimalismus kann auch unsere mentale Gesundheit fördern, da weniger Besitztümer weniger Stress bedeuten. Es geht nicht darum, absolut nichts zu besitzen, sondern vielmehr darum, bewusst zu konsumieren und Qualität über Quantität zu stellen. In diesem Sinne ermutigt Minimalismus uns, unsere Werte neu zu definieren und ein bewussteres, erfüllteres Leben zu führen.</description>
+      <link>https://example.com/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1782032406-3952998607318477251</guid>
+      <pubDate>Sun, 21 Jun 2026 09:00:06 +0000</pubDate>
+      </item>
+    <item>
       <title>Intelligentes Investieren für die Zukunft</title>
       <description>Investieren ist eine der wichtigsten Entscheidungen, die wir für unsere finanzielle Zukunft treffen können. Es geht nicht nur darum, Geld zu vermehren, sondern auch darum, Sicherheit und Unabhängigkeit zu schaffen. Der Schlüssel zu einem erfolgreichen Investment liegt im Verständnis der Risiken und Chancen. Zunächst sollten Sie sich klare Ziele setzen: Möchten Sie für die Altersvorsorge sparen, ein Eigenheim finanzieren oder für Ihre Kinder vorsorgen? Die Beantwortung dieser Fragen hilft Ihnen, die richtigen Anlageformen auszuwählen. Aktien, Anleihen, Immobilien oder Fonds – jede Anlageklasse hat ihre Vor- und Nachteile. Diversifikation ist entscheidend, um das Risiko zu minimieren und gleichzeitig von verschiedenen Märkten zu profitieren. Zudem ist es wichtig, regelmäßig das eigene Portfolio zu überprüfen und Anpassungen vorzunehmen, um auf Marktveränderungen zu reagieren. Bildung ist hier der beste Weg: Je mehr Sie über die Märkte und Anlagestrategien wissen, desto sicherer werden Sie in Ihren Entscheidungen. Auf lange Sicht lohnt sich die Geduld und das stetige Lernen.</description>
       <link>https://www.example.com/investieren</link>
@@ -516,18 +524,10 @@ Durch die bewusste Entscheidung, Ressourcen nicht überflüssig zu verschwenden,
       <guid isPermaLink="false">1776754869-8779445153073289785</guid>
       <pubDate>Tue, 21 Apr 2026 07:01:08 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugalismus: Der Weg zu einem erfüllten Leben</title>
-      <description>Frugalismus ist mehr als nur ein sparsamer Lebensstil; es ist eine Philosophie, die sich darauf konzentriert, mit dem auszukommen, was man hat, und die eigenen Prioritäten neu zu definieren. Die Idee ist, bewusst auf überflüssige Ausgaben zu verzichten und stattdessen das Geld in das zu investieren, was für das persönliche Glück und die Lebensqualität von Bedeutung ist. Viele Frugalisten berichten, dass sie durch den Verzicht auf materielle Dinge mehr Zufriedenheit und Freiheit erfahren haben. Dieser Lebensstil ermutigt dazu, den Konsumkritisch zu hinterfragen und die eigenen Werte zu reflektieren. Oftmals wird der Fokus auf persönliche Entwicklung und finanzielle Unabhängigkeit gelegt, was nicht nur die finanzielle Situation verbessert, sondern auch den Geist befreit. Letztlich verhilft der Frugalismus dazu, ein einfaches, aber erfülltes Leben zu führen, das von echten Werten und nicht von materiellen Besitztümern geprägt ist.</description>
-      <link>https://www.example.com/frugalismus</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1776669664-3917258053309916455</guid>
-      <pubDate>Mon, 20 Apr 2026 07:21:03 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 20 Jun 2026 08:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:00:06 +0000</lastBuildDate>
     </channel>
   </rss>
