@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Minimalismus: Weniger ist mehr</title>
+      <description>Minimalismus ist mehr als nur ein Trend, es ist eine Lebensphilosophie, die darauf abzielt, das Überflüssige aus unserem Leben zu entfernen. Durch die Reduktion materieller Besitztümer schaffen wir Platz für das Wesentliche. Die Vorstellung, mit weniger auszukommen, kann überwältigend erscheinen, bietet jedoch zahlreiche Vorteile. In einer Welt, die oft überladen und hektisch ist, ermöglicht Minimalismus einen klaren Kopf und einen reduzierten Stresslevel. Es geht darum, die Dinge zu schätzen, die wirklich wichtig sind, sei es Zeit mit Freunden und Familie, Kreativität oder persönliche Entfaltung. Indem wir uns von unnötigen Gegenständen und Verpflichtungen trennen, gewinnen wir Freiheit und Raum für Individualität. Minimalismus lehrt uns, bewusster zu leben und Entscheidungen zu hinterfragen. Die Freude an der Einfachheit zeigt sich in den kleinen Dingen des Alltags, die oft übersehen werden. Wer minimalistisch lebt, kann nicht nur die Umwelt entlasten, sondern auch zu einem harmonischeren und erfüllten Leben gelangen.</description>
+      <link>https://beispielurl.de/minimalismus</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1782376113-3705703807051880072</guid>
+      <pubDate>Thu, 25 Jun 2026 08:28:33 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Grundlagen des Investierens für Einsteiger</title>
       <description>Investieren ist ein bedeutender Schritt auf dem Weg zu finanzieller Freiheit. Doch für viele wirkt die Welt der Investments abschreckend und komplex. Ein guter Startpunkt ist, sich mit den verschiedenen Anlageklassen vertraut zu machen. Dazu zählen Aktien, Anleihen, Immobilien und Rohstoffe. Jeder dieser Bereiche hat seine eigenen Risiken und Chancen. Eine ausgewogene Diversifikation ist entscheidend, um das Risiko zu minimieren und das Potenzial für Renditen zu maximieren.
 
@@ -518,18 +526,10 @@ Durch die bewusste Entscheidung, Ressourcen nicht überflüssig zu verschwenden,
       <guid isPermaLink="false">1777098171-1244311483123327329</guid>
       <pubDate>Sat, 25 Apr 2026 06:22:50 +0000</pubDate>
       </item>
-    <item>
-      <title>Der Weg des Frugalismus: Leben mit Bedacht</title>
-      <description>Frugalismus ist mehr als nur ein Lebensstil; es ist eine Philosophie, die sich auf das Wesentliche konzentriert. Durch bewussten Konsum und das Reduzieren von überflüssigem Ballast ermöglichen Frugalisten ein einfacheres, aber erfüllteres Leben. Anstatt dem Drang nach materiellem Wohlstand nachzugeben, legen sie den Fokus auf persönliche Freiheit und finanzielle Unabhängigkeit. Diese Denkweise fördert nicht nur den Verzicht auf unnötige Einkäufe, sondern ermutigt auch zu nachhaltigen Entscheidungen, die der Umwelt zugutekommen. Im Alltag bedeutet das oft, kreative Wege zu finden, um Geld zu sparen, sei es durch DIY-Projekte, Second-Hand-Käufe oder das Vermeiden von Konsumf pressure. Frugalismus geht weit über das Sparen hinaus; er führt zu einer Neukonzeption unserer Werte und Prioritäten. Indem wir uns von überflüssigem Besitz trennen, schaffen wir Raum für das, was wirklich zählt: Erfahrungen, Beziehungen und die Gesundheit. Letztlich ist Frugalismus ein Aufruf, das Leben mit Bedacht zu leben und sich auf die Dinge zu konzentrieren, die uns wirklich glücklich machen.</description>
-      <link>https://www.beispielseite.de/frugalismus</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1777014421-3585880153059229696</guid>
-      <pubDate>Fri, 24 Apr 2026 07:07:01 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:29:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:28:33 +0000</lastBuildDate>
     </channel>
   </rss>
