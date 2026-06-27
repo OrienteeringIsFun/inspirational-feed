@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Die Kunst des bewussten Lebens</title>
+      <description>Frugalismus ist ein Lebensstil, der immer mehr Menschen anspricht, die in einer konsumorientierten Welt nach mehr Zufriedenheit und Freiheit streben. Durch bewusstes Reduzieren der Ausgaben und den Fokus auf das Wesentliche ermöglichen Frugalisten sich nicht nur eine gesunde finanzielle Basis, sondern auch eine tiefere persönliche Erfüllung. Ein entscheidendes Element des Frugalismus ist die Auseinandersetzung mit den eigenen Werten und Bedürfnissen. Statt dem Erwerb von materiellem Besitz hinterherzujagen, investieren Frugalisten in Erlebnisse, Bildung und persönliche Entwicklung. Dieser Lebensstil geht oft Hand in Hand mit Minimalismus, da er auf die Idee basiert, nur das zu besitzen, was wirklich notwendig ist. So wird der Alltag entschleunigt und unnötiger Stress vermieden. Frugalismus ermutigt dazu, bewusste Entscheidungen zu treffen und die Kontrolle über die eigene finanzielle Situation zu übernehmen. Indem man lernen kann, was man wirklich braucht, wird nicht nur Geld gespart, sondern auch das eigene Leben bereichert.</description>
+      <link>https://www.frugalismus.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1782546790-8754703810658226107</guid>
+      <pubDate>Sat, 27 Jun 2026 07:53:10 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung: Kleine Schritte, große Veränderungen</title>
       <description>Selbstentwicklung ist ein fortwährender Prozess, der entscheidend für das persönliche Wachstum ist. Jeder Mensch hat das Potenzial, seine Fähigkeiten zu erweitern und seine Lebensqualität zu verbessern. Ein guter Ausgangspunkt für diesen Prozess ist die Selbstreflexion. Indem wir uns regelmäßig Zeit nehmen, über unsere Stärken, Schwächen und Lebensziele nachzudenken, können wir gezielte Schritte zur Verbesserung unternehmen. Das Setzen von realistischen Zielen ist ebenfalls wichtig. Diese Ziele sollten spezifisch, messbar, erreichbar, relevant und zeitgebunden (SMART) sein, um den Fortschritt klar verfolgen zu können. Zudem ist die Bereitschaft, Rückschläge als Lernchancen zu sehen, entscheidend. Statt sich von Misserfolgen entmutigen zu lassen, können sie uns wertvolle Lektionen über Resilienz und Durchhaltevermögen lehren. Letztlich erfordert Selbstentwicklung Geduld und Engagement, aber die positiven Veränderungen, die daraus resultieren, sind es wert.</description>
       <link>https://www.selbstentwicklung.de/artikel/selbstentwicklung</link>
@@ -518,18 +526,10 @@ Durch die bewusste Entscheidung, Ressourcen nicht überflüssig zu verschwenden,
       <guid isPermaLink="false">1777275505-1391040400751995603</guid>
       <pubDate>Mon, 27 Apr 2026 07:38:24 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kraft des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensweise, die uns hilft, Klarheit und Fokus zu gewinnen. In einer Welt, die oft von Überfluss und Ablenkungen geprägt ist, kann das Streben nach weniger nicht nur Platz schaffen, sondern auch Raum für das Wesentliche. Durch das Reduzieren materieller Besitztümer lernen wir, wertvolle Dinge zu schätzen – sei es die Zeit mit geliebten Menschen, Hobbys oder einfach Stille. Minimalismus fördert ein bewussteres Leben, in dem wir uns weniger von Konsum und Äußerlichkeiten leiten lassen. Stattdessen fügen wir unserem Alltag bedeutungsvolle Erfahrungen hinzu. Der Prozess, überflüssige Dinge loszulassen, kann befreiend sein und uns neue Perspektiven aufzeigen. Indem wir uns auf das Wesentliche konzentrieren, gewinnen wir an Lebensqualität und Zufriedenheit. Ein minimalistisches Leben kann sowohl emotional als auch finanziell entlastend wirken und dazu beitragen, Klarheit über unsere Ziele und Wünsche zu gewinnen.</description>
-      <link>https://www.minimalismus.de</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1777186888-347347931026465260</guid>
-      <pubDate>Sun, 26 Apr 2026 07:01:27 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:53:10 +0000</lastBuildDate>
     </channel>
   </rss>
