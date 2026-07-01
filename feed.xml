@@ -2,6 +2,16 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Weg zu finanziellem und persönlichem Glück</title>
+      <description>Frugalismus ist mehr als nur eine Lebensweise; es ist eine Einstellung, die es Menschen ermöglicht, bewusster und nachhaltiger zu leben. Im Kern geht es darum, die eigenen Ausgaben zu minimieren und die finanziellen Mittel für das Wesentliche zu verwenden. Frugalisten setzen auf ein einfaches Leben, in dem materielle Besitztümer und Konsum überdacht werden. Sie investieren ihre Ressourcen in Erfahrungen, persönliche Entwicklung und finanzielle Freiheit. 
+
+Durch gezielte Reduzierung von Ausgaben – sei es durch den Verzicht auf unnötige Luxusgüter oder durch die Wahl nachhaltiger Alternativen – schaffen Frugalisten Raum für das, was wirklich zählt. Oft führt dieser Lebensstil nicht nur zu einer signifikanten Verbesserung der finanziellen Situation, sondern auch zu mehr Zeit für Familie, Freunde und persönliche Projekte. Im Gegenteil zu manchem Missverständnis ist Frugalismus nicht gleichbedeutend mit Geiz; vielmehr handelt es sich um einen bewussten Umgang mit Geld und Ressourcen, der zu größerer Zufriedenheit führen kann.</description>
+      <link>https://www.frugalismus.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1782895940-2949761322134512544</guid>
+      <pubDate>Wed, 01 Jul 2026 08:52:20 +0000</pubDate>
+      </item>
+    <item>
       <title>Die Kraft der Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein zentraler Aspekt unseres Lebens und trägt maßgeblich zu unserem Wohlbefinden und unserer Zufriedenheit bei. Dieser Prozess umfasst nicht nur das Erlernen neuer Fähigkeiten, sondern auch die Reflektion über eigene Werte, Ziele und Verhaltensmuster. Um sich persönlich weiterzuentwickeln, ist es wichtig, sich regelmäßig Zeit für sich selbst zu nehmen. Das kann durch Journaling, Meditation oder auch durch das Lesen inspirierender Bücher geschehen. Zudem ist die Auseinandersetzung mit Feedback von anderen eine wertvolle Quelle für Wachstum. Fehler sollten nicht als Misserfolge betrachtet werden, sondern als Chancen, sich weiterzuentwickeln und zu lernen. Ziel ist es, die eigene Komfortzone zu verlassen und neue Erfahrungen zu sammeln. Indem wir unsere Stärken und Schwächen erkunden, können wir an uns arbeiten und unsere Lebensqualität nachhaltig verbessern. Selbstentwicklung ist somit ein lebenslanger Prozess, der uns dabei hilft, authentischer und erfüllter zu leben.</description>
       <link>https://www.beispielseite.de/selbstentwicklung</link>
@@ -518,18 +528,10 @@ Durch die bewusste Entscheidung, Ressourcen nicht überflüssig zu verschwenden,
       <guid isPermaLink="false">1777620648-4504788344386907734</guid>
       <pubDate>Fri, 01 May 2026 07:30:48 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kunst des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Trend; es ist eine Lebensweise, die sich auf das Wesentliche konzentriert. In einer Welt voller Überfluss und ständiger Ablenkungen hilft Minimalismus, sich auf die Dinge zu besinnen, die wirklich zählen. Es geht darum, Besitz und Verpflichtungen zu reduzieren, um Raum für Freiheit und Klarheit zu schaffen. Viele Menschen empfinden eine innere Ruhe, wenn sie sich von überflüssigen Gegenständen trennen. Durch die Schaffung eines minimalistischen Lebensstils können Stress und Unordnung abgebaut werden, was zu einer höheren Lebensqualität führen kann. Zudem fördert Minimalismus auch die Selbstreflexion: Wer sich auf das Wesentliche konzentriert, erkennt schneller eigene Prioritäten und Werte. Das Ziel ist nicht nur, weniger zu besitzen, sondern auch, bewusster zu leben. Jeder kann minimalistische Ansätze in seinen Alltag integrieren, sei es durch das Entrümpeln von Wohnräumen oder das Reduzieren von digitalen Ablenkungen. Minimalismus ist somit ein Weg, um mehr Klarheit und Fokus im Leben zu finden.</description>
-      <link>https://www.beispielseite.de/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1777534361-8242322994377813174</guid>
-      <pubDate>Thu, 30 Apr 2026 07:32:40 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:52:20 +0000</lastBuildDate>
     </channel>
   </rss>
