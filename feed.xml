@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Strategien für nachhaltiges Investieren</title>
+      <description>Investieren kann eine kraftvolle Möglichkeit sein, finanzielle Sicherheit aufzubauen und Vermögen zu vermehren. Dabei sollte jedoch nicht nur auf Renditen geachtet werden, sondern auch auf die ethischen Aspekte der Geldanlage. Immer mehr Menschen interessieren sich für nachhaltige Investitionen, die Umweltschutz, Sozialverantwortung und Unternehmensführung (ESG-Kriterien) berücksichtigen. Diese Form des Investierens kann helfen, positive Veränderungen in der Gesellschaft zu fördern und gleichzeitig von den möglichen Gewinnen zu profitieren. Wichtig ist, sich vor der Investition gut zu informieren und die verschiedenen Anlagemöglichkeiten, wie etwa nachhaltige Fonds oder Aktien von Unternehmen mit positiven ökologischen Bilanzen, zu prüfen. Zudem sollte man sich über die eigenen Werte im Klaren sein und diese in den Anlageentscheidungen reflektieren. Letztlich ist nachhaltiges Investieren nicht nur eine finanzielle Entscheidung, sondern auch ein Statement für eine bessere Zukunft.</description>
+      <link>https://www.investieren-nachhaltig.de</link>
+      <category>Investieren</category>
+      <guid isPermaLink="false">1782980256-829346016485758770</guid>
+      <pubDate>Thu, 02 Jul 2026 08:17:36 +0000</pubDate>
+      </item>
+    <item>
       <title>Frugalismus: Ein Weg zu finanziellem und persönlichem Glück</title>
       <description>Frugalismus ist mehr als nur eine Lebensweise; es ist eine Einstellung, die es Menschen ermöglicht, bewusster und nachhaltiger zu leben. Im Kern geht es darum, die eigenen Ausgaben zu minimieren und die finanziellen Mittel für das Wesentliche zu verwenden. Frugalisten setzen auf ein einfaches Leben, in dem materielle Besitztümer und Konsum überdacht werden. Sie investieren ihre Ressourcen in Erfahrungen, persönliche Entwicklung und finanzielle Freiheit. 
 
@@ -520,18 +528,10 @@ Durch die bewusste Entscheidung, Ressourcen nicht überflüssig zu verschwenden,
       <guid isPermaLink="false">1777705465-8527580562228683869</guid>
       <pubDate>Sat, 02 May 2026 07:04:24 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kraft der Selbstentwicklung</title>
-      <description>Selbstentwicklung ist ein kontinuierlicher Prozess der persönlichen Wachstums. Sie beginnt oft mit einer Reflexion über die eigenen Ziele, Werte und Träume. In einer Welt, die ständig im Wandel ist, ist es wichtig, sich selbst immer wieder zu hinterfragen und die eigenen Fähigkeiten auszubauen. Techniken wie Journaling, Meditation oder das Setzen von SMART-Zielen können dabei helfen, klare Visionen für die Zukunft zu entwickeln. Ein weiterer Schlüssel zur Selbstentwicklung ist, sich aus der Komfortzone zu bewegen. Neue Herausforderungen bringen oft wertvolle Erkenntnisse und fördern das persönliche Wachstum. Zudem sollte man sich regelmäßig Feedback von Freunden oder Mentoren einholen. Diese Menschen können wertvolle Perspektiven bieten und helfen, blinde Flecken zu erkennen. Letztlich führt die aktive Auseinandersetzung mit sich selbst zu einem erfüllten und selbstbewussten Leben. Jeder Schritt in Richtung Selbstentwicklung ist ein Schritt zu einem besseren Ich.</description>
-      <link>https://www.beispielurl.de/selbstentwicklung</link>
-      <category>Selbstentwicklung</category>
-      <guid isPermaLink="false">1777620648-4504788344386907734</guid>
-      <pubDate>Fri, 01 May 2026 07:30:48 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:17:36 +0000</lastBuildDate>
     </channel>
   </rss>
