@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Minimalistische Mobilität</title>
+      <description>Frugalismus in der Mobilität bedeutet, Wege bewusst zu gestalten, sodass Zeit, Geld und Umwelt gleichermaßen profitieren. Analysiere deine regelmäßigen Strecken und prüfe, welche du kombinieren, delegieren oder durch Remote-Arbeit ersetzen kannst. Teste eine Woche lang, alle Wege unter fünf Kilometern mit Fahrrad, ÖPNV oder Carsharing zu absolvieren. Vergleiche anschließend Kosten, Reisezeit und Energielevel, um bewusste Entscheidungen für langfristige Mobilitätsabos zu treffen. Wartungstermine für Fahrräder oder geteilte Fahrzeuge planst du frühzeitig, damit Zuverlässigkeit und Sicherheit gewährleistet bleiben. Nutze Mitfahrgelegenheiten für längere Strecken und kombiniere sie mit produktiven Hörbüchern oder inspirierenden Gesprächen. Investiere stattdessen in hochwertige Ausrüstung wie Regenkleidung, Beleuchtung und Gepäcksysteme, die deinen Alltag erleichtern. Halte deine Mobilitätskosten in einem Monatsjournal fest und feiere Einsparungen, indem du sie auf Ziele umleitest. Teile Erfahrungen mit Freunden, um neue Routen, Fahrgemeinschaften oder Ticketmodelle zu entdecken, die allen zugutekommen. So wird Mobilität zum bewussten Baustein deiner finanziellen Freiheit, statt zum ständigen Kostenfaktor im Hintergrund.</description>
+      <link>https://utopia.de/ratgeber/mobilitaet-alternativen-auto/</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1783413044-6734784498512545525</guid>
+      <pubDate>Tue, 07 Jul 2026 08:30:43 +0000</pubDate>
+      </item>
+    <item>
       <title>Intelligent Investieren: Der Schlüssel zu finanzieller Freiheit</title>
       <description>Investieren ist eine der effektivsten Methoden, um Vermögen aufzubauen und finanzielle Sicherheit zu erlangen. Der erste Schritt des Investierens besteht darin, sich Gedanken über seine finanziellen Ziele zu machen. Möchte man für die Rente sparen, ein Eigenheim kaufen oder für die Ausbildung der Kinder vorsorgen? Jeder dieser Zwecke erfordert eine unterschiedliche Strategie. Ein diversifiziertes Portfolio, das aus Aktien, Anleihen und anderen Anlageformen besteht, kann helfen, das Risiko zu minimieren und gleichzeitig das Wachstum des Vermögens zu fördern. Bei der Auswahl von Anlagen ist es wichtig, sich über die verschiedenen Möglichkeiten zu informieren und sich nicht von Emotionen leiten zu lassen. Langfristiges Denken und Geduld sind dabei entscheidend. Auch regelmäßige Investitionen, etwa durch einen Sparplan, können dazu beitragen, von Marktschwankungen zu profitieren. Letztlich ist es unerlässlich, die eigenen Finanzen gut im Blick zu behalten und sich gegebenenfalls von Experten beraten zu lassen, um kluge Entscheidungen zu treffen.</description>
       <link>https://www.investierenbeispiel.de</link>
@@ -516,22 +524,10 @@ Mit jedem Schritt in Richtung Minimalismus können wir unser Leben neu gestalten
       <guid isPermaLink="false">1778140006-6846482970806678397</guid>
       <pubDate>Thu, 07 May 2026 07:46:46 +0000</pubDate>
       </item>
-    <item>
-      <title>Frugalismus: Ein bewusster Lebensstil</title>
-      <description>Frugalismus ist mehr als nur ein sparsamer Lebensstil; es ist eine Philosophie, die sich darauf konzentriert, das Wesentliche im Leben zu schätzen. Während viele Menschen im ständigen Streben nach materiellem Wohlstand gefangen sind, lehren uns Frugalisten, bewusster mit unseren Ressourcen umzugehen. Dies bedeutet nicht, auf alles zu verzichten, was Freude bringt, sondern sorgfältig zu überlegen, wo wir unser Geld und unsere Zeit investieren. 
-
-Durch das Praktizieren von Frugalismus können Individuen finanzielle Freiheit erlangen, indem sie ihre Ausgaben reduzieren und unnötige Verpflichtungen vermeiden. Dies führt oft zu einem einfacheren, erfüllteren Leben, in dem mehr Zeit für persönliche Beziehungen und Selbstverwirklichung bleibt. 
-
-Der erste Schritt zum Frugalismus ist eine Bestandsaufnahme der eigenen Ausgaben und Bedürfnisse. Indem man lernt, was wirklich zählt, kann man Begierden von echten Bedürfnissen unterscheiden und so bewusste Entscheidungen treffen, die langfristige Vorteile bieten. Diese Lebensweise fördert nicht nur einen nachhaltigen Umgang mit Ressourcen, sondern auch eine tiefere Wertschätzung für das, was wir bereits besitzen.</description>
-      <link>https://www.frugalismus.de</link>
-      <category>Frugalismus</category>
-      <guid isPermaLink="false">1778053183-8656113424594614292</guid>
-      <pubDate>Wed, 06 May 2026 07:39:43 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 06 Jul 2026 09:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:30:43 +0000</lastBuildDate>
     </channel>
   </rss>
