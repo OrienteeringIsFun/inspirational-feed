@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung</title>
+      <description>Selbstentwicklung ist ein lebenslanger Prozess, der individuelle Freiheit, persönliche Erfüllung und das Streben nach Selbstverwirklichung umfasst. Jeder Mensch hat die Fähigkeit, sich weiterzuentwickeln, neue Fähigkeiten zu erwerben und seine Perspektiven zu erweitern. Ein wichtiger Schritt auf diesem Weg ist die Reflexion über eigene Werte, Ziele und Träume. Es ist entscheidend, sich regelmäßig Zeit zu nehmen, um über eigene Fortschritte nachzudenken und gegebenenfalls Anpassungen vorzunehmen. Zudem können das Lesen von inspirierenden Büchern, der Austausch mit Gleichgesinnten und die Teilnahme an Workshops wertvolle Impulse geben. Auch das Setzen von konkreten Zielen ist unerlässlich, um Motivation und Fokus zu bewahren. Dabei sollte der Prozess der Selbstentwicklung nicht nur als persönliches Projekt angesehen werden, sondern auch in Verbindung mit der Gemeinschaft stehen, in der wir leben. Indem wir unsere Erfahrungen teilen und voneinander lernen, fördern wir nicht nur unsere eigene Entwicklung, sondern tragen auch zur positiven Transformation unserer Umwelt bei.</description>
+      <link>https://www.selbstentwicklung.de</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1783496187-1694752881683145260</guid>
+      <pubDate>Wed, 08 Jul 2026 07:36:27 +0000</pubDate>
+      </item>
+    <item>
       <title>Minimalistische Mobilität</title>
       <description>Frugalismus in der Mobilität bedeutet, Wege bewusst zu gestalten, sodass Zeit, Geld und Umwelt gleichermaßen profitieren. Analysiere deine regelmäßigen Strecken und prüfe, welche du kombinieren, delegieren oder durch Remote-Arbeit ersetzen kannst. Teste eine Woche lang, alle Wege unter fünf Kilometern mit Fahrrad, ÖPNV oder Carsharing zu absolvieren. Vergleiche anschließend Kosten, Reisezeit und Energielevel, um bewusste Entscheidungen für langfristige Mobilitätsabos zu treffen. Wartungstermine für Fahrräder oder geteilte Fahrzeuge planst du frühzeitig, damit Zuverlässigkeit und Sicherheit gewährleistet bleiben. Nutze Mitfahrgelegenheiten für längere Strecken und kombiniere sie mit produktiven Hörbüchern oder inspirierenden Gesprächen. Investiere stattdessen in hochwertige Ausrüstung wie Regenkleidung, Beleuchtung und Gepäcksysteme, die deinen Alltag erleichtern. Halte deine Mobilitätskosten in einem Monatsjournal fest und feiere Einsparungen, indem du sie auf Ziele umleitest. Teile Erfahrungen mit Freunden, um neue Routen, Fahrgemeinschaften oder Ticketmodelle zu entdecken, die allen zugutekommen. So wird Mobilität zum bewussten Baustein deiner finanziellen Freiheit, statt zum ständigen Kostenfaktor im Hintergrund.</description>
       <link>https://utopia.de/ratgeber/mobilitaet-alternativen-auto/</link>
@@ -516,18 +524,10 @@ Mit jedem Schritt in Richtung Minimalismus können wir unser Leben neu gestalten
       <guid isPermaLink="false">1778223388-4401705250794088309</guid>
       <pubDate>Fri, 08 May 2026 06:56:27 +0000</pubDate>
       </item>
-    <item>
-      <title>Nachhaltig Investieren: Für eine bessere Zukunft</title>
-      <description>Investieren ist nicht nur eine Möglichkeit, Wohlstand aufzubauen, sondern auch eine Entscheidung, die Auswirkungen auf unsere Gesellschaft und Umwelt hat. Immer mehr Menschen erkennen die Bedeutung von nachhaltigem Investieren, bei dem finanzielle Ziele mit ethischen und sozialen Werten verknüpft werden. ESG-Kriterien (Umwelt, Soziale Verantwortung und Unternehmensführung) spielen dabei eine zentrale Rolle. Durch die Auswahl von Unternehmen, die hohe Standards in diesen Bereichen einhalten, können Anleger ihren Einfluss auf die Märkte nutzen und positive Veränderungen fördern. Die Verantwortung als Investor bedeutet nicht nur die Maximierung von Renditen, sondern auch das Bewusstsein für die eigenen Entscheidungen. Schließlich zeigt sich, dass nachhaltige Investments nicht nur gut für die Welt sind, sondern oft auch langfristig vergleichbare oder sogar überlegene Renditen erzielen können. So wird das Geld nicht nur für persönliche finanzielle Ziele eingesetzt, sondern auch für eine bessere Zukunft der kommenden Generationen.</description>
-      <link>https://www.example.com/nachhaltig-investieren</link>
-      <category>Investieren</category>
-      <guid isPermaLink="false">1778140006-6846482970806678397</guid>
-      <pubDate>Thu, 07 May 2026 07:46:46 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 07 Jul 2026 08:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:36:27 +0000</lastBuildDate>
     </channel>
   </rss>
