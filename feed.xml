@@ -2,6 +2,18 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Weg zu finanzieller Freiheit</title>
+      <description>Frugalismus ist mehr als nur ein Spartrend; es ist eine Lebenseinstellung, die darauf abzielt, den materiellen Konsum zu reduzieren und bewusstere Entscheidungen zu treffen. Frugalisten legen Wert auf finanzielle Unabhängigkeit, die ihnen die Freiheit gibt, ihr Leben nach eigenen Vorstellungen zu gestalten. Anstatt dem Konsumrausch und den gesellschaftlichen Erwartungen zu folgen, konzentrieren sie sich auf das Wesentliche und finden Freude in einfachen Dingen.
+
+Der Ansatz des Frugalismus kann nicht nur zu einem gesünderen finanziellen Lebensstil führen, sondern auch zu mehr innerem Frieden und Zufriedenheit. Viele Frugalisten sind überzeugt, dass weniger Besitz und geringerer materieller Aufwand letztlich mehr Lebensqualität bedeuten. Durch den Verzicht auf Überflüssiges schaffen sie Raum für persönliche Entfaltung und Investitionen in Erfahrungen, die langfristig bereichern.
+
+Die Philosophie des Frugalismus ermutigt Menschen, bewusster zu konsumieren, nachhaltige Entscheidungen zu treffen und aktiv für ihre Zukunft zu sparen.</description>
+      <link>https://www.frugalismus.de</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1783586382-8175641977100478084</guid>
+      <pubDate>Thu, 09 Jul 2026 08:39:42 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung</title>
       <description>Selbstentwicklung ist ein lebenslanger Prozess, der individuelle Freiheit, persönliche Erfüllung und das Streben nach Selbstverwirklichung umfasst. Jeder Mensch hat die Fähigkeit, sich weiterzuentwickeln, neue Fähigkeiten zu erwerben und seine Perspektiven zu erweitern. Ein wichtiger Schritt auf diesem Weg ist die Reflexion über eigene Werte, Ziele und Träume. Es ist entscheidend, sich regelmäßig Zeit zu nehmen, um über eigene Fortschritte nachzudenken und gegebenenfalls Anpassungen vorzunehmen. Zudem können das Lesen von inspirierenden Büchern, der Austausch mit Gleichgesinnten und die Teilnahme an Workshops wertvolle Impulse geben. Auch das Setzen von konkreten Zielen ist unerlässlich, um Motivation und Fokus zu bewahren. Dabei sollte der Prozess der Selbstentwicklung nicht nur als persönliches Projekt angesehen werden, sondern auch in Verbindung mit der Gemeinschaft stehen, in der wir leben. Indem wir unsere Erfahrungen teilen und voneinander lernen, fördern wir nicht nur unsere eigene Entwicklung, sondern tragen auch zur positiven Transformation unserer Umwelt bei.</description>
       <link>https://www.selbstentwicklung.de</link>
@@ -512,22 +524,10 @@ Zusätzlich ist das Setzen von klaren, realistischen Zielen entscheidend. Ziele 
       <guid isPermaLink="false">1778310950-2862423670010445493</guid>
       <pubDate>Sat, 09 May 2026 07:15:50 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kunst des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein Lifestyle-Trend; er ist eine Philosophie, die sich mit der Essenz des Lebens beschäftigt. In einer Welt voller überflüssiger Dinge und ständiger Ablenkungen fordert uns der Minimalismus dazu heraus, uns auf das Wesentliche zu besinnen. Indem wir uns von unnötigem Besitz trennen, schaffen wir Raum für die Dinge, die uns wirklich wichtig sind – sei es Zeit mit der Familie, persönliche Hobbys oder das Streben nach Selbstverwirklichung.
-
-Die Vorteile eines minimalistischen Lebensstils sind vielfältig. Er reduziert Stress, da Entscheidungsfindungen einfacher werden und weniger materielle Verpflichtungen uns belasten. Zudem fördert Minimalismus das bewusste Konsumverhalten: Wir lernen, jeder Anschaffung einen echten Wert beizumessen. Dieser zurückhaltende Lebensstil kann uns helfen, finanziell unabhängiger zu werden und die eigene Lebensqualität zu steigern, indem wir uns von gesellschaftlichem Druck befreien.
-
-Mit jedem Schritt in Richtung Minimalismus können wir unser Leben neu gestalten und die Freiheit entdecken, die mit weniger einhergeht.</description>
-      <link>https://www.example.com/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1778223388-4401705250794088309</guid>
-      <pubDate>Fri, 08 May 2026 06:56:27 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 08 Jul 2026 07:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:39:42 +0000</lastBuildDate>
     </channel>
   </rss>
