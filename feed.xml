@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Frugalismus: Ein Weg zu mehr Freiheit</title>
+      <description>Frugalismus ist ein Lebensstil, der sich auf das Wesentliche konzentriert und unnötige Ausgaben vermeidet. Die Idee dahinter ist, finanzielle Freiheit zu erlangen, indem man seinen Konsum drastisch reduziert. Frugalisten glauben, dass weniger oft mehr ist und dass ein bescheidener Lebensstil Glück und Erfüllung bringen kann. Anstatt für materielle Dinge zu arbeiten, investieren sie ihre Zeit und Ressourcen in Erfahrungen, Bildung und persönliche Entwicklung. Dieser Ansatz fördert ein bewusstes Leben, das über den reinen Konsum hinausgeht. Durch die Reduktion der Ausgaben können Frugalisten beispielsweise früher in Rente gehen und mehr Zeit mit ihren Lieben verbringen oder Hobbys nachgehen, die ihnen wirklich Freude bereiten. Durch einfache Lebensentscheidungen, wie das Kochen zu Hause anstelle von Essen gehen oder Second-Hand-Käufe, können sie nicht nur Geld sparen, sondern auch langfristig nachhaltiger leben. Frugalismus erfordert Disziplin und die Bereitschaft, von gesellschaftlichen Normen abzuweichen, aber die Belohnungen sind oft ein erfüllteres und selbstbestimmteres Leben.</description>
+      <link>https://www.example.com/frugalismus</link>
+      <category>Frugalismus</category>
+      <guid isPermaLink="false">1783931006-5228544317716441563</guid>
+      <pubDate>Mon, 13 Jul 2026 08:23:26 +0000</pubDate>
+      </item>
+    <item>
       <title>Der Weg zur Selbstentwicklung: Schritte in eine bessere Version seiner selbst</title>
       <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der uns ermöglicht, unsere Fähigkeiten, Talente und Potenziale zu entfalten. Der erste Schritt auf diesem Weg ist die Selbsterkenntnis. Wir müssen uns fragen, wer wir sind, was wir wollen und was uns im Leben erfüllt. Durch Reflexion und Achtsamkeit können wir mühelos eine tiefere Verbindung zu uns selbst aufbauen. Ein weiterer wichtiger Aspekt ist die persönliche Zielsetzung. Indem wir klare und erreichbare Ziele definieren, schaffen wir eine motivierende Richtung für unser Leben. Neben dem Setzen von Zielen ist auch das Lernen von neuen Fähigkeiten entscheidend. Ob durch Bücher, Kurse oder Workshops – lebenslanges Lernen inspiriert uns und eröffnet neue Perspektiven. Schließlich sollten wir uns mit positiven Einflüssen umgeben, die uns unterstützen und ermutigen, unser bestes Selbst zu erreichen. Der Schlüssel zur Selbstentwicklung liegt also in einer Kombination aus Selbstreflexion, Zielsetzung, Lernen und einem unterstützenden Umfeld.</description>
       <link>https://www.beispielseite.de/selbstentwicklung</link>
@@ -518,18 +526,10 @@ Zusätzlich ist das Setzen von klaren, realistischen Zielen entscheidend. Ziele 
       <guid isPermaLink="false">1778658978-7183586124469705729</guid>
       <pubDate>Wed, 13 May 2026 07:56:17 +0000</pubDate>
       </item>
-    <item>
-      <title>Minimalismus: Weniger ist mehr</title>
-      <description>In einer Welt, die von Überfluss und ständigem Konsum geprägt ist, gewinnt Minimalismus zunehmend an Bedeutung. Minimalismus bedeutet nicht nur, materielle Besitztümer zu reduzieren, sondern auch, sich von unnötigem Ballast im Leben zu befreien. Es geht darum, Raum für das Wesentliche zu schaffen und Prioritäten neu zu setzen. Statt sich mit Dingen zu umgeben, die letztlich keinen Mehrwert bieten, fokussiert sich ein minimalistischer Lebensstil auf das, was wirklich wichtig ist. Das kann Zeit mit Familie und Freunden, persönliche Entwicklung oder das Verfolgen von Hobbys umfassen. Minimalismus fördert zudem ein bewusstes Leben: Der Verzicht auf Überflüssiges kann zu mehr Zufriedenheit und innerer Ruhe führen. Indem man sich von materiellem Besitz löst, eröffnet man sich Freiräume für neue Erfahrungen und Ideen. Minimalismus ist somit nicht nur eine ästhetische Entscheidung, sondern ein ganzheitlicher Ansatz, der das Leben bereichern kann.</description>
-      <link>https://www.example.com/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1778572157-4029543632115286814</guid>
-      <pubDate>Tue, 12 May 2026 07:49:17 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 12 Jul 2026 07:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:23:26 +0000</lastBuildDate>
     </channel>
   </rss>
