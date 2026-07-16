@@ -2,6 +2,14 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Der Weg zur Selbstentwicklung: Kleine Schritte, große Veränderungen</title>
+      <description>Selbstentwicklung ist ein kontinuierlicher Prozess, der das Streben nach persönlichem Wachstum und Verbesserung umfasst. Es beginnt oft mit der Reflexion über die eigenen Werte, Ziele und Träume. Um diesen Weg zu beschreiten, ist es wichtig, sich realistische Ziele zu setzen und in kleinen, machbaren Schritten voranzugehen. Jeder Fortschritt, egal wie klein, bringt uns näher zu unserem idealen Selbst. Zudem kann das Lesen von Büchern, das Erlernen neuer Fähigkeiten oder das Besuchen von Workshops wertvolle Impulse geben. Ein weiterer Schlüssel zur Selbstentwicklung ist auch die Achtsamkeit; sie hilft, im Moment präsent zu sein und sich auf das Wesentliche zu konzentrieren. Regelmäßige Selbstbewertung und Feedback von vertrauten Personen können dabei unterstützen, blinde Flecken zu erkennen und an ihnen zu arbeiten. Insgesamt ist Selbstentwicklung ein persönlicher, individueller Weg, der Zeit, Geduld und Hingabe erfordert, aber letztendlich zu einem erfüllteren Leben führt.</description>
+      <link>https://www.example.com/selbstentwicklung</link>
+      <category>Selbstentwicklung</category>
+      <guid isPermaLink="false">1784186860-8798109236364011999</guid>
+      <pubDate>Thu, 16 Jul 2026 07:27:39 +0000</pubDate>
+      </item>
+    <item>
       <title>Minimalismus: Freiraum für das Wesentliche</title>
       <description>Minimalismus ist mehr als nur ein Lebensstil; er ist eine Philosophie, die uns lehrt, die Essenz dessen, was wichtig ist, zu erkennen und zu bewahren. In einer Welt, die oft von Überfluss und Konsum geprägt ist, gewinnt der bewusste Verzicht auf Überflüssiges an Bedeutung. Durch das Reduzieren materieller Besitztümer schaffen wir Raum für mehr Freiheit, Kreativität und Zeit für die Dinge, die unser Leben bereichern.\n\nDieser Ansatz fördert nicht nur ein aufgeräumtes Zuhause, sondern auch einen klaren Kopf. Minimalismus ermutigt uns, Prioritäten zu setzen und uns auf nachhaltige Werte zu konzentrieren. Anstatt Dinge anzuhäufen, erforschen wir, was uns wirklich glücklich macht.\n\nDie Befreiung von überflüssigem Ballast ist ein kraftvoller erster Schritt zu einem erfüllteren Leben. Indem wir uns auf das Wesentliche konzentrieren, finden wir Freude in einfachen Dingen und entdecken neue Perspektiven auf unsere Ziele und Träume. Minimalismus ist ein Weg, das Leben zu vereinfachen und die eigene Lebensqualität zu steigern.</description>
       <link>https://www.example.com/minimalismus</link>
@@ -514,18 +522,10 @@ Indem man in der Gegenwart lebt und unnötigen Stress vermeidet, fördert Frugal
       <guid isPermaLink="false">1779003503-1575224810214092622</guid>
       <pubDate>Sun, 17 May 2026 07:38:23 +0000</pubDate>
       </item>
-    <item>
-      <title>Die Kunst des Minimalismus</title>
-      <description>Minimalismus geht über das bloße Reduzieren von Besitztümern hinaus. Es ist eine Lebensphilosophie, die uns dazu anregt, über die Dinge, die wir besitzen und den Lebensstil, den wir führen, nachzudenken. In einer Welt, die oft von Konsumdruck und Überfluss geprägt ist, bietet Minimalismus die Möglichkeit, bewusster zu leben. Indem wir uns von unnötigem Ballast befreien, schaffen wir Raum für das, was wirklich zählt: Zeit für Familie und Freunde, Zeit für uns selbst, Raum für die eigenen Träume. Im Kern geht es darum, Prioritäten zu setzen und Entscheidungen zu treffen, die unsere Lebensqualität verbessern. Es ist erstaunlich, wie bereits kleine Veränderungen in unserem Umfeld zu mehr Klarheit und Zufriedenheit führen können. Minimalismus lehrt uns, dass weniger oft mehr ist und dass wahres Glück nicht im Konsum, sondern in der Einfachheit zu finden ist. Dieser Weg ist individuell und jeder kann für sich herausfinden, was Minimalismus bedeutet. Starten Sie heute, vielleicht mit einem einzigen Gegenstand, und entdecken Sie die Freiheit der Reduktion.</description>
-      <link>https://www.example.com/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1778916053-4682027750251482083</guid>
-      <pubDate>Sat, 16 May 2026 07:20:53 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 15 Jul 2026 07:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:27:39 +0000</lastBuildDate>
     </channel>
   </rss>
