@@ -2,6 +2,16 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Weniger ist mehr: Die Kraft des Minimalismus</title>
+      <description>Minimalismus ist mehr als nur ein ästhetisches Konzept, es ist eine Lebensweise, die immer mehr Menschen in der heutigen, von Konsum geprägten Gesellschaft anzieht. Der Ansatz besteht darin, sich auf das Wesentliche zu konzentrieren und Überflüssiges zu eliminieren. Es geht nicht nur um das Reduzieren von materiellen Besitztümern, sondern auch um die Vereinfachung von Gedanken, Verpflichtungen und Beziehungen. Durch das Loslassen von Ballast erfahren viele Minimalisten eine tiefere Lebenszufriedenheit und mehr geistige Klarheit.
+
+Ein minimalistischer Lebensstil kann dazu beitragen, Stress abzubauen und die Konzentration auf die Dinge zu lenken, die wirklich wichtig sind. Statt sich von materiellen Gütern definieren zu lassen, gewinnen Menschen durch Minimalismus Zeit für persönliche Entwicklung, Kreativität und zwischenmenschliche Beziehungen. Letztlich fördert Minimalismus ein bewussteres Leben, in dem Ressourcen geschätzt werden und der Fokus auf Erlebnissen und nicht auf Besitztümern liegt.</description>
+      <link>https://www.minimalismus.de</link>
+      <category>Minimalismus</category>
+      <guid isPermaLink="false">1786168122-3717180929983158774</guid>
+      <pubDate>Sat, 08 Aug 2026 05:48:42 +0000</pubDate>
+      </item>
+    <item>
       <title>Investieren für die Zukunft</title>
       <description>Investieren ist ein entscheidender Schritt, um finanzielle Sicherheit und Unabhängigkeit zu erreichen. Es geht nicht nur darum, Geld anzulegen, sondern auch darum, für sich selbst und seine Zukunft vorzusorgen. Ein kluger Investor erkennt, dass Zeit der wertvollste Faktor ist. Je früher man beginnt, desto mehr kann sich das investierte Kapital durch Zinsen und Zinseszinsen vermehren. 
 
@@ -500,18 +510,10 @@ Ein effektiver Ansatz zur Selbstentwicklung besteht darin, kleine, erreichbare Z
       <guid isPermaLink="false">1781081810-7502584864831349455</guid>
       <pubDate>Wed, 10 Jun 2026 08:56:49 +0000</pubDate>
       </item>
-    <item>
-      <title>Weniger ist mehr: Die Kunst des Minimalismus</title>
-      <description>Minimalismus ist mehr als nur ein ästhetischer Trend – es ist eine Lebensphilosophie, die uns dazu anregt, uns von Überflüssigem zu befreien und uns auf das Wesentliche zu konzentrieren. In einer Welt, die oft von Konsum und Materialismus geprägt ist, bietet der Minimalismus eine erfrischende Perspektive. Durch das Reduzieren von Besitztümern und dem Vereinfachen des Alltags können wir nicht nur Platz schaffen, sondern auch geistige Klarheit gewinnen. Weniger Dinge bedeuten weniger Ablenkungen, was mehr Raum für Kreativität und persönliche Entfaltung schafft. Die Prinzipien des Minimalismus lassen sich auf alle Lebensbereiche anwenden, sei es in der Wohnung, im Beruf oder in zwischenmenschlichen Beziehungen. Indem wir uns von den Fesseln des Überflusses lösen, können wir unseren Lebensstil bewusster gestalten und letztlich glücklicher und erfüllter leben. Es geht darum, die Zeit und Energie, die wir für materielle Dinge aufwenden, besser für die Dinge zu nutzen, die uns wirklich am Herzen liegen.</description>
-      <link>https://www.beispiel.de/minimalismus</link>
-      <category>Minimalismus</category>
-      <guid isPermaLink="false">1780994239-7432627605613698351</guid>
-      <pubDate>Tue, 09 Jun 2026 08:37:18 +0000</pubDate>
-      </item>
     <title>Inspirational feed</title>
     <link>https://orienteeringisfun.github.io/inspirational-feed/feed.xml</link>
     <description>Tägliche Nuggets mit Link zum Weiterlesen.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 07 Aug 2026 06:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:48:42 +0000</lastBuildDate>
     </channel>
   </rss>
